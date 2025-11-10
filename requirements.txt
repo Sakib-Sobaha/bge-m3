@@ -1,0 +1,7 @@
+FlagEmbedding==1.2.7
+transformers==4.57.1
+torch>=2.2
+faiss-gpu-cu12==1.12.0
+fastapi==0.121.1
+uvicorn==0.38.0
+pandas==2.3.3

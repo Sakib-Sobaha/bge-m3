@@ -1,0 +1,1903 @@
+question,tag
+"এনআইডি পোর্টাল বলছে আপনার অ্যাকাউন্ট লক করা হয়েছে, করণীয় কী?",account_locked
+"বাংলাদেশ নির্বাচন কমিশনের এনআইডি অনলাইন সেবায় লগইন দিলে অ্যাকাউন্ট লক দেখায়, কীভাবে আনলক করব?",account_locked
+"এনআইডি ওয়েব পোর্টালে একাউন্ট লক হয়ে গেছে বলে মেসেজ আসে, সমাধান কী?",account_locked
+"এনআইডি অনলাইন অ্যাকাউন্ট ভুল পাসওয়ার্ডে লক হয়ে গেছে, কী করতে হবে?",account_locked
+এনআইডি পোর্টালে আপনার একাউন্ট লকড দেখালে কার সঙ্গে যোগাযোগ করব?,account_locked
+এনআইডি অনলাইন সার্ভিসে অ্যাকাউন্ট লক হলে আনলক করার উপায় কী?,account_locked
+এনআইডি অনলাইন পোর্টালে অ্যাকাউন্ট লক হয়ে গেলে কি পাসওয়ার্ড রিসেট করে ঠিক হবে?,account_locked
+এনআইডি পোর্টালে লকড অ্যাকাউন্ট কীভাবে আবার চালু করব?,account_locked
+"আমার এনআইডি একাউন্ট লক হয়ে গেছে, ঠিক/ আনলক করে দেন।",account_locked
+"আমার এনআইডি অ্যাকাউন্ট লক হয়ে গেছে, দয়া করে আনলক করে দিন?",account_locked
+"ইসির এনআইডি অ্যাকাউন্ট লকড দেখাচ্ছে, এখনই আনলক করবেন?",account_locked
+"আমার এনআইডি প্রোফাইল লক হয়ে গেছে, কীভাবে আনলক করাব?",account_locked
+"ভুল পাসওয়ার্ডে এনআইডি অ্যাকাউন্ট লক হয়ে গেছে, আনলক করে দেবেন?",account_locked
+"ইসির এনআইডি অনলাইন অ্যাকাউন্ট লক হয়ে গেছে, দ্রুত আনলক করে দিন?",account_locked
+"এনআইডি সেলফ সার্ভিসে আমার অ্যাকাউন্ট লক হয়ে গেছে, দয়া করে সক্রিয় করুন?",account_locked
+"আমার এনআইডি লগইন ব্লক হয়ে গেছে, আনলক করতে সাহায্য করবেন?",account_locked
+"বাংলাদেশ নির্বাচন কমিশনের এনআইডি অ্যাকাউন্ট লক হয়ে গেছে, আনলক করবেন?",account_locked
+"একবার একাউন্ট লক হওয়ার পর পুনরায় সঠিক তথ্য দিলেও একাউন্ট লক দেখাচ্ছে, উপায় কি?",account_locked_retrials
+"নির্বাচন কমিশনের NID পোর্টালে একবার অ্যাকাউন্ট লক হলে সঠিক তথ্য দিলেও লকই দেখায়, এখন কী করব?",account_locked_retrials
+"ইসি সেবায় আমার অ্যাকাউন্ট লক হয়েছে, ঠিক তথ্য দিলেও খুলছে না, সমাধান কী?",account_locked_retrials
+"NID অনলাইনে একবার লক হলে সঠিক তথ্য দিয়েও আনলক হচ্ছে না, উপায় আছে?",account_locked_retrials
+"ভোটার সেবার অ্যাকাউন্ট লক হওয়ার পর ঠিক তথ্য দিলেও ঢোকা যাচ্ছে না, কী করতে হবে?",account_locked_retrials
+"নির্বাচন কমিশনের লগইন লক হয়ে আছে, ঠিক ডিটেইলস দিলেও খুলছে না, কি উপায়?",account_locked_retrials
+"ইসি অনলাইন অ্যাকাউন্ট একবার লক হয়েছে, সঠিক তথ্য দিলেও লকই আছে, কিভাবে সমাধান করব?",account_locked_retrials
+"ভোটার আইডি পোর্টালের অ্যাকাউন্ট ব্লক দেখাচ্ছে, তথ্য ঠিক থাকার পরও আনলক হয় না, এখন কী করণীয়?",account_locked_retrials
+"অনলাইনে এখনো লক দেখাচ্ছে, কখন ঠিক হবে?",account_locked_retrials
+"ইসি অনলাইনে এখনো লক দেখাচ্ছে, কবে ঠিক হবে?",account_locked_retrials
+"নির্বাচন কমিশনের সাইটে লকই দেখাচ্ছে, কবে আনলক হবে?",account_locked_retrials
+"ভোটার আইডি অনলাইন সেবায় এখনো লক, কখন সমাধান হবে?",account_locked_retrials
+"ইসি পোর্টালের স্ট্যাটাস লক আছে, কবে ঠিক করবেন?",account_locked_retrials
+"এনআইডি সার্ভিসে এখনো লক দেখাচ্ছে, কবে খুলবে?",account_locked_retrials
+"নির্বাচন কমিশন অনলাইনে লক দেখায়, কখন ঠিক হবে?",account_locked_retrials
+"ভোটার সেবার অনলাইন পেজ লকড আছে, কবে চালু হবে?",account_locked_retrials
+একাউন্ট লক হয়ে গেছে এখনই কি আনলক করে দিতে পারবেন?,account_locked_unlock_request
+"নির্বাচন কমিশনের NID পোর্টালের একাউন্ট লক হয়েছে, এখনই কি আনলক করে দিতে পারবেন?",account_locked_unlock_request
+"নির্বাচন কমিশনের লগইন লক হয়ে গেছে, এখনই আনলক করা যাবে?",account_locked_unlock_request
+"NID সার্ভিসের একাউন্ট বন্ধ দেখাচ্ছে, এখনই কি আনলক করবেন?",account_locked_unlock_request
+"নির্বাচন কমিশনের NID একাউন্টটা লক হয়ে গেছে, এখনই খুলে দেওয়া যাবে?",account_locked_unlock_request
+"ইসি সাইটে আমার একাউন্ট ব্লক হয়েছে, এই মুহূর্তে কি আনলক করবেন?",account_locked_unlock_request
+"নির্বাচন কমিশনের সার্ভিস একাউন্ট লকড, এখনই কি খুলে দিতে পারবেন?",account_locked_unlock_request
+"ইসি লগইন অ্যাক্সেস লক হয়ে গেছে, এখনই কি আনলক করে দেবেন?",account_locked_unlock_request
+"ঠিকানা পরিবর্তনের সময় আমার নির্ধারিত পোষ্ট অফিস ও পোষ্ট কোড পাচ্ছিনা, কি করবো?",address_cahgne_but_no_post_office_or_office_code
+"ইসি পোর্টালে ঠিকানা হালনাগাদ করার সময় আমার এলাকার পোস্ট অফিস আর পোস্ট কোড খুঁজে পাচ্ছি না, কী করব?",address_cahgne_but_no_post_office_or_office_code
+"নির্বাচন কমিশনের সাইটে ঠিকানা পরিবর্তনের সময় পোস্ট অফিস আর পোস্টাল কোড অপশন আসছে না, করণীয় কী?",address_cahgne_but_no_post_office_or_office_code
+"ভোটার তথ্য আপডেটের সময়ে আমার পোস্ট অফিস ও পোস্ট কোড লিস্টে নেই, কী করা যায়?",address_cahgne_but_no_post_office_or_office_code
+"ইসি অ্যাপে ঠিকানা সংশোধন করতে গিয়ে সঠিক পোস্ট অফিস আর কোড পাচ্ছি না, এখন কী করব?",address_cahgne_but_no_post_office_or_office_code
+"NID পোর্টালে ঠিকানা আপডেটের সময় পোস্ট অফিস সিলেক্ট করতে পারছি না আর পোস্ট কোডও পাচ্ছি না, কী করণীয়?",address_cahgne_but_no_post_office_or_office_code
+"ঠিকানা বদলের আবেদন করতে গিয়ে নির্বাচন কমিশনের পোর্টালে পোস্ট অফিস ও পোস্ট কোড মিলছে না, কী করব?",address_cahgne_but_no_post_office_or_office_code
+"ভোটার এলাকা পরিবর্তনের সময় আমার নির্ধারিত ডাকঘর ও পোস্টাল কোড খুঁজে পাচ্ছি না, কী করা উচিত?",address_cahgne_but_no_post_office_or_office_code
+"ভোটার ঠিকানা পরিবর্তন হয়েছে, কিন্তু অনলাইনে কার্ড ডাউনলোড অপশন পাচ্ছি না।",address_change_card_download_process
+"ভোটার ঠিকানা আপডেট করেছি, কিন্তু অনলাইনে কার্ড ডাউনলোড অপশন দেখা যাচ্ছে না?",address_change_card_download_process
+ভোটার ঠিকানা বদলানোর পর পোর্টালে কার্ড ডাউনলোডের অপশন কেন নেই?,address_change_card_download_process
+"ভোটার ঠিকানা আপডেটের পর অনলাইন থেকে কার্ড ডাউনলোড অপশন পাচ্ছি না, সমাধান কী?",address_change_card_download_process
+"এলাকা বদলানোর পর ইসি ওয়েবসাইটে কার্ড ডাউনলোড অপশন পাই না, কারণটা কী?",address_change_card_download_process
+"নতুন ঠিকানায় তথ্য আপডেট হয়েছে, কিন্তু অনলাইনে কার্ড ডাউনলোড অপশন নেই?",address_change_card_download_process
+"ঠিকানা বদলের পরে ইসি পোর্টালে কার্ড ডাউনলোড দেখাচ্ছে না, কিভাবে পাব?",address_change_card_download_process
+"ভোটার ঠিকানা পরিবর্তনের পর অনলাইনে কার্ড ডাউনলোড পাওয়া যাচ্ছে না, কতদিনে সক্রিয় হবে?",address_change_card_download_process
+ভোটার এলাকার ঠিকানা স্থানান্তর করতে কি চেয়ারম্যানের স্বাক্ষর লাগবে নাকি কাউন্সিলরের স্বাক্ষর হলেও হবে?,address_change_counselor_chairperson_signature
+ভোটার ঠিকানা বদলাতে চেয়ারম্যানের স্বাক্ষর বাধ্যতামূলক নাকি ওয়ার্ড কাউন্সিলরের সাইনেই হবে?,address_change_counselor_chairperson_signature
+"ভোটার তালিকায় ঠিকানা স্থানান্তরের জন্য চেয়ারম্যানের সাইন লাগে, নাকি কাউন্সিলরের সাইন যথেষ্ট?",address_change_counselor_chairperson_signature
+"ভোটার ঠিকানা পরিবর্তনের আবেদন ইসিতে দিলে কাউন্সিলরের সই চলবে, নাকি চেয়ারম্যানেরটাই চাই?",address_change_counselor_chairperson_signature
+"ভোটার এলাকার ঠিকানা আপডেট করতে চেয়ারম্যানের সই আবশ্যক, নাকি ওয়ার্ড কাউন্সিলরের সই দিলেই হবে?",address_change_counselor_chairperson_signature
+"নির্বাচন কমিশনে ঠিকানা স্থানান্তরে চেয়ারম্যানের প্রত্যয়ন দরকার, নাকি কাউন্সিলরের স্বাক্ষরেই কাজ হবে?",address_change_counselor_chairperson_signature
+"ভোটার তথ্যের ঠিকানা বদলের জন্য চেয়ারম্যানের সই লাগবে, নাকি কাউন্সিলরের সই হলেই হবে?",address_change_counselor_chairperson_signature
+"ভোটার এলাকা পরিবর্তন করতে ইউনিয়ন চেয়ারম্যানের সই চাই, নাকি সিটি ওয়ার্ড কাউন্সিলরের সইও গ্রহণযোগ্য?",address_change_counselor_chairperson_signature
+ঠিকানা পরিবর্তনের আবেদন কি অনলাইনে করা যাবে?,address_change_online_new
+ঠিকানা পরিবর্তনের আবেদনটা কি নির্বাচন কমিশনের অনলাইন সেবায় করা যায়?,address_change_online_new
+ভোটার আইডির ঠিকানা কি অনলাইনে আপডেট করা সম্ভব?,address_change_online_new
+NID ঠিকানা পরিবর্তন কি অনলাইনেই করা যাবে?,address_change_online_new
+নির্বাচন কমিশনের ওয়েবসাইটে কি ঠিকানা আপডেটের আবেদন করা যায়?,address_change_online_new
+অফিসে না গিয়ে কি অনলাইনে NID ঠিকানা বদলানো যাবে?,address_change_online_new
+ইসির অনলাইন পোর্টালে কি ভোটার ঠিকানা হালনাগাদ করা যাবে?,address_change_online_new
+ঠিকানা পরিবর্তন করতে কি অনলাইনে আবেদন করা সম্ভব?,address_change_online_new
+"ঠিকানা পরিবর্তনের জন্য আবেদন করেছি, মোবাইলে মেসেজ পেয়েছি, অনুমোদন হতে কতদিন লাগবে?",address_change_sms_to_mobile_how_many_days_to_get_approved
+"নির্বাচন কমিশনে ঠিকানা পরিবর্তনের আবেদন করেছি, মেসেজ এসেছে, এখন অনুমোদন হতে কতদিন লাগবে?",address_change_sms_to_mobile_how_many_days_to_get_approved
+"ভোটার আইডির ঠিকানা আপডেটের জন্য আবেদন দিয়েছি, মোবাইলে নোটিফিকেশন পেয়েছি, কবে অনুমোদন হবে?",address_change_sms_to_mobile_how_many_days_to_get_approved
+"ঠিকানা পরিবর্তনের এসএমএস এসেছে, ইসি সাধারণত অনুমোদন দিতে কত সময় নেয়?",address_change_sms_to_mobile_how_many_days_to_get_approved
+"ভোটার নিবন্ধনে ঠিকানা বদলের আবেদন করেছি, মোবাইলে বার্তা এসেছে, অনুমোদন পেতে কতটা সময় লাগতে পারে?",address_change_sms_to_mobile_how_many_days_to_get_approved
+"ইসির ঠিকানা পরিবর্তন আবেদন জমা দিয়েছি, এসএমএস পেয়েছি, ফাইনাল অনুমোদন পেতে কত দিন ধরতে হবে?",address_change_sms_to_mobile_how_many_days_to_get_approved
+"ভোটার আইডির ঠিকানা সংশোধনের আবেদন করেছি, নোটিফিকেশন এসেছে, অনুমোদন কবে পাওয়া যাবে?",address_change_sms_to_mobile_how_many_days_to_get_approved
+"নির্বাচন কমিশনে ঠিকানা আপডেট সাবমিট করেছি, কনফার্মেশন এসএমএস এল, অনুমোদন হতে আর কতদিন?",address_change_sms_to_mobile_how_many_days_to_get_approved
+এনআইডি কার্ডে জন্ম তারিখ সংশোধনের জন্য কি ডকুমেন্টস লাগবে?,age_and_dob_correction
+বাংলাদেশ নির্বাচন কমিশনের কাছে এনআইডির জন্মতারিখ সংশোধনের জন্য কী কী ডকুমেন্ট দরকার?,age_and_dob_correction
+এনআইডির জন্মতারিখ আপডেট করতে নির্বাচন কমিশন কী কী কাগজপত্র চায়?,age_and_dob_correction
+নির্বাচন কমিশন অফিসে এনআইডির জন্মতারিখ ঠিক করতে কী কী কাগজপত্র লাগবে?,age_and_dob_correction
+এনআইডি কার্ডে জন্মতারিখ সংশোধনে কী কী কাগজপত্র দরকার?,age_and_dob_correction
+এনআইডির জন্মতারিখ ঠিক করাতে কী কী সাপোর্টিং ডকুমেন্ট লাগবে?,age_and_dob_correction
+এনআইডির জন্মতারিখ সংশোধনের আবেদন করতে কোন কাগজপত্র দিতে হয়?,age_and_dob_correction
+সকল ডকুমেন্টস সঠিক দিয়েছি তারপরও আবেদন বাতিল করা হয়েছে। কেনো?,all_documents_correct_but_application_rejected_why
+সব কাগজ ঠিকঠাক দিয়েও ইসিতে আমার আবেদন কেন বাতিল হলো?,all_documents_correct_but_application_rejected_why
+"NID আপডেটের সব পেপার সঠিক ছিল, তবু ইসি আবেদন কেন খারিজ করল?",all_documents_correct_but_application_rejected_why
+"সব নথি ঠিক ছিল, তবুও এনআইডি আবেদনে রিজেক্ট দেখাচ্ছে কেন?",all_documents_correct_but_application_rejected_why
+সঠিক কাগজ দিলেও ভোটার নিবন্ধনের আবেদন কেন খারিজ হলো?,all_documents_correct_but_application_rejected_why
+নথিপত্রে কোনো ভুল না থাকলে ইসি আমার আবেদন কেন গ্রহণ করল না?,all_documents_correct_but_application_rejected_why
+"সব কাগজ মিলে গেছে, তবু নির্বাচন কমিশন আবেদনটা কেন ফিরিয়ে দিল?",all_documents_correct_but_application_rejected_why
+ডকুমেন্ট ঠিক থাকার পরও NID সংশোধনের আবেদন কেন নামঞ্জুর হলো?,all_documents_correct_but_application_rejected_why
+"জন্ম সনদ ও এসএসসি সনদে নাম আর জন্মতারিখে মিল নেই, ইসির নতুন ভোটার ফরমে কোন তথ্য ধরব?",birth_certificate_and_ssc_certificate_different_information
+জন্ম নিবন্ধন ও এসএসসি সার্টিফিকেটে অমিল থাকলে নতুন ভোটারের আবেদন ফর্মে কোনটা প্রাধান্য পাবে?,birth_certificate_and_ssc_certificate_different_information
+"জন্ম সনদে বানান আর এসএসসি সনদে ভিন্ন, ভোটার রেজিস্ট্রেশনের ফর্মে কোন তথ্য দেওয়া উচিত?",birth_certificate_and_ssc_certificate_different_information
+জন্ম নিবন্ধন বনাম এসএসসি সনদের তথ্য না মেললে নির্বাচন কমিশনের ফর্মে কোন তথ্য বসাবো?,birth_certificate_and_ssc_certificate_different_information
+জন্ম সনদ ও এসএসসি সনদের অমিল থাকায় নতুন ভোটার আবেদন করলে কোন নথির তথ্য লিখতে হবে?,birth_certificate_and_ssc_certificate_different_information
+"এসএসসি সনদে নাম একভাবে, জন্ম সনদে আরেকভাবে, ইসি ভোটার ফর্মে কোনটা গ্রহণযোগ্য?",birth_certificate_and_ssc_certificate_different_information
+"আমার জন্ম নিবন্ধন আর এসএসসি সার্টিফিকেটে পার্থক্য আছে, নতুন ভোটার হওয়ার ফর্মে কোন তথ্য দেব?",birth_certificate_and_ssc_certificate_different_information
+দুটি নথিতে তথ্য ভিন্ন হলে নতুন ভোটার নিবন্ধনে নির্বাচন কমিশন কোন তথ্য চায়?,birth_certificate_and_ssc_certificate_different_information
+"জন্ম সনদ নম্বর সংযোজন বা সংশোধন করতে, কি ডকুমেন্টস লাগে?",birth_certificate_number_correct_or_add_document_new
+নির্বাচন কমিশনে এনআইডিতে জন্ম নিবন্ধন নম্বর যুক্ত বা ঠিক করতে কি কি কাগজপত্র লাগে?,birth_certificate_number_correct_or_add_document_new
+এনআইডি রেকর্ডে জন্ম সনদ নম্বর যোগ বা সংশোধন করতে কোন কোন ডকুমেন্ট দরকার?,birth_certificate_number_correct_or_add_document_new
+নির্বাচন কমিশনের ডাটাবেইসে জন্ম সনদ নম্বর সংযোজন বা সংশোধন করতে কোন কাগজ লাগে?,birth_certificate_number_correct_or_add_document_new
+এনআইডি তথ্যের জন্ম নিবন্ধন নম্বর যুক্ত বা পরিবর্তন করতে কি কি নথি লাগবে?,birth_certificate_number_correct_or_add_document_new
+নির্বাচন কমিশনে জন্ম সনদ নম্বর আপডেট বা সংশোধনের জন্য কি কি কাগজপত্র দরকার?,birth_certificate_number_correct_or_add_document_new
+উপজেলা নির্বাচন অফিসে এনআইডির জন্ম নিবন্ধন নম্বর সংশোধন বা সংযোজন করতে কি কাগজ দরকার?,birth_certificate_number_correct_or_add_document_new
+অনলাইনে এনআইডিতে জন্ম সনদ নম্বর যোগ বা ঠিক করতে কোন কোন প্রমাণপত্র লাগে?,birth_certificate_number_correct_or_add_document_new
+"আমার জন্ম তারিখ ভুল হয়েছে, আমার কাছে কোন ডকুমেন্টস/প্রমাণাদি নাই, কিভাবে সংশোধন করা যাবে?",birth_date_no_proof_model
+"জাতীয় পরিচয়পত্রে জন্ম তারিখ ভুল আছে, ডকুমেন্ট ছাড়া ইসিতে সংশোধন করা যাবে কীভাবে?",birth_date_no_proof_model
+"ভোটার আইডির জন্মতারিখ ভুল, হাতে কোনো কাগজপত্র নেই, নির্বাচন কমিশনের করণীয় কী?",birth_date_no_proof_model
+"এনআইডির জন্মতারিখ মিলে না, কোনো কাগজ নেই, নির্বাচন কমিশনে আপডেট করার নিয়ম কী?",birth_date_no_proof_model
+"জন্মতারিখ ভুল হয়ে গেছে, প্রমাণপত্র নেই, ইসিতে কীভাবে সমাধান করব?",birth_date_no_proof_model
+"নির্বাচন কমিশনের মাধ্যমে জন্ম তারিখ ঠিক করতে চাই, কিন্তু কোনো ডকুমেন্ট নেই, কী করতে হবে?",birth_date_no_proof_model
+"এনআইডিতে জন্মতারিখ ভুল থাকলে প্রমাণ ছাড়া কি সংশোধন সম্ভব, হলে কীভাবে?",birth_date_no_proof_model
+"ইসিতে জন্ম তারিখ ঠিক করতে গেলে কাগজপত্র ছাড়া হবে কি, হলে করণীয় কী?",birth_date_no_proof_model
+"NID এ জন্মস্থান ভুল, সংশোধনে কোন কোন কাগজপত্র লাগবে?",birthplace_correction_new
+"ভোটার আইডিতে জন্মস্থান ভুল হয়েছে, ঠিক করতে কী কী ডকুমেন্ট লাগবে?",birthplace_correction_new
+জন্মস্থান তথ্য ভুল থাকলে নির্বাচন কমিশনে সংশোধনের জন্য কী কী কাগজ লাগবে?,birthplace_correction_new
+"স্মার্ট কার্ডে জন্মস্থান ভুল, আপডেট করতে কোন কোন প্রমাণপত্র দিতে হবে?",birthplace_correction_new
+ভোটার তালিকায় জন্মস্থান ভুল হলে কী কী কাগজপত্র জমা দিতে হয়?,birthplace_correction_new
+এনআইডিতে জন্মস্থান ভুল হলে সংশোধনের জন্য কোন কোন ডকুমেন্টস লাগবে?,birthplace_correction_new
+জন্মস্থান তথ্য ভুল গেলে এনআইডি আপডেটে কী কী প্রমাণপত্র লাগবে?,birthplace_correction_new
+জন্মস্থান ভুল থাকায় ভোটার আইডি আপডেটে কোন কোন কাগজ দরকার?,birthplace_correction_new
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি সংশোধন ফি বিকাশে দিতে হলে কী করতে হবে?,bkash_mfs_payment_process
+বিকাশ অ্যাপ দিয়ে এনআইডি তথ্য সংশোধনের ফি কিভাবে পেমেন্ট করবো?,bkash_mfs_payment_process
+এনআইডি সংশোধন ফি বিকাশে জমা দেওয়ার সহজ উপায়টা কী?,bkash_mfs_payment_process
+বিকাশে এনআইডি কারেকশন ফি কেমন করে দিতে হয়?,bkash_mfs_payment_process
+নির্বাচন কমিশনের এনআইডি সংশোধনের ফি বিকাশে কীভাবে পরিশোধ করা যায়?,bkash_mfs_payment_process
+বিকাশে এনআইডি সংশোধন ফি জমা দিতে স্টেপগুলো কী?,bkash_mfs_payment_process
+এনআইডি তথ্য সংশোধনের সরকারি ফি বিকাশে কিভাবে দেব?,bkash_mfs_payment_process
+বিকাশে এনআইডি সংশোধন ফি কীভাবে জমা দিতে পারি?,bkash_mfs_payment_process
+রক্তের গ্রুপ অন্তর্ভূক্ত বা সংশোধনের জন্য কি করতে হবে?,blood_group_correction
+ভোটার আইডিতে রক্তের গ্রুপ সংযোজন বা সংশোধন কীভাবে করব?,blood_group_correction
+NID এ রক্তের গ্রুপ আপডেট বা সংশোধনের জন্য কোথায় আবেদন করব?,blood_group_correction
+নির্বাচন কমিশনের মাধ্যমে রক্তের গ্রুপ যুক্ত করা বা ঠিক করতে করণীয় কী?,blood_group_correction
+ভোটার আইডির রক্তের গ্রুপ এন্ট্রি বা কারেকশন করতে হলে কীভাবে এগোব?,blood_group_correction
+NID রেকর্ডে রক্তের গ্রুপ যোগ বা সংশোধনের স্টেপগুলো কী?,blood_group_correction
+নির্বাচন কমিশনে রক্তের গ্রুপ সংযোজন বা সংশোধন অনলাইনে কীভাবে করব?,blood_group_correction
+NID এ রক্তের গ্রুপ অন্তর্ভুক্ত করা বা ভুল থাকলে সংশোধন কীভাবে করা যায়?,blood_group_correction
+"ঠিকানা পরিবর্তনের আবেদন অনুমোদিত হয়েছে, এখন নতুন ঠিকানার কার্ড পাবো কিভাবে?",card_avail_after_address_change
+"ঠিকানা আপডেট অ্যাপ্রুভ হয়েছে, নতুন ঠিকানা সহ কার্ড কোথায় থেকে পাব?",card_avail_after_address_change
+"ঠিকানা বদলের আবেদন অনুমোদন হয়েছে, নতুন কার্ডটা নিতে হলে কী করতে হবে?",card_avail_after_address_change
+"ঠিকানা আপডেট হয়ে গেছে, নতুন ঠিকানার স্মার্টকার্ড কখন এবং কীভাবে পাব?",card_avail_after_address_change
+"ঠিকানা বদল অনুমোদিত, নতুন এনআইডি পাওয়ার পরবর্তী ধাপ কী?",card_avail_after_address_change
+"ঠিকানা পরিবর্তনের কাজ শেষ, এখন নতুন কার্ড ইস্যু কিভাবে হবে?",card_avail_after_address_change
+"ঠিকানা আপডেট অ্যাপ্রুভড, কার্ড সংগ্রহ করতে কোন অফিসে যেতে হবে?",card_avail_after_address_change
+"ঠিকানা পরিবর্তনের অ্যাপ্রুভাল পাওয়া গেছে, নতুন কার্ডের ডেলিভারি প্রক্রিয়া কী?",card_avail_after_address_change
+সংশোধনের আবেদন করতে কত টাকা দিতে হবে?,card_correction_fees
+ইসিতে সংশোধনের আবেদন দিলে ফি কত?,card_correction_fees
+এনআইডি তথ্য সংশোধন করতে কত টাকা লাগে?,card_correction_fees
+ভোটার আইডি সংশোধনের আবেদন ফি কত?,card_correction_fees
+বাংলাদেশ নির্বাচন কমিশনে সংশোধনের খরচ কত পড়বে?,card_correction_fees
+অনলাইনে এনআইডি সংশোধন করলে ফি কত?,card_correction_fees
+ইসির সংশোধন প্রসেসিং ফি কত দিতে হয়?,card_correction_fees
+ভোটার তথ্য ঠিক করতে আবেদন করলে কত টাকা লাগবে?,card_correction_fees
+সংশোধনের ফি কত?,card_correction_fees
+এনআইডি তথ্য সংশোধনের ফি কত?,card_correction_fees
+ভোটার তথ্য সংশোধনে কত টাকা লাগে?,card_correction_fees
+নির্বাচন কমিশনে এনআইডি সংশোধনের চার্জ কত?,card_correction_fees
+নাম বা জন্মতারিখ সংশোধনের ফি কত?,card_correction_fees
+ঠিকানা সংশোধনে কত টাকা দিতে হয়?,card_correction_fees
+তথ্য সংশোধনের সার্ভিস চার্জ কত?,card_correction_fees
+এনআইডি তথ্য সংশোধনের খরচ কত?,card_correction_fees
+নির্বাচন কমিশনে ভুল তথ্য সংশোধনের জন্য কত টাকা লাগে?,card_correction_fees
+ফিস জমা দিতে কোন নম্বর (১০/১৩/১৭ ডিজিট) ব্যবহার করবো?,card_correction_fees_payment_reference_nid_number_query
+এনআইডি ফি জমা দিতে ১০ ১৩ না ১৭ ডিজিটের নম্বর দেব?,card_correction_fees_payment_reference_nid_number_query
+এনআইডি ফি দিতে ১০ ১৩ ১৭ এর মধ্যে কোনটা ব্যবহার করব?,card_correction_fees_payment_reference_nid_number_query
+ইসি ফি জমা দিতে ১০ ১৩ না ১৭ ডিজিটের নম্বর দিতে হবে?,card_correction_fees_payment_reference_nid_number_query
+এনআইডি ফি পেমেন্টে ১০ ১৩ না ১৭ অঙ্কের নম্বর দেব?,card_correction_fees_payment_reference_nid_number_query
+নির্বাচন কমিশনের ফি দিতে ১০ ১৩ না ১৭ ডিজিটের কোন নম্বর ব্যবহার করব?,card_correction_fees_payment_reference_nid_number_query
+ইসির অনলাইন ফি দিতে ১০ ১৩ ১৭ এর মধ্যে কোন নম্বর লাগবে?,card_correction_fees_payment_reference_nid_number_query
+নির্বাচন কমিশনের ফি জমা দিতে ১০ ১৩ না ১৭ ডিজিট কোনটা ঠিক?,card_correction_fees_payment_reference_nid_number_query
+বাংলাদেশ নির্বাচন কমিশনে একই তথ্য কতবার সংশোধন করা যায়?,card_correction_one_information_maximum_limit
+ইসির রেকর্ডে একই তথ্য কতবার পরিবর্তন করা যাবে?,card_correction_one_information_maximum_limit
+এনআইডিতে একই তথ্য কতবার সংশোধন বা পরিবর্তন করা সম্ভব?,card_correction_one_information_maximum_limit
+ভোটার তালিকায় একই তথ্য সর্বোচ্চ কতবার ঠিক করা যায়?,card_correction_one_information_maximum_limit
+নির্বাচন কমিশনের ডাটায় একই তথ্য কয়বার আপডেট করা যাবে?,card_correction_one_information_maximum_limit
+এনআইডি তথ্যে একই বিষয় কয়বার সংশোধন করা অনুমোদিত?,card_correction_one_information_maximum_limit
+ভোটার তথ্যের একই অংশ কতবার পরিবর্তন করা যাবে ইসিতে?,card_correction_one_information_maximum_limit
+নির্বাচন কমিশনে একই তথ্য বারবার ঠিক করা যায় নাকি সীমা আছে?,card_correction_one_information_maximum_limit
+"সংশোধোনের জন্য ফি জমা দিয়েছি, আবেদন করতে চাচ্ছি না, এখন আমি কিভাবে টাকা ফেরত পেতে পারি?",card_correction_request_canceled_by_consumer_regarding_refund_fees
+"সংশোধনের ফি জমা দিয়েছি, এখন আবেদন করতে চাই না, নির্বাচন কমিশন থেকে টাকা কীভাবে ফেরত পাব?",card_correction_request_canceled_by_consumer_regarding_refund_fees
+"ভোটার তথ্য সংশোধনের ফি দিয়ে ফেলেছি, আবেদন আর করব না, রিফান্ডের প্রক্রিয়া কী?",card_correction_request_canceled_by_consumer_regarding_refund_fees
+"বাংলাদেশ নির্বাচন কমিশনে সংশোধন ফি জমা আছে, এখন টাকা ফেরত নেওয়ার নিয়মটা কী?",card_correction_request_canceled_by_consumer_regarding_refund_fees
+"এনআইডি আপডেটের ফি কেটে গেছে, আবেদন না করলে টাকা কি ফেরত মেলে?",card_correction_request_canceled_by_consumer_regarding_refund_fees
+"ইসির কাছে সংশোধন ফি দিয়েছি, আবেদন বন্ধ করতে চাই, রিফান্ড চাইলে কী করতে হবে?",card_correction_request_canceled_by_consumer_regarding_refund_fees
+"অনলাইনে এনআইডি সংশোধনের ফি পরিশোধ করেছি, এখন আবেদন স্থগিত, টাকা ফেরত পাব কীভাবে?",card_correction_request_canceled_by_consumer_regarding_refund_fees
+"এনআইডি সংশোধনের পেমেন্ট হয়ে গেছে, আবেদন করব না, রিফান্ড কত দিনে আর কীভাবে পাওয়া যায়?",card_correction_request_canceled_by_consumer_regarding_refund_fees
+সংশোধন আবেদন বাতিল হয়ে গেলে কি টাকা ফেরত পাবো?,card_correction_request_failed_query_regarding_refund_fees
+নির্বাচন কমিশনে সংশোধন আবেদন খারিজ হলে টাকা কি রিফান্ড হয়?,card_correction_request_failed_query_regarding_refund_fees
+জাতীয় পরিচয়পত্র তথ্য সংশোধন আবেদন রিজেক্ট হলে ফি ফেরত মিলবে?,card_correction_request_failed_query_regarding_refund_fees
+ভোটার আইডি সংশোধন আবেদন অস্বীকৃত হলে জমা ফি কি ফেরত পাব?,card_correction_request_failed_query_regarding_refund_fees
+এনআইডি করেকশন আবেদন গ্রহণ না হলে টাকা কি ফেরত দেয়?,card_correction_request_failed_query_regarding_refund_fees
+নির্বাচন কমিশন যদি সংশোধনের আবেদন বাতিল করে ফি কি ফেরত আসে?,card_correction_request_failed_query_regarding_refund_fees
+জাতীয় পরিচয়পত্র সংশোধনের আবেদন না মঞ্জুর হলে ফি কি ফেরতযোগ্য?,card_correction_request_failed_query_regarding_refund_fees
+এনআইডি তথ্য সংশোধন আবেদন খারিজ হলে প্রদান করা টাকা কি ফেরত পাওয়া যাবে?,card_correction_request_failed_query_regarding_refund_fees
+"একবার সংশোধন আবেদন বাতিল করা হয়েছে, পুনরায় আবেদন করতে কি আবার ফি জমা দিতে হবে?",card_correction_request_failed_query_regarding_repayment_fees
+নির্বাচন কমিশনে তথ্য সংশোধনের আবেদন খারিজ হলে রিঅ্যাপ্লাই করতে কি ফি আবার দিতে হবে?,card_correction_request_failed_query_regarding_repayment_fees
+"আমার ভোটার আইডি সংশোধন আবেদন গ্রহণ হয়নি, আবার দিলে কি ফি পুনরায় জমা দিতে হবে?",card_correction_request_failed_query_regarding_repayment_fees
+পূর্বের NID সংশোধন আবেদন বাতিল হলে আবার আবেদন করলে কি আবেদন ফি ফের দিতে হবে?,card_correction_request_failed_query_regarding_repayment_fees
+ইসিতে তথ্য সংশোধন রিকোয়েস্ট খারিজ হলে আবার আবেদন করলে কি পেমেন্ট আবার করতে হবে?,card_correction_request_failed_query_regarding_repayment_fees
+প্রথম আবেদন বাতিল হওয়ায় এবার পুনরায় NID সংশোধন করলে কি ফি আবার জমা দিতে হবে?,card_correction_request_failed_query_regarding_repayment_fees
+নির্বাচন কমিশনের সংশোধন আবেদন বাতিল হলে আবার আবেদন করলে কি চার্জ আবার কাটা হবে?,card_correction_request_failed_query_regarding_repayment_fees
+"আগের ভোটার আইডি সংশোধন রিকোয়েস্ট রিজেক্ট হয়েছে, রিঅ্যাপ্লাই করলে কি ফি নতুন করে দিতে হবে?",card_correction_request_failed_query_regarding_repayment_fees
+"এনআইডি কার্ড নষ্ট হয়ে গেছে, নতুন কার্ড কীভাবে পাবো?",card_damaged_how_to_get_new_card
+এনআইডি কার্ড নষ্ট হলে নতুন কার্ড কীভাবে পাবো?,card_damaged_how_to_get_new_card
+ভাঙা এনআইডি কার্ড বদলে নতুনটা নিতে হলে কী করতে হবে?,card_damaged_how_to_get_new_card
+"এনআইডি কার্ড ক্ষতিগ্রস্ত, ডুপ্লিকেট কার্ডের জন্য কোথায় কীভাবে আবেদন করব?",card_damaged_how_to_get_new_card
+"এনআইডি কার্ড নষ্ট হয়ে গেছে, রিপ্রিন্টের আবেদন কীভাবে দেব?",card_damaged_how_to_get_new_card
+ক্ষতিগ্রস্ত এনআইডি বদলাতে নির্বাচন কমিশনে কীভাবে আবেদন করব?,card_damaged_how_to_get_new_card
+এনআইডি কার্ড নষ্ট হলে অনলাইনে নতুন কার্ডের আবেদন কীভাবে করব?,card_damaged_how_to_get_new_card
+"এনআইডি কার্ডে চিপ কাজ করছে না, নতুন কার্ড ইস্যু করাতে কী লাগবে?",card_damaged_how_to_get_new_card
+আমার এনআইডি কার্ড তথ্য ভুল আছে কি করবো?,card_information_correction
+আমার এনআইডির তথ্য ভুল হলে কী করব?,card_information_correction
+এনআইডি কার্ডে তথ্য ভুল হয়েছে কী করতে হবে?,card_information_correction
+জাতীয় পরিচয়পত্রে তথ্য ভুল থাকলে কীভাবে ঠিক করব?,card_information_correction
+আমার এনআইডি কার্ডের তথ্য ভুল দেখালে এখন কী করব?,card_information_correction
+এনআইডি তথ্য ভুল পেয়েছি এটা ঠিক করতে কী করব?,card_information_correction
+জাতীয় পরিচয়পত্রের ঠিকানা ভুল থাকলে কিভাবে ঠিক করব?,card_information_correction
+আমার এনআইডি তথ্য ঠিক করতে চাই কীভাবে করব?,card_information_correction
+"এনআইডি কার্ড নষ্ট / হারিয়ে গেছে, নতুন কার্ড পেতে কি টাকা লাগবে?",card_lost_and_damaged_cost
+এনআইডি হারালে বা ক্ষতিগ্রস্ত হলে রিপ্রিন্ট করতে কত টাকা লাগে?,card_lost_and_damaged_cost
+নষ্ট এনআইডি বদলাতে বাংলাদেশ নির্বাচন কমিশনে কত ফি দিতে হবে?,card_lost_and_damaged_cost
+এনআইডির ডুপ্লিকেট কার্ড করতে কত খরচ পড়বে?,card_lost_and_damaged_cost
+হারানো এনআইডি পুনঃপ্রদানে কি কোনো চার্জ আছে?,card_lost_and_damaged_cost
+এনআইডি ক্ষতিগ্রস্ত হলে পুনঃইস্যুতে ফি কত?,card_lost_and_damaged_cost
+এনআইডি রিপ্রিন্ট করাতে টাকা কত দিতে হয়?,card_lost_and_damaged_cost
+এনআইডি কার্ড হারালে বা নষ্ট হলে বদলাতে কত টাকা লাগবে?,card_lost_and_damaged_cost
+"এনআইডি কার্ড নষ্ট / হারিয়ে গেছে, নতুন কার্ড পেতে কতো টাকা লাগবে?",card_lost_new_card_fee
+জাতীয় পরিচয়পত্র হারালে বা ক্ষতিগ্রস্ত হলে নতুনটা পেতে ফি কত?,card_lost_new_card_fee
+নির্বাচন কমিশন থেকে হারানো এনআইডির ডুপ্লিকেট করতে কত খরচ পড়বে?,card_lost_new_card_fee
+জাতীয় পরিচয়পত্র হারিয়ে গেলে পুনরায় কার্ড পেতে কত খরচ হবে?,card_lost_new_card_fee
+পুরনো এনআইডি হারালে নতুন করে করতে কত টাকা লাগে?,card_lost_new_card_fee
+হারানো এনআইডির ডুপ্লিকেট কার্ড তুলতে নির্বাচন কমিশনে কত ফি লাগে?,card_lost_new_card_fee
+জাতীয় পরিচয়পত্র হারালে রিইস্যু ফি কত?,card_lost_new_card_fee
+এনআইডি হারিয়ে গেলে নতুন কার্ডের চার্জ কত?,card_lost_new_card_fee
+"কার্ড হারিয়ে গেছে কোন তথ্যই নেই, কিভাবে নতুন একটি কার্ড উত্তোলন করবো?",card_lost_no_info_how_to_get_new
+"জাতীয় পরিচয়পত্র হারিয়ে ফেলেছি, কোনো নম্বর বা কপি নেই, নির্বাচন কমিশন থেকে নতুন কার্ড কিভাবে তুলব?",card_lost_no_info_how_to_get_new
+"NID কার্ড হারিয়ে গেছে, ট্র্যাকিং বা রসিদ কিছুই নেই, নতুন কার্ড নিতে হলে নির্বাচন কমিশনে কী করতে হবে?",card_lost_no_info_how_to_get_new
+"ভোটার আইডি হারালাম, কোনো তথ্য হাতে নেই, নির্বাচন কমিশন থেকে ডুপ্লিকেট কার্ড কিভাবে পাব?",card_lost_no_info_how_to_get_new
+"কার্ড হারিয়ে গেছে, আবেদন স্লিপ বা নম্বর নেই, নির্বাচন কমিশন থেকে নতুন NID তুলতে কী করব?",card_lost_no_info_how_to_get_new
+"জাতীয় পরিচয়পত্র নেই আর কোনো প্রমাণও নেই, নির্বাচন কমিশনের নতুন কার্ড পেতে কীভাবে এগোব?",card_lost_no_info_how_to_get_new
+"NID হারিয়ে গেছে, কপি বা ট্র্যাকিং নম্বর নেই, নতুন স্মার্ট কার্ড ইস্যু করাতে কী করণীয়?",card_lost_no_info_how_to_get_new
+"NID কার্ড পাওয়া যাচ্ছে না, কোনো ডকুমেন্ট নেই, নির্বাচন কমিশনে নতুন কার্ডের জন্য কীভাবে আবেদন করবো?",card_lost_no_info_how_to_get_new
+"কার্ড হারিয়ে ফেলেছি, কোনো নম্বর নেই, নির্বাচন কমিশন নতুন কার্ড দিতে হলে প্রক্রিয়াটা কী?",card_lost_no_info_how_to_get_new
+রি-ইস্যু করতে কত টাকা জমা দিতে হয়?,card_reissue_fees
+ইসিতে এনআইডি রি-ইস্যুর জন্য কত টাকা জমা দিতে হবে?,card_reissue_fees
+হারানো এনআইডি রি-ইস্যুতে নির্বাচন কমিশনে কত ফি দিতে হয়?,card_reissue_fees
+স্মার্টকার্ড রি-ইস্যু করতে নির্বাচন কমিশনের ফি কত?,card_reissue_fees
+এনআইডি পুনঃপ্রদান বা রি-ইস্যুর জন্য নির্বাচন কমিশনে জমা কত টাকা লাগে?,card_reissue_fees
+নির্বাচন কমিশনের এনআইডি রি-ইস্যুর সরকারি ফি কত?,card_reissue_fees
+এনআইডি রি-ইস্যু করতে নির্বাচন কমিশনে ট্রেজারি চ্যালান কত টাকার হয়?,card_reissue_fees
+জরুরি এনআইডি রি-ইস্যু করলে নির্বাচন কমিশনের ফি কত হয়?,card_reissue_fees
+"মোবাইল নম্বর বা ফোন নম্বর সংযোজন বা সংশোধন করতে, কি ডকুমেন্টস লাগে?",cell_phone_number_correct_or_add_document_new
+বাংলাদেশ নির্বাচন কমিশনে এনআইডিতে ফোন নম্বর পরিবর্তন বা সংযোজনের জন্য কি ডকুমেন্ট দরকার?,cell_phone_number_correct_or_add_document_new
+নির্বাচন কমিশনের এনআইডি সেবায় ফোন নম্বর যোগ বা ঠিক করতে কি কি কাগজপত্র লাগবে?,cell_phone_number_correct_or_add_document_new
+এনআইডিতে মোবাইল নম্বর বদলানো বা যোগ করতে কোন ডকুমেন্টস লাগবে?,cell_phone_number_correct_or_add_document_new
+বাংলাদেশ নির্বাচন কমিশনের রেকর্ডে ফোন নম্বর সংশোধন বা সংযোজন করতে কি কাগজপত্র দরকার?,cell_phone_number_correct_or_add_document_new
+অনলাইনে এনআইডিতে মোবাইল নম্বর আপডেট করতে কোন কোন ডকুমেন্ট লাগে?,cell_phone_number_correct_or_add_document_new
+নির্বাচন কমিশনে এনআইডির ফোন নম্বর ঠিক করতে কি প্রমাণপত্র চাই?,cell_phone_number_correct_or_add_document_new
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি প্রোফাইলে ফোন নম্বর আপডেট করতে কি কি ডকুমেন্টস লাগবে?,cell_phone_number_correct_or_add_document_new
+"সংশোধনের আবেদন করেছি, আবেদনের কি অবস্থা?",correction_application_current_status
+"নির্বাচন কমিশনে এনআইডি সংশোধনের আবেদন করেছি, স্ট্যাটাস কী?",correction_application_current_status
+নির্বাচন কমিশনে করা সংশোধন আবেদনের অবস্থা এখন কোথায়?,correction_application_current_status
+"এনআইডি তথ্য সংশোধনের জন্য ইসিতে আবেদন দিয়েছি, আপডেট কী আছে?",correction_application_current_status
+নির্বাচন কমিশনে আমার সংশোধন আবেদনটা কোন পর্যায়ে আছে?,correction_application_current_status
+ইসিতে দেয়া ভোটার আইডি সংশোধনের আবেদনের অগ্রগতি কতদূর?,correction_application_current_status
+নির্বাচন কমিশনে করা এনআইডি সংশোধন আবেদনের প্রক্রিয়া কোথায় দাঁড়িয়ে?,correction_application_current_status
+"সংশোধেন আবেদন করেছিলাম, বাতিল হয়ে গেছে, পুনরায় আবেদন করতে কি নতুন করে ফিস জমা দিতে হবে?",correction_application_rejected_need_new_fee
+"নির্বাচন কমিশনে তথ্য সংশোধনের আবেদন রিজেক্ট হয়েছে, পুনরায় আবেদন করতে কি আবার ফি জমা দিতে হবে?",correction_application_rejected_need_new_fee
+"আগের এনআইডি সংশোধন আবেদন বাতিল হয়েছে, আবার ইসিতে দিলে আগের ফি কি চলবে, নাকি নতুন করে টাকা দিতে হবে?",correction_application_rejected_need_new_fee
+"জাতীয় পরিচয়পত্রের তথ্য সংশোধনের আবেদন বাতিল হলে, আবার আবেদন করতে কি ফিস আবার লাগবে?",correction_application_rejected_need_new_fee
+"নির্বাচন কমিশনের এনআইডি সংশোধন আবেদন বাতিল হলে, পুনরায় আবেদন করলে আগের ফি কি ধরে নেবে, না কি আবার ফি দিতে হবে?",correction_application_rejected_need_new_fee
+"এনআইডি তথ্য সংশোধনের আবেদন রিজেক্ট হয়েছে, আবার আবেদন দিলে কি টাকা আবার জমা দিতে হয়?",correction_application_rejected_need_new_fee
+"জাতীয় পরিচয়পত্র সংশোধন আবেদন বাতিল হয়ে গেলে, দ্বিতীয়বার আবেদন করতে কি আগের ফি চলবে নাকি নতুন ফি লাগবে?",correction_application_rejected_need_new_fee
+"ইসির এনআইডি সংশোধনের আবেদন যদি রিজেক্ট হয়, পুনরায় আবেদন করলে কি ফি আবার পরিশোধ করতে হবে?",correction_application_rejected_need_new_fee
+"সংশোধনের আবেদন করেছি xx দিন আগে, এখন কি অবস্থায় আছে?",correction_application_status
+"ভোটার আইডি সংশোধনের আবেদন দিয়েছি xx দিন আগে, এখন কতদূর এগিয়েছে?",correction_application_status
+"নির্বাচন কমিশনে আমার সংশোধন আবেদন xx দিন আগে জমা দিয়েছি, এখন কী অবস্থায় আছে?",correction_application_status
+"ইসিতে এনআইডি তথ্য সংশোধন করেছি xx দিন আগে, আপডেটটা কী এখন?",correction_application_status
+"ভোটার তথ্য সংশোধনের ফাইল জমা দিয়েছিলাম xx দিন আগে, আজ স্ট্যাটাস কী?",correction_application_status
+"নির্বাচন কমিশনের সংশোধন আবেদন xx দিন হলো, প্রক্রিয়াটা এখন কেমন চলছে?",correction_application_status
+"নির্বাচন কমিশনে ভোটার আইডি সংশোধন দিয়েছি xx দিন আগে, এখন অগ্রগতি কতদূর?",correction_application_status
+"এনআইডি সংশোধনের অনলাইন আবেদন করেছি xx দিন আগে, প্রসেসিং এখন কোথায়?",correction_application_status
+"সংশোধনের জন্য অনেক দিন আগে আবেদন করেছি, ক্যাটাগরী পড়ছে না, কি করবো?",correction_applied_but_no_category
+"NID তথ্য সংশোধনের আবেদন করেছি অনেকদিন, কিন্তু ক্যাটাগরি আসছে না, কী করণীয়?",correction_applied_but_no_category
+"ভোটার আইডি সংশোধনের জন্য আবেদন দিয়ে রেখেছি, অনেকদিনেও ক্যাটাগরি পড়ছে না, কী করব?",correction_applied_but_no_category
+"দীর্ঘদিন আগে NID সংশোধনের আবেদন দিয়েছি, ক্যাটাগরি আপডেট হচ্ছে না, কী করতে পারি?",correction_applied_but_no_category
+"ইসিতে সংশোধনের আবেদন করেছি বেশ আগে, ক্যাটাগরী দেখা যাচ্ছে না, কী করবো?",correction_applied_but_no_category
+"অনেকদিন হলো NID সংশোধনের আবেদন করেছি, কিন্তু ক্যাটাগরি কিছুই পড়ছে না, কী করব?",correction_applied_but_no_category
+"ভোটার আইডি করেকশনের জন্য আগে আবেদন করেছি, এখনো ক্যাটাগরি দেখা যায় না, কী করণীয়?",correction_applied_but_no_category
+"NID করেকশন আবেদনের ক্যাটাগরি এতদিনেও আসেনি, আমি কী করব?",correction_applied_but_no_category
+"সংশোধনের আবেদন সাবমিট করার পর দেখতে পাচ্ছি আরও কিছু তথ্য সংশোধন করা প্রয়োজন, কি করবো?",correction_applied_more_correction_needed
+"নির্বাচন কমিশনে সংশোধনের আবেদন জমা দেওয়ার পর বুঝলাম আরও কিছু তথ্য ঠিক করতে হবে, এখন কী করব?",correction_applied_more_correction_needed
+"ভোটার তথ্য সংশোধনের আবেদন সাবমিট করার পর দেখি আরও কিছু আপডেট দরকার, এটা কীভাবে করব?",correction_applied_more_correction_needed
+"সংশোধনের আবেদন জমা দেওয়ার পর যদি আরও ভুল ধরা পড়ে, নির্বাচন কমিশনে সেটা কীভাবে ঠিক করব?",correction_applied_more_correction_needed
+"আবেদন সাবমিট করার পরে দেখি আরও কিছু তথ্য সংশোধন করা লাগবে, নির্বাচন কমিশনের নিয়মে কী করব?",correction_applied_more_correction_needed
+"ভোটার আইডি সংশোধনের আবেদন দেওয়ার পর বুঝছি আরও তথ্য বদলাতে হবে, এখন কী আবেদনটা এডিট করা যাবে?",correction_applied_more_correction_needed
+"সংশোধনের আবেদন পাঠানোর পর দেখি কিছু তথ্য মিস হয়েছে, এখন কী বাতিল করে নতুন করে আবেদন দেব?",correction_applied_more_correction_needed
+"নির্বাচন কমিশনে আমার সংশোধন আবেদন সাবমিটের পর আরও বিস্তারিত ঠিক করা দরকার মনে হচ্ছে, পরবর্তী পদক্ষেপ কী?",correction_applied_more_correction_needed
+এনআইডি সংশোধনের জন্য কিভাবে ফি জমা দিতে হয়?,correction_fee_payment
+এনআইডি সংশোধনের ফি কীভাবে পরিশোধ করব?,correction_fee_payment
+এনআইডি তথ্য সংশোধনের ফি কোথায় এবং কীভাবে জমা দিতে হয়?,correction_fee_payment
+বাংলাদেশ নির্বাচন কমিশনে এনআইডি সংশোধনের ফি জমা দেওয়ার নিয়ম কী?,correction_fee_payment
+এনআইডি সংশোধনের টাকা কোন ব্যাংকে বা কোন মাধ্যমে কিভাবে জমা দেব?,correction_fee_payment
+"এনআইডি সংশোধনের ফি কিভাবে পেমেন্ট করব, ধাপগুলো কী?",correction_fee_payment
+"এনআইডি সংশোধনের ফি জমা দিতে অনলাইন পেমেন্ট আছে কি, করতে হলে কী করতে হবে?",correction_fee_payment
+এনআইডি সংশোধনের ফি জমা দেওয়ার পদ্ধতি কীভাবে কাজ করে?,correction_fee_payment
+এনআইডি সংশোধনের জন্য ফি কোথায় জমা দেব এবং কীভাবে দেব?,correction_fee_payment
+সংশোধন আবেদনের জন্য টাকা জমা দেওয়ার পদ্ধতি কি কি?,correction_fee_payment
+ভোটার আইডি সংশোধন আবেদনের টাকা কোথায় এবং কীভাবে জমা দিতে হয়?,correction_fee_payment
+এনআইডি ডেটা সংশোধনের ফি অনলাইনে দেওয়া যাবে নাকি ব্যাংকে জমা দিতে হয়?,correction_fee_payment
+নির্বাচন কমিশনের সংশোধন আবেদন ফি দিতে হলে কোন কোন পেমেন্ট অপশন আছে?,correction_fee_payment
+ভোটার তালিকা সংশোধনের ফি কীভাবে জমা দেব মোবাইল ব্যাংকিং কি চলবে?,correction_fee_payment
+নির্বাচন কমিশনে সংশোধন ফি পরিশোধের নিয়মটা কী?,correction_fee_payment
+নির্বাচন কমিশনের সংশোধন ফি কি বিকাশ বা নগদে দেওয়া যায়?,correction_fee_payment
+"সংশোধনের জন্য টাকা জমা দিয়েছি, আবেদন সাবমিট করিনি, কিন্তু এনআইডি Wallet এ টাকা জমার পরিমাণ শুণ্য (০) দেখাচ্ছে, কি করবো?",correction_fee_submitted_but_balance_zero
+"ফি দেওয়া হয়েছে, কিন্তু আবেদন সাবমিট হয়নি, এনআইডি ওয়ালেটে অ্যামাউন্ট শূন্য দেখায়, সমাধান কী?",correction_fee_submitted_but_balance_zero
+"সংশোধনের জন্য টাকা রিচার্জ দিয়েছি, আবেদন করা হয়নি, ওয়ালেট ব্যালান্স শূন্য কেন, কী করব?",correction_fee_submitted_but_balance_zero
+"পেমেন্ট সফল হলেও আবেদন সাবমিট করিনি, NID Wallet এ ০ টাকা দেখা যাচ্ছে, পরের পদক্ষেপ কী?",correction_fee_submitted_but_balance_zero
+"সংশোধনের ফি কাটা গেছে, আবেদন এখনো সাবমিট করিনি, ওয়ালেটে ক্রেডিট নেই দেখায়, কোথায় যোগাযোগ করব?",correction_fee_submitted_but_balance_zero
+"ফি পরিশোধ করেছি কিন্তু আবেদন জমাইনি, এনআইডি ওয়ালেটে টাকা আপডেট হয়নি, কীভাবে ঠিক করব?",correction_fee_submitted_but_balance_zero
+"টাকা পে করেছি সংশোধনের জন্য, আবেদন সাবমিট দিতে দেরি হয়েছে, ওয়ালেট ০ দেখায়, এখন কী হবে?",correction_fee_submitted_but_balance_zero
+"সংশোধনের টাকা দেওয়া, আবেদন বাকি, NID Wallet এ ব্যালান্স শূন্য দেখাচ্ছে, কী করা দরকার?",correction_fee_submitted_but_balance_zero
+"সংশোধনের এসএমএস পেয়েছি কিন্তু NID কার্ডে আপডেট দেখাচ্ছে না, ১০৫ এ কল দিলে জানাল যে কোন পরিবর্তন ছাড়াই অনুমোদন হয়েছে, এখন কী করবো?",correction_messages_but_no_update_in_card_no_approve
+"জাতীয় পরিচয়পত্রে যে সংশোধন চেয়েছিলাম তার বার্তা এসেছে, কিন্তু কার্ডে পুরনো তথ্যই আছে, ১০৫ বলে অনুমোদন হয়েছে পরিবর্তন ছাড়া, এখন সমাধান কী?",correction_messages_but_no_update_in_card_no_approve
+"নির্বাচন কমিশনের করেকশন মেসেজ পেলাম কিন্তু কার্ডে ঠিক করা হয়নি, ১০৫ হেল্পলাইনে বলল চেঞ্জ না দিয়েই অ্যাপ্রুভড, কীভাবে এগোবো?",correction_messages_but_no_update_in_card_no_approve
+"আমার এনআইডি সংশোধন আবেদন অ্যাপ্রুভড এসএমএস এসেছে কিন্তু কার্ডে আপডেট আসেনি, ১০৫ এ বলা হলো কোন ডেটা চেঞ্জ হয়নি, এখন কী করা উচিত?",correction_messages_but_no_update_in_card_no_approve
+"সংশোধনের রেসপন্স পেয়েছি কিন্তু জাতীয় পরিচয়পত্রে নতুন তথ্য দেখাচ্ছে না, ১০৫ বলছে পরিবর্তন ছাড়া অনুমোদন, এখন করণীয় কী?",correction_messages_but_no_update_in_card_no_approve
+"নির্বাচন কমিশন থেকে করেকশন অ্যাপ্রুভড মেসেজ পেলেও কার্ডে আগের তথ্যই আছে, ১০৫ হেল্পলাইন জানাল সংশোধন ছাড়াই পাশ করেছে, কী করি?",correction_messages_but_no_update_in_card_no_approve
+"এনআইডি কার্ডে সংশোধিত তথ্য বসেনি, এসএমএসে অ্যাপ্রুভড এসেছে, ১০৫ এ কল করে শুনলাম কোন পরিবর্তন হয়নি তবু অনুমোদন, এখন কীভাবে সমাধান করব?",correction_messages_but_no_update_in_card_no_approve
+"পোর্টালে করেকশন স্ট্যাটাস অ্যাপ্রুভড দেখায় কিন্তু NID কার্ডে কিছু আপডেট নেই, ১০৫ বলছে পরিবর্তন ছাড়াই অনুমোদন, এখন কী করবো?",correction_messages_but_no_update_in_card_no_approve
+"সংশোধনের আবেদন স্লিপ হারিয়ে ফেলেছি, আমি কি সংশোধন হওয়ার পর আইডি কার্ড পাবো?",correction_slip_lost_can_get_card
+"আবেদন স্লিপ হারিয়েছি, সংশোধন শেষ হলে কি আইডি কার্ড পাবো?",correction_slip_lost_can_get_card
+"সংশোধনের রশিদ নেই, আপডেটের পর কি জাতীয় পরিচয়পত্র পাবো?",correction_slip_lost_can_get_card
+আবেদন রসিদ হারিয়ে গেলে কি সংশোধন শেষে আইডি কার্ড দেওয়া হবে?,correction_slip_lost_can_get_card
+স্লিপ ছাড়া কি নির্বাচন কমিশন সংশোধনের পর NID দেয়?,correction_slip_lost_can_get_card
+"ট্র্যাকিং স্লিপ হারিয়েছি, আপডেট হয়ে গেলে কি কার্ড নিতে পারব?",correction_slip_lost_can_get_card
+আবেদন রশিদ না থাকলে কি সংশোধিত জাতীয় পরিচয়পত্র পাওয়া যাবে?,correction_slip_lost_can_get_card
+"আবেদন কপি নেই, সংশোধন হয়ে গেলে কি কার্ড কালেক্ট করতে পারব?",correction_slip_lost_can_get_card
+মৃত ব্যক্তির আইডিকার্ড সংশোধন করতে কি করণীয়?,dead_people_id_card_update
+মৃত ব্যক্তির জাতীয় পরিচয়পত্র সংশোধন করতে কী কী করতে হবে?,dead_people_id_card_update
+মারা যাওয়া ব্যক্তির NID এ ভুল থাকলে সংশোধন কীভাবে করব?,dead_people_id_card_update
+মৃত পরিবারের সদস্যের ভোটার আইডি সংশোধনের জন্য কোথায় আবেদন দেব?,dead_people_id_card_update
+মৃত ব্যক্তির জাতীয় পরিচয়পত্র সংশোধনের নিয়মটা কী?,dead_people_id_card_update
+মৃত ব্যক্তির NID এ বানান ভুল থাকলে সংশোধন কীভাবে হবে?,dead_people_id_card_update
+মৃত ব্যক্তির NID সংশোধনে কে আবেদন করতে পারে?,dead_people_id_card_update
+মৃত ব্যক্তির NID ঠিক করতে স্থানীয় ইসি অফিসে যেতে হবে কি?,dead_people_id_card_update
+"ডাবল ভোটার হয়েছি বুঝলাম, ইসি সিস্টেমে Match Found দেখায়, এখন কীভাবে ঠিক করব?",double_voter_registration_issue
+"আমার দুইবার এনরোল হয়ে গেছে, ইসি বলছে Match Found, এখন করণীয় কী?",double_voter_registration_issue
+"দুই জায়গায় ভোটার হয়ে গেছি মনে হচ্ছে, ইসি সিস্টেমে Match Found এসেছে, কোথায় যোগাযোগ করব?",double_voter_registration_issue
+"দ্বৈত ভোটার হয়ে গেছি ভুলে, ইসিতে Match Found দেখাচ্ছে, এখন কী পদক্ষেপ নেব?",double_voter_registration_issue
+"আবার ভোটার এপ্লাই করায় ইসিতে Match Found হয়েছে, এখন বাতিল বা ঠিক করার উপায় কী?",double_voter_registration_issue
+"ভুলে ডুপ্লিকেট রেজিস্ট্রেশন হয়েছে, ইসিতে Match Found দেখায়, এখন কী করতে হবে?",double_voter_registration_issue
+"দ্বিতীয়বার এনরোল করার পর Match Found দেখাল, ইসি অফিসে যেতে হবে নাকি অনলাইনে হবে?",double_voter_registration_issue
+"আমার NID তে দ্বৈত রেকর্ড ধরা পড়েছে Match Found, এখন প্রক্রিয়াটা কী?",double_voter_registration_issue
+এনআইডি করতে কোন কোন দেশের জন্য দ্বৈত নাগরিকত্ব সনদের দরকার হয় না?,dual_citizenship_certificate_of_which_countires_not_required_for_nid
+জাতীয় পরিচয়পত্র পেতে কোন কোন দেশের নাগরিকদের ডুয়াল সিটিজেনশিপ সনদ লাগবে না?,dual_citizenship_certificate_of_which_countires_not_required_for_nid
+ভোটার আইডি করার সময় কোন কোন দেশের ক্ষেত্রে দ্বৈত নাগরিক সনদ লাগে না?,dual_citizenship_certificate_of_which_countires_not_required_for_nid
+বাংলাদেশ নির্বাচন কমিশনের নিয়মে এনআইডির জন্য ডুয়াল সিটিজেনশিপ সার্টিফিকেট ছাড় পাওয়া কোন কোন দেশ?,dual_citizenship_certificate_of_which_countires_not_required_for_nid
+এনআইডি করতে কোন কোন দেশের আবেদনকারীদের ডুয়াল সিটিজেনশিপ সনদ প্রয়োজন নেই?,dual_citizenship_certificate_of_which_countires_not_required_for_nid
+জাতীয় পরিচয়পত্রের আবেদনে কোন কোন দেশের জন্য ডুয়াল সিটিজেনশিপ সনদ ছাড় দেয়া আছে?,dual_citizenship_certificate_of_which_countires_not_required_for_nid
+নির্বাচন কমিশন অনুযায়ী এনআইডি পেতে ডুয়াল সিটিজেনশিপ সনদ না লাগার দেশের তালিকা কী?,dual_citizenship_certificate_of_which_countires_not_required_for_nid
+আমি পাশ না করেও অজ্ঞতাবশতঃ শিক্ষাগত যোগ্যতা এসএসসি বা তদুর্দ্ধ লিখেছিলাম এখন আমার বয়স বা অন্যান্য তথ্যাদি সংশোধনের উপায় কি?,educational_qualification_correction
+"আমি এসএসসি পাস না করেও এনআইডিতে এসএসসি লিখেছি, এখন বাংলাদেশ নির্বাচন কমিশনের মাধ্যমে বয়স ও অন্যান্য তথ্য কীভাবে সংশোধন করবো?",educational_qualification_correction
+"ভোটার আইডি ফর্মে ভুলবশত এসএসসি বা তদূর্ধ্ব দিয়েছি কিন্তু পাস করিনি, বয়সসহ তথ্য ঠিক করাতে কী করতে হবে?",educational_qualification_correction
+"এনআইডির রেকর্ডে আমার শিক্ষাগত যোগ্যতা বেশি দেখানো হয়েছে, বয়স ও বাকি ডেটা সংশোধনের প্রক্রিয়া কী?",educational_qualification_correction
+"আমি ভুল করে ভোটার নিবন্ধনে এসএসসি উল্লেখ করেছি অথচ পাস করিনি, বয়স ও অন্যান্য তথ্য সংশোধনের নিয়ম কী?",educational_qualification_correction
+"এনআইডিতে অজান্তে এসএসসি লিখেছি, এখন বাংলাদেশ নির্বাচন কমিশনে বয়স এবং অন্য তথ্য বদলাতে কীভাবে আবেদন করব?",educational_qualification_correction
+"ভোটার আইডিতে শিক্ষাগত যোগ্যতা ভুল এন্ট্রি হয়েছে, বয়সসহ তথ্য ঠিক করতে কোথায় এবং কীভাবে করবো?",educational_qualification_correction
+"আমি এসএসসি না পাস করেও এনআইডিতে তদূর্ধ্ব লিখেছিলাম, এখন বয়স বা অন্য তথ্য কীভাবে ঠিক করাতে পারি?",educational_qualification_correction
+"আমার ভোটার হওয়ার থানা, জেলা ও বিভাগ কি?",eight_hours_time_up
+"আমি কোন থানা, জেলা ও বিভাগে ভোটার?",eight_hours_time_up
+"আমার ভোটার এলাকার থানা, জেলা ও বিভাগ কোনগুলো?",eight_hours_time_up
+"আমি ভোটার হিসেবে কোন থানা, জেলা ও বিভাগে পড়ি?",eight_hours_time_up
+"আমার ভোটার ঠিকানা অনুযায়ী থানা, জেলা ও বিভাগ কী?",eight_hours_time_up
+"ভোটার তালিকায় আমার থানা, জেলা ও বিভাগ কী?",eight_hours_time_up
+"আমার ভোটার এলাকা কোন থানা, জেলা ও বিভাগে পড়ে?",eight_hours_time_up
+"আমি ভোটার হিসেবে কোন থানা, জেলা ও বিভাগে আছি?",eight_hours_time_up
+"ছবি তুলেছি কিন্তু মোবাইলে এসএমএস আসেনি, এনআইডি নম্বর কিভাবে পাবো?",eight_hours_time_up
+"ছবি তোলার পরও মোবাইলে এসএমএস আসেনি, এনআইডি নম্বর কীভাবে পাব?",eight_hours_time_up
+রেজিস্ট্রেশন শেষে এসএমএস না পেলে এনআইডি নাম্বার চেক করার উপায় কী?,eight_hours_time_up
+"ছবি তুলেছি কিন্তু কোনো মেসেজ আসেনি, এনআইডি নম্বর জানতে এখন কী করব?",eight_hours_time_up
+"বায়োমেট্রিক শেষ, মোবাইলে এসএমএস আসেনি, এনআইডি নাম্বার জানার উপায় বলবেন?",eight_hours_time_up
+এসএমএস না এলে এনআইডি নম্বর অনলাইনে কিভাবে দেখব নির্বাচন কমিশনের সাইটে?,eight_hours_time_up
+নির্বাচন কমিশনের এনআইডি সেবা থেকে এসএমএস না পেলে নম্বর জানার সহজ উপায় কী?,eight_hours_time_up
+পরবর্তী ভোটার তালিকা হালনাগাদ কবে হবে?,eight_hours_time_up
+বাংলাদেশ নির্বাচন কমিশনের পরের ভোটার তালিকা আপডেট কবে?,eight_hours_time_up
+ইসি ভোটার তালিকা পরেরবার কবে আপডেট করবে?,eight_hours_time_up
+বাংলাদেশ নির্বাচন কমিশনের আগামী ভোটার তালিকা হালনাগাদের তারিখ কবে?,eight_hours_time_up
+ইসির ভোটার তালিকা হালনাগাদের পরবর্তী পর্ব কবে?,eight_hours_time_up
+ইসি ভোটার নিবন্ধন তালিকা নতুন করে কবে হালনাগাদ দেবে?,eight_hours_time_up
+বাংলাদেশ নির্বাচন কমিশন কবে আবার ভোটার তালিকা আপডেট করবে?,eight_hours_time_up
+বাংলাদেশ নির্বাচন কমিশনের ভোটার নামের তালিকার পরবর্তী আপডেট কখন?,eight_hours_time_up
+ইসির পরের ভোটার তালিকা হালনাগাদ কোন মাসে হবে?,eight_hours_time_up
+ইসির পরবর্তী ভোটার তালিকা হালনাগাদের সময়সূচি কবে?,eight_hours_time_up
+"আট ঘন্টা পর আবার রেজিষ্ট্রেশন করার চেষ্টা করছি কিন্তু একাউন্ট এখনও লক দেখাচ্ছে, কিভাবে সমাধান করবো?",eight_hours_time_up
+"ইসি পোর্টালে আট ঘণ্টা পরও রেজিস্ট্রেশন দিতে গেলে একাউন্ট লক দেখাচ্ছে, সমাধানটা কী?",eight_hours_time_up
+"ভোটার নিবন্ধনের ইসি ওয়েবসাইটে ৮ ঘণ্টা অপেক্ষা করে আবার চেষ্টা করলাম, একাউন্ট এখনও লকড, কীভাবে আনলক করব?",eight_hours_time_up
+"বাংলাদেশ নির্বাচন কমিশনের অনলাইন রেজিস্ট্রেশনে আট ঘন্টা পরও আমার একাউন্ট লকই আছে, এখন কী করণীয়?",eight_hours_time_up
+"NID অনলাইন সেবায় ৮ ঘণ্টা পর লগইন দিয়ে রেজিস্ট্রেশন করতে গেলে একাউন্ট লক বলা হচ্ছে, কী করতে হবে?",eight_hours_time_up
+"ইসি পোর্টালে আট ঘণ্টা অপেক্ষার পরও একাউন্ট আনলক হয়নি, আবার রেজিস্ট্রেশন করতে কীভাবে এগোব?",eight_hours_time_up
+"নির্বাচন কমিশনের সাইটে ৮ ঘণ্টা পর আবার রেজিস্ট্রেশন দিচ্ছি, তবু একাউন্ট লক দেখায়, সমাধান কীভাবে পাব?",eight_hours_time_up
+"ইসি NID সাইটে আট ঘন্টা পরও একাউন্ট লক দেখাচ্ছে বলে রেজিস্ট্রেশন হচ্ছে না, এটা কিভাবে ঠিক করব?",eight_hours_time_up
+"ভোটার সেবার ইসি পোর্টালে আট ঘণ্টা অপেক্ষার পরও লক খুলছে না, রেজিস্ট্রেশন করার উপায় কী?",eight_hours_time_up
+একাউন্ট বারবার লক দেখাচ্ছে আমার তথ্য ঠিক আছে কিনা চেক করে দিতে পারবেন?,eight_hours_time_up
+আমার এনআইডি অনলাইন একাউন্ট বারবার লক হচ্ছে নির্বাচন কমিশন কি আমার তথ্য ঠিক আছে কিনা চেক করতে পারবেন?,eight_hours_time_up
+ইসির সেবায় আমার একাউন্ট ঘনঘন লক হয় আমার ভোটার তথ্য সঠিক কিনা যাচাই করে দেবেন?,eight_hours_time_up
+বাংলাদেশ নির্বাচন কমিশনের NID পোর্টালে একাউন্ট লক দেখাচ্ছে আমার রেকর্ডে ভুল আছে কিনা দেখে জানাবেন?,eight_hours_time_up
+ইসি পোর্টালে বারবার লকড হচ্ছে আমার প্রোফাইলের তথ্য ঠিকঠাক আছে কিনা দেখে দিতে পারবেন?,eight_hours_time_up
+ভোটার সেবা একাউন্ট প্রায়ই লক হয়ে যায় আমার এনআইডির তথ্য ঠিক আছে কিনা ভেরিফাই করবেন?,eight_hours_time_up
+নির্বাচন কমিশনের অনলাইন একাউন্ট লকড দেখায় আমার ভোটার ডাটায় কোনো ভুল আছে কি না চেক করে বলবেন?,eight_hours_time_up
+NID সেবায় আমার একাউন্ট লক হয়ে গেছে আমার রেকর্ড সঠিক আছে কি না দেখে সাহায্য করবেন?,eight_hours_time_up
+ইসি অনলাইন পোর্টালে একাউন্ট বারবার ব্লক হয় আমার এনআইডি তথ্য ঠিকঠাক আছে কিনা দেখে দিতে পারবেন?,eight_hours_time_up
+একাউন্ট বারবার লক দেখাচ্ছে তথ্য ঠিক আছে কিনা কিভাবে বুঝবো?,eight_hours_time_up
+"নির্বাচন কমিশনের NID একাউন্ট বারবার লক হচ্ছে, আমার তথ্য ঠিক আছে কিনা কীভাবে বুঝব?",eight_hours_time_up
+"ইসি পোর্টালে লগইন দিলেই লক দেখায়, দেওয়া তথ্য সঠিক কিনা যাচাই করব কীভাবে?",eight_hours_time_up
+"ভোটার সেবা পোর্টালে একাউন্ট লক হয়ে যাচ্ছে, এনআইডির তথ্য ঠিকঠাক আছে কিনা কীভাবে নিশ্চিত হব?",eight_hours_time_up
+"নির্বাচন কমিশনের সাইটে বারবার লক আসে, প্রোফাইল তথ্য মিলছে কিনা চেক করব কীভাবে?",eight_hours_time_up
+"NID পোর্টালে অ্যাকাউন্ট বারবার লক দেখায়, আমার ডেটা সঠিক আছে কিনা বুঝব কীভাবে?",eight_hours_time_up
+"ইসি এনআইডি সার্ভিসে লগইন লক হয়ে যায়, রেজিস্ট্রেশন তথ্য ঠিক আছে কিনা কীভাবে যাচাই করব?",eight_hours_time_up
+"নির্বাচন কমিশন একাউন্টে বারবার লক দেখাচ্ছে, দেওয়া তথ্য ঠিকঠাক আছে কিনা কনফার্ম করব কীভাবে?",eight_hours_time_up
+"নির্বাচন কমিশনের NID সেবায় লগইন লক হয়ে যায়, তথ্য সঠিক কিনা বোঝার উপায় কী?",eight_hours_time_up
+"এনআইডি Wallet এ ফেস ভেরিফিকেশন সম্পন্ন হয়েছে, কিন্তু পরবর্তী অপশনে যাচ্ছে না।",face_verification_no_next_option
+"এনআইডি Wallet এ ফেস ভেরিফিকেশন সম্পন্ন হয়েছে, কিন্তু পরবর্তী অপশনে যাচ্ছে না, কী করব?",face_verification_no_next_option
+"এনআইডি ওয়ালেটে মুখ যাচাই শেষ, তবু পরের ধাপে যাচ্ছে না, কেন?",face_verification_no_next_option
+"এনআইডি Wallet এ ফেস ভেরিফাইড হলেও নেক্সট হচ্ছে না, কী সমস্যা?",face_verification_no_next_option
+"এনআইডি ওয়ালেট অ্যাপে ফেস ভেরিফিকেশন পাস হয়েছে, কিন্তু নেক্সট বাটন কাজ করছে না?",face_verification_no_next_option
+"এনআইডি ওয়ালেটে ফেস যাচাই হয়ে গেছে, তবু পরবর্তী অপশন আসছে না?",face_verification_no_next_option
+"এনআইডি Wallet এ ভেরিফিকেশনের পর আটকে যায়, নেক্সট যায় না, কী করা যায়?",face_verification_no_next_option
+"নির্বাচন কমিশনের এনআইডি ওয়ালেটে ফেস ভেরিফিকেশন হয়ে গেলেও এগোয় না, কেন?",face_verification_no_next_option
+দ্রুত ভোটার হওয়ার জন্য কোন ব্যবস্থা আছে?,faster_voter_registration
+বাংলাদেশ নির্বাচন কমিশনে দ্রুত ভোটার হওয়ার কোনো ব্যবস্থা আছে?,faster_voter_registration
+ইসিতে তাড়াতাড়ি ভোটার হতে কি কোনো ব্যবস্থা আছে?,faster_voter_registration
+নির্বাচন কমিশন কি জরুরি ভিত্তিতে ভোটার নিবন্ধনের কোনো সুবিধা দেয়?,faster_voter_registration
+বাংলাদেশ নির্বাচন কমিশনে শিগগির ভোটার হতে অনলাইনে কোনো ব্যবস্থা আছে?,faster_voter_registration
+নির্বাচন কমিশন কি দ্রুত ভোটার হওয়ার জন্য কোনো প্রায়োরিটি সার্ভিস দেয়?,faster_voter_registration
+ইসি কি দ্রুত ভোটার হওয়ার জন্য কোনো ত্বরিত প্রক্রিয়া রাখে?,faster_voter_registration
+বাংলাদেশ নির্বাচন কমিশনে জরুরি ভোটার হওয়া সম্ভব কি?,faster_voter_registration
+"পিতার ঠিকানা আর আমার ঠিকানা ভিন্ন, আমার ঠিকানায় ভোটার করছে না, কিভাবে ভোটার হবো?",father_and_my_adress_different
+"বাবার ঠিকানা আর আমার বর্তমান ঠিকানা আলাদা, আমার ঠিকানায় ভোটার করছে না, এখন ভোটার হতে কী করতে হবে?",father_and_my_adress_different
+"পিতার ঠিকানা ভিন্ন, আমি অন্য ঠিকানায় থাকি, এ ঠিকানায় ভোটার নিবন্ধন দিচ্ছে না, কীভাবে ভোটার হব?",father_and_my_adress_different
+"বাবার বাড়ির ঠিকানা আর আমার ঠিকানা মেলে না, আমার ঠিকানায় ভোটার তালিকায় তুলছে না, ভোটার হতে উপায় কী?",father_and_my_adress_different
+"পিতার ঠিকানা আর আমার ঠিকানা না মেলায় আমার এলাকায় ভোটার করছে না, এখন করণীয় কী?",father_and_my_adress_different
+"পিতার ঠিকানা অন্য, আমার ঠিকানা অন্য, আমার ঠিকানায় ভোটার করছে না, সমাধান কী?",father_and_my_adress_different
+"বাবার ঠিকানা আলাদা, আমি বর্তমান ঠিকানায় ভোটার হতে চাই কিন্তু করছে না, কীভাবে প্রক্রিয়া এগোব?",father_and_my_adress_different
+"পিতার ঠিকানা থেকে আলাদা ঠিকানায় থাকি, এখানে ভোটার নিবন্ধন নিচ্ছে না, ভোটার হতে কী করব?",father_and_my_adress_different
+ফিঙ্গারপ্রিন্ট আপডেট করতে দিয়ে ধীর্ঘদিন হলো কিন্তু এখনো হচ্ছে না বা Adjudication Pending অবস্থায় আছে। কি করনীয়?,finderprint_adjudication_pending
+"এনআইডির ফিঙ্গারপ্রিন্ট আপডেট অনেকদিন ধরে ঝুলে আছে, স্ট্যাটাসে Adjudication Pending দেখাচ্ছে, এখন কী করব?",finderprint_adjudication_pending
+"বাংলাদেশ নির্বাচন কমিশনে ফিঙ্গারপ্রিন্ট আপডেট দিয়েছি অনেকদিন, কিন্তু এখনো হয়নি বা Adjudication Pending আছে, করণীয় কী?",finderprint_adjudication_pending
+"ইসি অফিসে ফিঙ্গারপ্রিন্ট আপডেট জমা দিয়েছি, স্ট্যাটাস দীর্ঘদিন Adjudication Pending, সমাধানের জন্য কোথায় যোগাযোগ করব?",finderprint_adjudication_pending
+"এনআইডি পোর্টালে ফিঙ্গারপ্রিন্ট আপডেটের স্ট্যাটাস বারবার Adjudication Pending দেখায়, এখন কী পদক্ষেপ নেব?",finderprint_adjudication_pending
+"ইসির ফিঙ্গারপ্রিন্ট আপডেট প্রসেসে দীর্ঘ বিলম্ব, Adjudication Pending দেখাচ্ছে, আমাকে এখন কী করতে হবে?",finderprint_adjudication_pending
+"নির্বাচন কমিশনের ফিঙ্গারপ্রিন্ট আপডেট অনেকদিন ধরে পেন্ডিং, Adjudication Pending হলে সাধারণত কতদিন লাগে আর কী করণীয়?",finderprint_adjudication_pending
+"Adjudication Pending দেখিয়ে এনআইডির ফিঙ্গারপ্রিন্ট আপডেট এগোচ্ছে না, হেল্পলাইনে কল দেব নাকি সরাসরি ইসি অফিসে যাব?",finderprint_adjudication_pending
+মোবাইলের সিম বা অন্যান্য ক্ষেত্রে ফিঙ্গারপ্রিন্ট দিলে আমার তথ্য আসেনা। কি করনীয়?,fingerprint_error_info_not_found
+"মোবাইল সিম বা ব্যাংকে ফিঙ্গারপ্রিন্ট দিলে ইসি থেকে তথ্য মেলে না, এখন কী করা উচিত?",fingerprint_error_info_not_found
+"ফিঙ্গারপ্রিন্ট ম্যাচ না হওয়ায় নির্বাচন কমিশনের রেকর্ডে আমার তথ্য উঠছে না, সমাধান কী?",fingerprint_error_info_not_found
+"সিম নিবন্ধনে ফিঙ্গারপ্রিন্ট দিলেও ইসির ডাটায় আমার রেকর্ড পাওয়া যাচ্ছে না, কী করণীয়?",fingerprint_error_info_not_found
+"ফিঙ্গারপ্রিন্ট দিয়ে এনআইডি চেক করলে তথ্য আসছে না, নির্বাচন কমিশনের দিক থেকে কী করতে হবে?",fingerprint_error_info_not_found
+"ইসির ডাটাবেসে আমার ফিঙ্গারপ্রিন্ট মেলে না বলে সেবা পাচ্ছি না, এখন কীভাবে ঠিক করব?",fingerprint_error_info_not_found
+"ভোটার আইডির বায়োমেট্রিক মেলেনি বলে যাচাই সম্পন্ন হচ্ছে না, নির্বাচন কমিশনের সাথে কীভাবে এগোব?",fingerprint_error_info_not_found
+"সিম রেজিস্ট্রেশন সময় ফিঙ্গারপ্রিন্ট নিলে আমার তথ্য ভেরিফাই হয় না, ইসির বিষয়টি কিভাবে সমাধান করতে পারি?",fingerprint_error_info_not_found
+"ফিঙ্গারপ্রিন্ট পরিবর্তন বা আপডেটের জন্য আবেদন করেছিলাম, এখনো অনুমোদন হয়নি, কেন?",fingerprint_update_applied_not_approved
+"আঙুলের ছাপ আপডেটের জন্য এনআইডিতে আবেদন করেছি, এখনও অনুমোদন আসেনি, কারণ কী?",fingerprint_update_applied_not_approved
+"ফিঙ্গারপ্রিন্ট সংশোধনের আবেদন অনেক দিন ধরে পেন্ডিং, নির্বাচন কমিশন কেন দেরি করছে?",fingerprint_update_applied_not_approved
+"এনআইডির ফিঙ্গারপ্রিন্ট আপডেট স্ট্যাটাস এখনো অনুমোদিত না, বিলম্বের কারণটা কী?",fingerprint_update_applied_not_approved
+"আঙুলের ছাপ সংশোধনের আবেদন করেছি, এখনো অনুমোদন পাইনি, কেন এত দেরি হচ্ছে?",fingerprint_update_applied_not_approved
+"ফিঙ্গারপ্রিন্ট আপডেটের আবেদন সাবমিট করেছি, অনুমোদন হয়নি, কী কারণে আটকে গেছে?",fingerprint_update_applied_not_approved
+"নির্বাচন কমিশনে বায়োমেট্রিক আপডেটের আবেদন এখনো পাস হয়নি, বিলম্বের কারণ কী হতে পারে?",fingerprint_update_applied_not_approved
+"এনআইডিতে আঙুলের ছাপ আপডেটের অনুমোদন এখনো আসেনি, প্রসেসিং দেরির কারণ কী?",fingerprint_update_applied_not_approved
+নতুন ভোটারের জন্য অনলাইনে আবেদন করেছি কিন্তু ফর্মটি প্রিন্ট করলে ফন্ট ভেঙ্গে যাচ্ছে। কি করণীয়?,font_problem_in_new_voter_registration_form
+নতুন ভোটার নিবন্ধনের অনলাইন ফর্ম প্রিন্ট দিলে অক্ষর গুলিয়ে যাচ্ছে এটার সমাধান কী?,font_problem_in_new_voter_registration_form
+অনলাইনে নতুন ভোটার আবেদন করেছি কিন্তু প্রিন্ট আউটে ফন্ট ভেঙে পড়ছে কীভাবে ঠিক করা যায়?,font_problem_in_new_voter_registration_form
+নতুন ভোটার রেজিস্ট্রেশনের ফর্ম অনলাইনে পূরণ করেছি কিন্তু প্রিন্ট করলে লেখা ভেঙে যায় কী করণীয়?,font_problem_in_new_voter_registration_form
+নতুন ভোটার এনরোলমেন্টে অনলাইনে আবেদন করেছি কিন্তু প্রিন্ট কপিতে বাংলা লেখা এলোমেলো হয় কী করব?,font_problem_in_new_voter_registration_form
+নতুন ভোটারের অনলাইন ফর্ম প্রিন্টে বক্সবক্সে দেখা যাচ্ছে সমাধান কী?,font_problem_in_new_voter_registration_form
+নতুন ভোটার হিসেবে যে অনলাইন ফর্মটা পূরণ করেছি তা প্রিন্ট করলে ফন্ট সমস্যা হচ্ছে কী করা যায়?,font_problem_in_new_voter_registration_form
+অনলাইনে নতুন ভোটার রেজিস্ট্রেশন করেছি কিন্তু ফর্মের প্রিন্টে অক্ষর ঠিকভাবে আসছে না এখন কী করণীয়?,font_problem_in_new_voter_registration_form
+"এম্বাসী/দূতাবাসে বায়োমেট্রিক প্রদান করেছি, এখন কি করণীয়?",foreign_resident_action_after_biometrics_new
+"দূতাবাসে বায়োমেট্রিক সম্পন্ন করেছি, এখন পরবর্তী ধাপ কী?",foreign_resident_action_after_biometrics_new
+"বাংলাদেশ মিশনে এনআইডি বায়োমেট্রিক করেছি, এখন নির্বাচন কমিশনের পক্ষ থেকে কী করণীয়?",foreign_resident_action_after_biometrics_new
+"এম্বাসিতে এনআইডির বায়োমেট্রিক দিলাম, এখন কীভাবে অগ্রগতি বা স্ট্যাটাস দেখবো?",foreign_resident_action_after_biometrics_new
+"দূতাবাসে বায়োমেট্রিক জমা দিয়েছি, এরপর কি অপেক্ষা করব নাকি কিছু করতে হবে?",foreign_resident_action_after_biometrics_new
+"কনস্যুলেট বা দূতাবাসে বায়োমেট্রিক দিয়েছি, নির্বাচন কমিশনের পরবর্তী নির্দেশনা কী?",foreign_resident_action_after_biometrics_new
+"দূতাবাসে এনআইডি বায়োমেট্রিক সম্পন্ন, এখন আবেদন স্ট্যাটাস কিভাবে ট্র্যাক করবো?",foreign_resident_action_after_biometrics_new
+"বাংলাদেশ নির্বাচন কমিশনের এনআইডি জন্য মিশনে বায়োমেট্রিক করেছি, এরপর কী করতে হবে?",foreign_resident_action_after_biometrics_new
+প্রবাসী এনআইডি বা ভোটার নিবন্ধনের জন্য এম্বাসী/দূতাবাসে আবেদন করেছি। স্মার্ট কার্ড কীভাবে পাবো?,foreign_resident_card_collection
+দূতাবাসে প্রবাসী এনআইডি বা ভোটার রেজিস্ট্রেশনের আবেদন করেছি। স্মার্টকার্ডটা কীভাবে হাতে পাব?,foreign_resident_card_collection
+এম্বাসি বা দূতাবাসে প্রবাসী এনআইডির জন্য আবেদন করেছি। স্মার্ট এনআইডি কার্ড সংগ্রহ করব কীভাবে?,foreign_resident_card_collection
+প্রবাসে থেকে ভোটার নিবন্ধনের কাগজ জমা দিয়েছি এম্বাসিতে। কার্ডটা কোথা থেকে ও কীভাবে পাব?,foreign_resident_card_collection
+প্রবাসী এনআইডির আবেদন করেছি এম্বাসিতে। কার্ড ডেলিভারি বা সংগ্রহের নিয়ম কী?,foreign_resident_card_collection
+বিদেশে থেকে এনআইডি বা ভোটার নিবন্ধন করেছি দূতাবাসে। স্মার্টকার্ড কখন এবং কীভাবে পাব?,foreign_resident_card_collection
+এম্বাসি বা দূতাবাসে এনআইডি রেজিস্ট্রেশন করেছি। স্মার্টকার্ড নিতে কী করতে হবে?,foreign_resident_card_collection
+দূতাবাসে জমা দিয়েছি প্রবাসী এনআইডির আবেদন। স্মার্ট এনআইডি ট্র্যাক করে কীভাবে সংগ্রহ করব?,foreign_resident_card_collection
+"প্রবাসে/ বিদেশে ছবি তুলেছিলাম, উপজেলা থেকে তদন্ত করে অনুমোদন করেছে, কিন্তু এখনও মেসেজ পাইনি।",foreign_resident_card_picture_done__inquery_done_no_msg_new
+"প্রবাসে এনআইডির ছবি দিয়েছিলাম, উপজেলা নির্বাচন অফিস যাচাই করে অনুমোদন দিয়েছে, কিন্তু এখনও মেসেজ পাইনি, এখন কী করব?",foreign_resident_card_picture_done__inquery_done_no_msg_new
+"বিদেশে এনআইডির জন্য ছবি দিয়েছিলাম, উপজেলা যাচাই হয়ে অনুমোদনও হয়েছে, তবু এসএমএস আসেনি, কবে পাব?",foreign_resident_card_picture_done__inquery_done_no_msg_new
+"প্রবাসে ছবি ও বায়োমেট্রিক দিয়েছি, উপজেলা নির্বাচন অফিস অনুমোদন করেছে, কিন্তু ইসির মেসেজ আসছে না, সমস্যা কী?",foreign_resident_card_picture_done__inquery_done_no_msg_new
+"আমি বিদেশে এনরোল করেছি, উপজেলা তদন্ত শেষে অনুমোদনও পেলাম, তবুও মেসেজ পেলাম না, ইসিতে আর কত সময় লাগে?",foreign_resident_card_picture_done__inquery_done_no_msg_new
+"এনআইডির জন্য বিদেশে ছবি দিয়েছিলাম, উপজেলা যাচাই সম্পন্ন হয়েছে, কিন্তু মেসেজ বা এসএমএস কেন আসছে না?",foreign_resident_card_picture_done__inquery_done_no_msg_new
+"বাংলাদেশ নির্বাচন কমিশনের এনআইডির ছবি বিদেশে দিয়েছি, উপজেলা অফিস অনুমোদন দিয়েছে, তারপরও নোটিফিকেশন পাইনি, এখন কীভাবে ফলোআপ করব?",foreign_resident_card_picture_done__inquery_done_no_msg_new
+"বিদেশে ছবি তুলে এনআইডির আবেদন করেছি, উপজেলা থেকে অনুমোদন নিশ্চিত, তবু ইসির এসএমএস নেই, স্ট্যাটাস কোথায় দেখব?",foreign_resident_card_picture_done__inquery_done_no_msg_new
+"প্রবাসে ছবি তুলেছিলাম, এম্বাসিতে যোগাযোগ করলে বলেছে উপজেলা থেকে তদন্ত পাঠায়নি। কি করণীয়?",foreign_resident_card_picture_done_not_inquery_from_upzilla_new
+"কনস্যুলেটে এনআইডি এনরোল করেছি, বলে উপজেলা থেকে ভেরিফিকেশন পেন্ডিং, এরপর কীভাবে এগোবো?",foreign_resident_card_picture_done_not_inquery_from_upzilla_new
+"হাইকমিশনে ছবি আপডেট করেছি, কিন্তু উপজেলা তদন্ত পাঠায়নি বলে ফাইল আটকে আছে, আমি কী করতে পারি?",foreign_resident_card_picture_done_not_inquery_from_upzilla_new
+"প্রবাসে এনআইডির ক্যাপচার করেছি, দূতাবাস বলছে উপজেলা যাচাই হয়নি, পরবর্তী পদক্ষেপ কী?",foreign_resident_card_picture_done_not_inquery_from_upzilla_new
+"বিদেশে এনআইডি আপডেটে ছবি দিয়েছি, এম্বাসি বলে উপজেলা নির্বাচন অফিস রিপোর্ট পাঠায়নি, কী করতে হবে?",foreign_resident_card_picture_done_not_inquery_from_upzilla_new
+"প্রবাস থেকে ভোটার নিবন্ধনের ছবি পাঠিয়েছি, দূতাবাস জানাল উপজেলা যাচাই আসেনি, এখন সমাধান কী?",foreign_resident_card_picture_done_not_inquery_from_upzilla_new
+"হাইকমিশনে এনরোল করেছি, উপজেলা নির্বাচন অফিস ভেরিফিকেশন না পাঠানোয় কাজ থেমে আছে, কী করা উচিত?",foreign_resident_card_picture_done_not_inquery_from_upzilla_new
+"বাংলাদেশ নির্বাচন কমিশনের এনআইডির জন্য বিদেশে ছবি দিয়েছি, এম্বাসি বলছে উপজেলা থেকে যাচাই হয়নি, কীভাবে সমাধান করবো?",foreign_resident_card_picture_done_not_inquery_from_upzilla_new
+বিদেশে বসবাসরত বাংলাদেশীদের এনআইডি বা ভোটার নিবন্ধনের জন্য করণীয় কি?,foreign_resident_card_registration_process
+বিদেশে থাকা বাংলাদেশিদের এনআইডি বা ভোটার নিবন্ধন করতে কী করতে হবে?,foreign_resident_card_registration_process
+প্রবাসে থাকলে এনআইডি বা ভোটার হিসেবে নাম তুলতে কীভাবে আবেদন করব?,foreign_resident_card_registration_process
+প্রবাসী হলে বাংলাদেশ নির্বাচন কমিশনের এনআইডি বা ভোটার নিবন্ধন কীভাবে করব?,foreign_resident_card_registration_process
+বিদেশে বসবাস করলে এনআইডি বা ভোটার আইডির জন্য করণীয় কী?,foreign_resident_card_registration_process
+দেশের বাইরে থেকে ইসির এনআইডি বা ভোটার নিবন্ধন করতে কী কী পদক্ষেপ লাগবে?,foreign_resident_card_registration_process
+"আমি বিদেশে থাকি, এনআইডি বা ভোটার নিবন্ধনের জন্য কীভাবে এগোব?",foreign_resident_card_registration_process
+প্রবাসী বাংলাদেশিদের জন্য এনআইডি বা ভোটার রেজিস্ট্রেশনের নিয়ম কী?,foreign_resident_card_registration_process
+প্রবাসে বসবাসকারীদের এনআইডি বা ভোটার নিবন্ধনের জন্য কি করতে হবে?,foreign_resident_card_registration_process
+বিদেশে থাকা প্রবাসীরা এনআইডি বা ভোটার হতে কীভাবে আবেদন করবে?,foreign_resident_card_registration_process
+প্রবাসী নাগরিকরা এনআইডি বা ভোটার নিবন্ধন করতে হলে কী কী করতে হয়?,foreign_resident_card_registration_process
+দেশের বাইরে থাকলে এনআইডি বা ভোটার তালিকায় নাম তুলতে কী করতে হবে?,foreign_resident_card_registration_process
+প্রবাসে থাকলে এনআইডি করা বা ভোটার হওয়া নিয়ে নিয়মকানুনটা কী?,foreign_resident_card_registration_process
+প্রবাসী হিসেবে এনআইডি বা ভোটার নিবন্ধন পেতে কী ধাপ অনুসরণ করতে হবে?,foreign_resident_card_registration_process
+দেশের বাইরে কর্মরতদের এনআইডি বা ভোটার হওয়ার জন্য করণীয় কী?,foreign_resident_card_registration_process
+বিদেশে থাকা অবস্থায় এনআইডি করা বা ভোটার হিসেবে নিবন্ধনের প্রক্রিয়া কীভাবে চলবে?,foreign_resident_card_registration_process
+এ পর্যন্ত কোন কোন দেশে ভোটার নিবন্ধনের অনুমতি দেওয়া হয়েছে।,foreign_resident_card_registration_query_country_limitation
+এ পর্যন্ত কোন কোন দেশে ভোটার নিবন্ধনের অনুমতি দিয়েছে নির্বাচন কমিশন?,foreign_resident_card_registration_query_country_limitation
+এখন পর্যন্ত নির্বাচন কমিশন কোন কোন দেশে ভোটার নিবন্ধন করতে অনুমোদন দিয়েছে?,foreign_resident_card_registration_query_country_limitation
+ইসি এখন পর্যন্ত কোন কোন দেশে ভোটার নিবন্ধনের অনুমতি দিয়েছে?,foreign_resident_card_registration_query_country_limitation
+এ পর্যন্ত বিদেশে কোন কোন দেশে ভোটার নিবন্ধনের অনুমতি ঘোষণা করেছে ইসি?,foreign_resident_card_registration_query_country_limitation
+এখন পর্যন্ত কোন কোন দেশে ইসির অনুমতিতে ভোটার নিবন্ধন করা যাচ্ছে?,foreign_resident_card_registration_query_country_limitation
+নির্বাচন কমিশনের অনুমোদনে এখন পর্যন্ত কোন কোন দেশে ভোটার নিবন্ধন চলছে?,foreign_resident_card_registration_query_country_limitation
+এ পর্যন্ত কোন কোন দেশে প্রবাসীদের জন্য ভোটার নিবন্ধনের অনুমতি দিয়েছে ইসি?,foreign_resident_card_registration_query_country_limitation
+এ পর্যন্ত কোন কোন দেশে ভোটার নিবন্ধন শুরু করার অনুমতি দিয়েছে নির্বাচন কমিশন?,foreign_resident_card_registration_query_country_limitation
+এখন পর্যন্ত কোন কোন দেশে প্রবাসী ভোটার নিবন্ধনের অনুমোদন দিয়েছে নির্বাচন কমিশন?,foreign_resident_card_registration_query_country_limitation
+কোন কোন দেশে প্রবাসী ভোটার নিবন্ধন চলছে?,foreign_resident_card_registration_query_country_limitation
+কোন কোন দেশে প্রবাসী ভোটার হিসেবে নিবন্ধন করা যায়?,foreign_resident_card_registration_query_country_limitation
+কোন কোন দেশে বাংলাদেশ দূতাবাসে প্রবাসী ভোটার নিবন্ধন করা যায়?,foreign_resident_card_registration_query_country_limitation
+কোন কোন দেশে এনআরবি ভোটার নিবন্ধন সম্ভব?,foreign_resident_card_registration_query_country_limitation
+কোন কোন দেশে প্রবাসীদের জন্য ভোটার নিবন্ধন সুবিধা আছে?,foreign_resident_card_registration_query_country_limitation
+"আমি xxxxxxx দেশে আছি, এখানে কি ভোটার নিবন্ধন করা হয়?",foreign_resident_card_registration_query_country_limitation
+"আমি xxxxxxx দেশে আছি, এখানে কি বাংলাদেশি ভোটার নিবন্ধন করা হয়?",foreign_resident_card_registration_query_country_limitation
+"আমি xxxxxxx এ থাকি, এখান থেকে কি বাংলাদেশি ভোটার নিবন্ধন করতে পারি?",foreign_resident_card_registration_query_country_limitation
+xxxxxxx দেশে থাকলে কি বাংলাদেশ নির্বাচন কমিশন ভোটার নিবন্ধন করে?,foreign_resident_card_registration_query_country_limitation
+xxxxxxx থেকে কি বাংলাদেশি ভোটার হিসেবে নিবন্ধন করা সম্ভব?,foreign_resident_card_registration_query_country_limitation
+"বিদেশে xxxxxxx দেশে আছি, এখানেই কি বাংলাদেশি ভোটার নিবন্ধন হয়?",foreign_resident_card_registration_query_country_limitation
+xxxxxxx এ বাংলাদেশ দূতাবাসে কি ভোটার নিবন্ধন করা যায়?,foreign_resident_card_registration_query_country_limitation
+"আমি xxxxxxx এ আছি, বাংলাদেশ ইসি কি এখানে ভোটার নিবন্ধন করে?",foreign_resident_card_registration_query_country_limitation
+xxxxxxx থেকে কি বাংলাদেশি ভোটার তালিকায় নাম তোলা যাবে?,foreign_resident_card_registration_query_country_limitation
+কোন কোন দেশ থেকে এনআইডি বা ভোটার নিবন্ধন করা যায়?,foreign_resident_card_registration_query_country_limitation
+কোন কোন দেশে বসে এনআইডি বা ভোটার নিবন্ধন করা যায়?,foreign_resident_card_registration_query_country_limitation
+বিদেশে কোন কোন দেশ থেকে এনআইডি বা ভোটার নিবন্ধন করা সম্ভব?,foreign_resident_card_registration_query_country_limitation
+কোন দেশগুলো থেকে এনআইডি বা ভোটার তালিকায় নাম তোলা যায়?,foreign_resident_card_registration_query_country_limitation
+বাংলাদেশের বাইরে কোন কোন দেশ থেকে এনআইডি বা ভোটার নিবন্ধনের আবেদন করা যায়?,foreign_resident_card_registration_query_country_limitation
+বিদেশের কোন কোন দেশে দূতাবাসের মাধ্যমে এনআইডি বা ভোটার নিবন্ধন করা যায়?,foreign_resident_card_registration_query_country_limitation
+কোন কোন দেশ থেকে অনলাইনে এনআইডি বা ভোটার নিবন্ধন করা যাবে?,foreign_resident_card_registration_query_country_limitation
+কোন দেশগুলোতে থাকা অবস্থায় এনআইডি বা ভোটার নিবন্ধন করা যায়?,foreign_resident_card_registration_query_country_limitation
+প্রবাসী এনআইডি বা ভোটার নিবন্ধনের জন্য এম্বাসী/দূতাবাসে আবেদন করেছি। আবেদন Reject করে দিয়েছে। কেনো?,foreign_resident_card_registration_rejected
+"প্রবাসী এনআইডি বা ভোটার নিবন্ধনের জন্য দূতাবাসে আবেদন করেছিলাম, আবেদনটা বাতিল হয়েছে কেন?",foreign_resident_card_registration_rejected
+বিদেশের বাংলাদেশ হাইকমিশনে করা প্রবাসী এনআইডি বা ভোটার নিবন্ধনের আমার আবেদনটি কেন প্রত্যাখ্যাত হলো?,foreign_resident_card_registration_rejected
+"বাংলাদেশ নির্বাচন কমিশনের প্রবাসী এনআইডির আবেদন দূতাবাস থেকে রিজেক্ট হয়েছে, কারণটা কী?",foreign_resident_card_registration_rejected
+"এম্বাসির মাধ্যমে করা প্রবাসী ভোটার নিবন্ধন বা এনআইডির আবেদন নাকচ হয়েছে, কেন হয়েছে?",foreign_resident_card_registration_rejected
+প্রবাসী এনআইডি বা ভোটার নিবন্ধনের এমবাসি আবেদন ইসি কেন রিজেক্ট করল?,foreign_resident_card_registration_rejected
+"হাইকমিশনে জমা দেওয়া প্রবাসী এনআইডি বা ভোটার নিবন্ধনের ফর্ম বাতিল হয়েছে, কারণ কী হতে পারে?",foreign_resident_card_registration_rejected
+এম্বাসিতে করা আমার প্রবাসী ভোটার নিবন্ধন বা এনআইডির আবেদন কেন নাকচ করল নির্বাচন কমিশন?,foreign_resident_card_registration_rejected
+দূতাবাসে ভোটার নিবন্ধন করতে হলে কি কি কাগজপত্র লাগে?,foreign_resident_card_registration_required_documents
+বিদেশে বাংলাদেশের দূতাবাসে ভোটার নিবন্ধনে কোন কোন কাগজ লাগবে?,foreign_resident_card_registration_required_documents
+বাংলাদেশ নির্বাচন কমিশনের নিয়মে দূতাবাসে নিবন্ধনের জন্য কী কী নথি দরকার?,foreign_resident_card_registration_required_documents
+দূতাবাসে NID বা ভোটার নিবন্ধন করতে কী কী ডকুমেন্ট লাগবে?,foreign_resident_card_registration_required_documents
+প্রবাসে বাংলাদেশ মিশনে ভোটার হিসেবে নিবন্ধনের জন্য কোন কাগজপত্র চাই?,foreign_resident_card_registration_required_documents
+বাংলাদেশ কনস্যুলেটে ভোটার এনরোলমেন্টে কী কী নথিপত্র লাগবে?,foreign_resident_card_registration_required_documents
+নির্বাচন কমিশনের নির্দেশনা অনুযায়ী দূতাবাসে নতুন ভোটার নিবন্ধনে কোন ডকুমেন্ট লাগে?,foreign_resident_card_registration_required_documents
+বাংলাদেশ হাইকমিশনে ভোটার নিবন্ধনের জন্য প্রয়োজনীয় কাগজপত্র কী কী?,foreign_resident_card_registration_required_documents
+বিদেশের বাংলাদেশ মিশনে ভোটার রেজিস্ট্রেশনের সময় কোন নথি সঙ্গে নিতে হবে?,foreign_resident_card_registration_required_documents
+প্রবাসী ভোটার হতে হলে কি কি কাগজপত্র লাগে?,foreign_resident_card_registration_required_documents
+প্রবাসে থাকলে ভোটার হতে কী কী ডকুমেন্ট লাগে?,foreign_resident_card_registration_required_documents
+বিদেশে থাকা অবস্থায় নির্বাচন কমিশনে ভোটার নিবন্ধনে কোন কোন কাগজপত্র দরকার?,foreign_resident_card_registration_required_documents
+প্রবাসী ভোটার হিসেবে রেজিস্ট্রেশন করতে কী কাগজ লাগবে?,foreign_resident_card_registration_required_documents
+ইসির নিয়মে প্রবাসী ভোটার হতে কী কী কাগজ দরকার?,foreign_resident_card_registration_required_documents
+"বিদেশে থাকি, ইসিতে ভোটার হতে কী কাগজ দরকার?",foreign_resident_card_registration_required_documents
+প্রবাসী হিসেবে ভোটার হতে আবেদন করতে কোন কোন কাগজপত্র লাগে?,foreign_resident_card_registration_required_documents
+"বাংলাদেশে আমি ভোটার ছিলাম, এখন বিদেশে থাকি, এখানে কি আবার ভোটার নিবন্ধন করতে হবে?",foreign_resident_multiple_registration_new
+"বাংলাদেশে ভোটার হিসেবে নাম ছিল, প্রবাসে কি আলাদা ভোটার হতে হবে?",foreign_resident_multiple_registration_new
+"দেশে আগে ভোটার হয়েছিলাম, ইসি অনুযায়ী বিদেশে থেকেও কি নতুন করে রেজিস্ট্রেশন দরকার?",foreign_resident_multiple_registration_new
+বাংলাদেশ নির্বাচন কমিশনের নিয়মে দেশে ভোটার থাকলে প্রবাসে কি আবার ভোটার হওয়া লাগে?,foreign_resident_multiple_registration_new
+"বাংলাদেশে ভোটার তালিকায় আছি, বিদেশে গেলে কি ভোটার স্ট্যাটাস বদলাতে বা নতুন করে নিবন্ধন নিতে হবে?",foreign_resident_multiple_registration_new
+"বাংলাদেশে ভোটার ছিলাম, বিদেশে থেকে কি আরেকটা ভোটার আইডি করতে হবে?",foreign_resident_multiple_registration_new
+বাংলাদেশ নির্বাচন কমিশন অনুযায়ী দেশে ভোটার হলে প্রবাসে কি কোনো অতিরিক্ত নিবন্ধন প্রয়োজন?,foreign_resident_multiple_registration_new
+"আমি বাংলাদেশে ভোটার ছিলাম, এখন বাইরে আছি, প্রবাসে কি ভোটার হিসেবে আলাদা করে নাম তুলতে হবে?",foreign_resident_multiple_registration_new
+প্রবাসী এনআইডি বা ভোটার নিবন্ধনের জন্য এম্বাসী/দূতাবাসে আবেদন করেছি। এখনো Adjudication Pending অবস্থায় আছে। কি করণীয়?,foreign_resident_nid_adjudication_pending
+"প্রবাসী এনআইডি বা ভোটার নিবন্ধনের জন্য এম্বাসি বা দূতাবাসে আবেদন করেছি, স্ট্যাটাস Adjudication Pending দেখাচ্ছে, এখন কী করব?",foreign_resident_nid_adjudication_pending
+"বিদেশে থাকা ভোটার নিবন্ধন বা প্রবাসী এনআইডির আবেদনের স্ট্যাটাস Adjudication Pending অনেকদিন ধরে, সমাধান কীভাবে পাব?",foreign_resident_nid_adjudication_pending
+"এম্বাসি বা দূতাবাসে জমা দেওয়া প্রবাসী এনআইডি আবেদন Adjudication Pending দেখাচ্ছে, কতদিনে ক্লিয়ার হবে?",foreign_resident_nid_adjudication_pending
+"প্রবাসী ভোটার নিবন্ধনের আবেদন Adjudication Pending অবস্থায় আটকে আছে, ডকুমেন্ট আপডেট দিলে কি দ্রুত হবে?",foreign_resident_nid_adjudication_pending
+"নির্বাচন কমিশনের প্রবাসী এনআইডি আবেদন পেন্ডিং আছে Adjudication Pending লেখা আসে, স্ট্যাটাস দ্রুত করার উপায় কী?",foreign_resident_nid_adjudication_pending
+"বিদেশ থেকে করা এনআইডি বা ভোটার নিবন্ধনের কেস Adjudication Pending দেখাচ্ছে, হেল্পলাইন বা ইমেইলে কাকে জানাব?",foreign_resident_nid_adjudication_pending
+"বাংলাদেশ নির্বাচন কমিশনের অনলাইন পোর্টালে প্রবাসী এনআইডি আবেদন Adjudication Pending, কি কি অতিরিক্ত কাগজ লাগতে পারে?",foreign_resident_nid_adjudication_pending
+আমার পাসপোর্টের মেয়াদ শেষ হয়ে গেছে। আমি কি প্রবাস থেকে এনআইডি বা ভোটার নিবন্ধনের আবেদন করতে পারবো?,foreign_resident_passport_expaired_card_registration_process
+আমার পাসপোর্ট এক্সপায়ার হয়ে গেছে। আমি কি বিদেশ থেকে এনআইডি বা ভোটার নিবন্ধনের আবেদন করতে পারবো?,foreign_resident_passport_expaired_card_registration_process
+পাসপোর্টের মেয়াদ শেষ। প্রবাসে থেকে কি বাংলাদেশ নির্বাচন কমিশনের এনআইডি বা ভোটার হিসেবে নিবন্ধন করা যাবে?,foreign_resident_passport_expaired_card_registration_process
+"আমার পাসপোর্ট মেয়াদোত্তীর্ণ। আমি দেশের বাইরে থাকি, এনআইডি বা ভোটার রেজিস্ট্রেশনের জন্য কি আবেদন দিতে পারি?",foreign_resident_passport_expaired_card_registration_process
+"পাসপোর্ট নবায়ন হয়নি, মেয়াদ শেষ। বিদেশ থেকে কি এনআইডি করা বা ভোটার নিবন্ধনে আবেদন করা সম্ভব?",foreign_resident_passport_expaired_card_registration_process
+পাসপোর্ট এক্সপায়ার্ড থাকলে প্রবাস থেকে কি এনআইডি বা ভোটার নিবন্ধনের আবেদন নেয় ইসি?,foreign_resident_passport_expaired_card_registration_process
+পাসপোর্ট মেয়াদোত্তীর্ণ হলে বিদেশে বসে কি এনআইডি আবেদন বা ভোটার তালিকায় নাম তোলা সম্ভব?,foreign_resident_passport_expaired_card_registration_process
+"আমার পাসপোর্টের মেয়াদ শেষ হয়ে গেছে, আমি বিদেশে। এনআইডি বা ভোটার রেজিস্ট্রেশনের জন্য কি আবেদন করতে পারি?",foreign_resident_passport_expaired_card_registration_process
+"বিদেশে আছি, পাসপোর্টের মেয়াদ শেষ। বাংলাদেশ নির্বাচন কমিশনের এনআইডি বা ভোটার নিবন্ধন কি এখন করা যাবে?",foreign_resident_passport_expaired_card_registration_process
+"পাসপোর্টের মেয়াদ শেষ হয়েছে, বিদেশ থেকে কি এনআইডি বা ভোটার রেজিস্ট্রেশনের আবেদন করা যাবে?",foreign_resident_passport_expaired_card_registration_process
+"প্রবাসে আছি, পাসপোর্ট এক্সপায়ারড। এখন কি এনআইডি বা ভোটার হিসেবে নিবন্ধন করতে পারব?",foreign_resident_passport_expaired_card_registration_process
+মেয়াদোত্তীর্ণ পাসপোর্ট নিয়ে বিদেশ থেকে এনআইডি বা ভোটার নিবন্ধনের আবেদন করা যায় কি?,foreign_resident_passport_expaired_card_registration_process
+পাসপোর্টের মেয়াদ শেষ থাকলে বিদেশ থেকে এনআইডি বা ভোটার নিবন্ধন করা সম্ভব কি?,foreign_resident_passport_expaired_card_registration_process
+প্রবাসে থেকে মেয়াদোত্তীর্ণ পাসপোর্টের তথ্য দিয়ে এনআইডি বা ভোটার রেজিস্ট্রেশনের আবেদন গ্রহণ করা হয় কি?,foreign_resident_passport_expaired_card_registration_process
+"আমি বিদেশে আছি, পাসপোর্টের মেয়াদ শেষ। এনআইডি বা ভোটার নিবন্ধনের আবেদন করা যাবে কি?",foreign_resident_passport_expaired_card_registration_process
+মেয়াদ শেষ পাসপোর্ট দিয়ে প্রবাস থেকে এনআইডি বা ভোটার হিসেবে নাম নিবন্ধন করা যাবে কি?,foreign_resident_passport_expaired_card_registration_process
+FORM নম্বর দিয়ে দিয়ে রেজিষ্ট্রেশন করতে পারছি না।,form_number_not_working
+"বাংলাদেশ নির্বাচন কমিশনের সাইটে ফর্ম নম্বর দিয়ে নিবন্ধন করতে পারছি না, কী করব?",form_number_not_working
+ফর্ম নম্বর দিলেই বাংলাদেশ নির্বাচন কমিশনের রেজিস্ট্রেশন হচ্ছে না কেন?,form_number_not_working
+"নির্বাচন কমিশনের ফর্ম নম্বর দিয়ে আবেদন নিশ্চিত করা যাচ্ছে না, কীভাবে ঠিক করব?",form_number_not_working
+"বাংলাদেশ নির্বাচন কমিশনে ফর্ম নম্বর দিলে সাবমিট হচ্ছে না, কী সমস্যা?",form_number_not_working
+"ফর্ম নম্বর দিয়ে নির্বাচন কমিশনের রেজিস্ট্রেশন যাচাই হচ্ছে না, কী করা উচিত?",form_number_not_working
+"ফর্ম নম্বর দিয়ে নির্বাচন কমিশনের ভোটার নিবন্ধন সম্পন্ন করতে পারছি না, কোন উপায় আছে?",form_number_not_working
+"বাংলাদেশ নির্বাচন কমিশনে ফর্ম নম্বর দিলেই ত্রুটি দেখায়, এখন কী করব?",form_number_not_working
+এনআইডি কার্ডে কতজন স্ত্রীর নাম সংযোজন করা যাবে?,how_many_wife_name_can_be_added_in_nid_card
+এনআইডিতে একাধিক স্ত্রীর নাম রাখা যায় নাকি?,how_many_wife_name_can_be_added_in_nid_card
+"এনআইডিতে সব স্ত্রীর নাম যুক্ত করা যাবে, নাকি শুধু একজনের?",how_many_wife_name_can_be_added_in_nid_card
+এনআইডি কার্ডে স্ত্রীর নাম রাখার সীমা কতজন পর্যন্ত?,how_many_wife_name_can_be_added_in_nid_card
+ভোটার আইডিতে দুই স্ত্রীর নাম একসাথে দেওয়া যায় কি?,how_many_wife_name_can_be_added_in_nid_card
+এনআইডিতে একের বেশি স্ত্রীর নাম রাখার সীমা কী?,how_many_wife_name_can_be_added_in_nid_card
+জাতীয় পরিচয়পত্রে একাধিক স্ত্রী থাকলে কজনের নাম দেওয়া যাবে?,how_many_wife_name_can_be_added_in_nid_card
+এনআইডিতে স্ত্রী হিসেবে কয়েকজনের নাম রাখতে দেওয়া হয়?,how_many_wife_name_can_be_added_in_nid_card
+কীভাবে এনআইডি পোর্টালে সংশোধন আবেদন করতে হয়?,how_to_apply_for_correction_in_online_portal
+এনআইডি পোর্টালে ভুল ঠিক করার আবেদন করার নিয়মটা কী?,how_to_apply_for_correction_in_online_portal
+এনআইডি অনলাইনে সংশোধনের আবেদন জমা দিতে হলে কী করতে হবে?,how_to_apply_for_correction_in_online_portal
+এনআইডি পোর্টাল দিয়ে তথ্য পরিবর্তনের আবেদন কীভাবে দেব?,how_to_apply_for_correction_in_online_portal
+এনআইডি কার্ডের তথ্য অনলাইনে সংশোধন করতে আবেদন কীভাবে করব?,how_to_apply_for_correction_in_online_portal
+নির্বাচন কমিশনের এনআইডি সাইটে সংশোধন আবেদন করার ধাপগুলো কী?,how_to_apply_for_correction_in_online_portal
+এনআইডি অনলাইন সেবায় তথ্য সংশোধনের আবেদন কোথায় কীভাবে করব?,how_to_apply_for_correction_in_online_portal
+এনআইডি পোর্টালে নাম ঠিকানার সংশোধন আবেদন করার প্রক্রিয়া কী?,how_to_apply_for_correction_in_online_portal
+"নির্বাচন অফিসে গিয়ে সাহায্য পাচ্ছি না, আমি অভিযোগ দাখিল করতে চাই। এখন আমার করণীয় কি?",how_to_complain_not_getting_help_from_election_office
+"স্থানীয় নির্বাচন অফিসে কেউ সহযোগিতা করছে না, অভিযোগ কোথায় এবং কীভাবে দেব?",how_to_complain_not_getting_help_from_election_office
+"নির্বাচন অফিসে কেউ কথা শুনছে না, আমি অভিযোগ করতে চাই, পরের পদক্ষেপ কী?",how_to_complain_not_getting_help_from_election_office
+"উপজেলা নির্বাচন অফিসে সাহায্য পাইনি, অভিযোগ জমা দিতে হলে কী করব?",how_to_complain_not_getting_help_from_election_office
+"বাংলাদেশ নির্বাচন কমিশনে অভিযোগ দিতে চাই, অফিসে সাহায্য না পেয়ে এখন কী করণীয়?",how_to_complain_not_getting_help_from_election_office
+"নির্বাচন অফিসে ঝামেলা হয়েছে, অভিযোগ কোথায় জমা দেব?",how_to_complain_not_getting_help_from_election_office
+"নির্বাচন অফিসে কেউ গাইড করছে না, অভিযোগ করার নিয়মটা কী?",how_to_complain_not_getting_help_from_election_office
+"বাংলাদেশ নির্বাচন কমিশনের কাছে অভিযোগ দিতে চাই, অফিসে সাহায্য না পেলে কীভাবে এগোব?",how_to_complain_not_getting_help_from_election_office
+"আগের আইডি কার্ডে স্বামীর নাম ছিলো, কিন্তু বর্তমান কার্ডে নাই, কেন?",husband_name_previous_card
+"আগের জাতীয় পরিচয়পত্রে স্বামীর নাম ছিল, বর্তমান কার্ডে নাই কেন?",husband_name_previous_card
+নির্বাচন কমিশনের নতুন এনআইডিতে স্বামীর নাম কেন আর নেই?,husband_name_previous_card
+"এনআইডি আপডেটের পরে স্বামীর নাম উধাও কেন, আগে ছিল তো?",husband_name_previous_card
+"ইসি কি নিয়ম বদলেছে, তাই কি এনআইডিতে স্বামীর নাম নেই এখন?",husband_name_previous_card
+"নতুন জাতীয় পরিচয়পত্রে স্বামীর নাম বাদ পড়েছে কেন, আগেরটায় ছিল?",husband_name_previous_card
+"আগে কার্ডে স্বামীর নাম দেখাত, এখন দেখায় না কেন?",husband_name_previous_card
+"বর্তমান এনআইডিতে স্বামীর নামের ঘর নেই কেন, আগে ছিল তো?",husband_name_previous_card
+"স্বামী/স্ত্রী সাথে তালাক হয়েছে, স্বামীর নাম বাদ দিতে চাই, করণীয় কি?",husband_talak_name_remove
+"তালাক হয়েছে, জাতীয় পরিচয়পত্র থেকে স্বামীর নাম বাদ দিতে হলে কী করব?",husband_talak_name_remove
+তালাকের পরে ভোটার আইডিতে স্বামীর নাম সরাতে হলে কোথায় আবেদন করব?,husband_talak_name_remove
+নির্বাচন কমিশনের মাধ্যমে NID তথ্য হালনাগাদ করে স্বামীর নাম মুছতে কী লাগবে?,husband_talak_name_remove
+তালাকের পর জাতীয় পরিচয়ে বৈবাহিক অবস্থা বদলে স্বামীর নাম সরাতে করণীয় কী?,husband_talak_name_remove
+ডিভোর্সের পরে ভোটার তালিকায় স্বামীর নাম অপসারণ করতে কী করতে হবে?,husband_talak_name_remove
+"ডিভোর্স হয়েছে, NID এ স্বামী বা স্ত্রীর নাম মুছতে পদক্ষেপ কী?",husband_talak_name_remove
+তালাকের পর স্মার্ট কার্ডে স্বামীর নাম বাদ দিতে কী করতে হবে?,husband_talak_name_remove
+"তথ্য সঠিক দিয়েছি, কিন্তু একাউন্ট লক হয়ে গিয়েছে কেন?",information_correct_but_account_locked
+"ইসির এনআইডি পোর্টালে সঠিক তথ্য দিলাম, তারপরও একাউন্ট লক হয়ে গেছে কেন?",information_correct_but_account_locked
+বাংলাদেশ নির্বাচন কমিশনের NID সেবায় সব তথ্য ঠিক থাকা সত্ত্বেও একাউন্ট লক হলো কেন?,information_correct_but_account_locked
+নির্বাচন কমিশনের ওয়েবসাইটে সঠিক তথ্য দেওয়ার পরও একাউন্ট লক হয়ে গেল কেন?,information_correct_but_account_locked
+"ভোটার এনআইডি পোর্টালে ঠিকঠাক তথ্য দিয়ে লগইন করেছি, কিন্তু একাউন্ট লক কেন?",information_correct_but_account_locked
+"নির্বাচন কমিশনের অনলাইন NID একাউন্টে ভুল ছাড়াই তথ্য দিলাম, তারপরও লক হলো কেন?",information_correct_but_account_locked
+ইসির NID সাইটে যাচাই করা তথ্য দেওয়ার পরও একাউন্ট লক হয়ে গেল কেন?,information_correct_but_account_locked
+"ইসি এনআইডি সেবায় সব তথ্য ঠিক ছিল, তারপরও একাউন্ট লকড কেন হলো?",information_correct_but_account_locked
+এনআইডি কার্ড সংশোধন দ্রুত করার কোন ফিস আছে কি?,instant_card_correction_fee
+এনআইডি সংশোধন দ্রুত করতে অতিরিক্ত ফি লাগে নাকি?,instant_card_correction_fee
+এনআইডি তথ্য সংশোধন দ্রুত প্রসেস করাতে কি কোন চার্জ আছে?,instant_card_correction_fee
+এনআইডি কার্ডের ভুল ঠিক তাড়াতাড়ি করাতে কি বাড়তি খরচ পড়বে?,instant_card_correction_fee
+নির্বাচন কমিশনের এনআইডি সংশোধন দ্রুত করতে কি ফি আছে?,instant_card_correction_fee
+এনআইডি সংশোধন ত্বরিত সেবায় করাতে কি আলাদা খরচ লাগে?,instant_card_correction_fee
+এনআইডি সংশোধন ফাস্ট ট্র্যাকে দিলে কি অতিরিক্ত ফি দিতে হয়?,instant_card_correction_fee
+এনআইডি সংশোধন এক্সপ্রেস সার্ভিসে করলে কি চার্জ আছে?,instant_card_correction_fee
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি অনলাইন পোর্টালে আগে রেজিস্ট্রেশন করেছিলাম এখন কি সেই ইউজার আইডি ও পাসওয়ার্ড দিয়ে লগইন করতে পারবো?,login_using_old_id_password
+এনআইডি অনলাইন পোর্টালে আগের রেজিস্ট্রেশন আছে এখন কি পুরনো ইউজার আইডি আর পাসওয়ার্ডে ঢুকতে পারি?,login_using_old_id_password
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি সেবা পোর্টালের পুরনো অ্যাকাউন্ট দিয়ে কি এখনও লগইন হবে?,login_using_old_id_password
+আগে এনআইডি অনলাইনে রেজিস্টার করেছিলাম এখন কি ওই ইউজার আইডি ও পাসওয়ার্ডে সাইন ইন করা যাবে?,login_using_old_id_password
+এনআইডি অনলাইন পোর্টালের আগের লগইন তথ্য কি এখনও কাজ করে এখন কি সেগুলো দিয়ে ঢোকা যাবে?,login_using_old_id_password
+বহুদিন আগে এনআইডি অনলাইনে অ্যাকাউন্ট করেছি এখন কি একই আইডি আর পাসওয়ার্ড দিয়ে লগইন করা সম্ভব?,login_using_old_id_password
+এনআইডি অনলাইনের পুরনো ক্রেডেনশিয়াল দিয়ে কি এখন লগইন করা যাবে নাকি নতুন করে রেজিস্টার করতে হবে?,login_using_old_id_password
+দ্বৈত নাগরিকত্ব সনদ কোন মন্ত্রণালয় দিয়ে থাকে?,ministry_provide_dual_citizenship_certificate
+দ্বৈত নাগরিক হলে ভোটার আইডি কোন সংস্থা দিয়ে থাকে?,ministry_provide_dual_citizenship_certificate
+দ্বৈত নাগরিকের জাতীয় পরিচয়পত্র কোন কর্তৃপক্ষ ইস্যু করে?,ministry_provide_dual_citizenship_certificate
+দ্বৈত নাগরিকত্ব থাকলে এনআইডি কোন অফিস থেকে পাওয়া যায়?,ministry_provide_dual_citizenship_certificate
+দ্বৈত নাগরিকের ভোটার আইডি দেওয়ার দায়িত্ব কার?,ministry_provide_dual_citizenship_certificate
+দ্বৈত নাগরিকদের এনআইডি করার কাজটা কোন সংস্থা দেখে?,ministry_provide_dual_citizenship_certificate
+দ্বৈত নাগরিকত্বধারীদের ভোটার নিবন্ধন কোন দপ্তর করে?,ministry_provide_dual_citizenship_certificate
+দ্বৈত নাগরিকদের জন্য ভোটার সেবা দেয় কোন অফিস?,ministry_provide_dual_citizenship_certificate
+এনআইডি কার্ডে নিজ নামের সংশোধনের জন্য কি ডকুমেন্টস লাগবে?,name_correction_in_nid_card
+এনআইডি কার্ডে নামের বানান ঠিক করতে কোন কাগজপত্র লাগবে?,name_correction_in_nid_card
+জাতীয় পরিচয়পত্রে নিজের নাম সংশোধনের জন্য কি কি ডকুমেন্ট লাগে?,name_correction_in_nid_card
+বাংলাদেশ নির্বাচন কমিশনে এনআইডিতে নাম সংশোধন করতে কী কী প্রমাণপত্র দরকার?,name_correction_in_nid_card
+এনআইডিতে আমার নাম ঠিক করার জন্য কোন কোন কাগজ লাগবে?,name_correction_in_nid_card
+নির্বাচন কমিশনের এনআইডি কার্ডে নাম সংশোধনের জন্য কী ডকুমেন্ট লাগবে?,name_correction_in_nid_card
+নির্বাচন কমিশনে এনআইডির নামের বানান সংশোধনে কোন কোন ডকুমেন্ট দরকার?,name_correction_in_nid_card
+এনআইডি কার্ডে নাম ঠিক করতে আবেদন করলে কী কী কাগজ দিতে হবে?,name_correction_in_nid_card
+ভোটার এলাকা পরিবর্তনের জন্য কি কি কাগজপত্র লাগে?,necessary_documents_to_modify_voter_area
+ভোটার এলাকা বদলাতে কোন কোন কাগজপত্র লাগবে?,necessary_documents_to_modify_voter_area
+নির্বাচন কমিশনে ভোটার এলাকা স্থানান্তরের জন্য কোন কোন কাগজপত্র লাগে?,necessary_documents_to_modify_voter_area
+ইসি অফিসে ভোটার এলাকা বদলের জন্য কী কী প্রমাণপত্র জমা দিতে হবে?,necessary_documents_to_modify_voter_area
+ভোটার তালিকা এলাকা পরিবর্তনের জন্য কী কী কাগজপত্র দরকার?,necessary_documents_to_modify_voter_area
+ভোটার রোলের এলাকা স্থানান্তরের জন্য কোন কোন ডকুমেন্ট লাগে?,necessary_documents_to_modify_voter_area
+অনলাইনে ইসির মাধ্যমে ভোটার এলাকা পরিবর্তনে কী কী প্রমাণপত্র আপলোড করতে হবে?,necessary_documents_to_modify_voter_area
+"হারানো জাতীয় পরিচয়পত্রের বদলি নিয়েছি, পরে আগেরটা মিলেছে করণীয় কী?",new_card_got_old_card_found_what_to_do
+নির্বাচন কমিশন থেকে রিপ্লেসমেন্ট কার্ড নেওয়ার পর পুরনোটা পাওয়া গেলে কী করা উচিত?,new_card_got_old_card_found_what_to_do
+"হারানো NID নতুন করে ইস্যু করালাম, তারপর আসল কার্ডটা খুঁজে পেয়েছি এখন নিয়মটা কী?",new_card_got_old_card_found_what_to_do
+"ভোটার আইডির ডুপ্লিকেট পেয়েছি, আগের কার্ডটা ফিরে এলে কি ইসিকে জানাতে হবে?",new_card_got_old_card_found_what_to_do
+হারানো কার্ডের বদলি হাতে পেয়েছি কিন্তু আগেরটা পাওয়া গেছে এখন বৈধ কোনটা?,new_card_got_old_card_found_what_to_do
+প্রতিস্থাপিত এনআইডি নেওয়ার পর পূর্বের কার্ডটি মিলেছে কি পুরনোটা বাতিল বা জমা দিতে হবে?,new_card_got_old_card_found_what_to_do
+"নতুন করে NID তুলেছি, তারপর পুরনো কার্ডটা পাওয়া গেছে পরবর্তী পদক্ষেপ কী?",new_card_got_old_card_found_what_to_do
+হারানো এনআইডি পরে পাওয়া গেলে আর রিপ্লেসমেন্ট আছে তখন ইসি নির্দেশনা অনুযায়ী কী করব?,new_card_got_old_card_found_what_to_do
+ভোটার তালিকায় নিবন্ধনের জন্য কত বয়স হতে হয়?,new_nid_card_age
+ভোটার তালিকায় নাম তুলতে ন্যূনতম বয়স কত?,new_nid_card_age
+বাংলাদেশ নির্বাচন কমিশনের ভোটার তালিকায় নিবন্ধনের বয়সসীমা কত?,new_nid_card_age
+বাংলাদেশে ভোটার হতে কত বছর বয়স লাগবে?,new_nid_card_age
+নির্বাচন কমিশন অনুযায়ী ভোটার হিসেবে নিবন্ধন করতে কত বয়স দরকার?,new_nid_card_age
+ভোটার তালিকায় নাম ওঠার জন্য ন্যূনতম বয়স কত?,new_nid_card_age
+বাংলাদেশে ভোটার রেজিস্ট্রেশনের জন্য সর্বনিম্ন বয়স কত?,new_nid_card_age
+নির্বাচন কমিশনের ভোটার এনরোলমেন্টে মিনিমাম বয়স কত?,new_nid_card_age
+"আমি একবারই ভোটার হয়েছি কিন্তু আমার নতুন ভোটার আবেদন বাতিল করা হয়েছে, কিভাবে সমাধান পেতে পারি?",new_voter_application_cancelled
+"আমি একবারই ভোটার, তবু ইসিতে আমার নতুন ভোটার আবেদন হয়নি, এখন করণীয় কী?",new_voter_application_cancelled
+"নতুন ভোটার আবেদনে বাতিল দেখাচ্ছে, আমি আগে একবারই ভোটার ছিলাম, নির্বাচন কমিশনের কাছে কীভাবে আপিল করব?",new_voter_application_cancelled
+"আমি একবারই ভোটার রেজিস্ট্রেশন করেছি, কিন্তু ইসিতে নতুন আবেদন গ্রহণ হয়নি, এই সমস্যা কীভাবে মেটাব?",new_voter_application_cancelled
+"ইসিতে আমার নতুন ভোটার আবেদন রিজেক্ট হয়েছে, আমি তো একবারই ভোটার, সমাধান পেতে কোথায় যোগাযোগ করব?",new_voter_application_cancelled
+"আমি একবারই ভোটার হিসেবে নিবন্ধিত ছিলাম, তবু ইসিতে নতুন ভোটার আবেদনটা হয়নি, এই বিষয়টা ঠিক করাতে কী করতে পারি?",new_voter_application_cancelled
+"নির্বাচন কমিশনে আমার নতুন ভোটার আবেদন বাতিল হয়েছে যদিও আমি একবারই ভোটার, আপত্তি বা আপিল করার নিয়মটা কী?",new_voter_application_cancelled
+"ইসিতে নতুন ভোটার আবেদন রিজেক্ট হলে আর আমি শুধু একবারই ভোটার হলে, নির্বাচন কমিশনের নিয়মে সমাধান কী?",new_voter_application_cancelled
+"উপজেলা নির্বাচন অফিস আমার নতুন ভোটারের আবেদন জমা নিচ্ছে না, কি করবো?",new_voter_application_not_submitted_to_upazila_or_thana_office
+"উপজেলা নির্বাচন কার্যালয় নতুন ভোটার নিবন্ধনের আবেদন নিতে চাইছে না, এখন কী করব?",new_voter_application_not_submitted_to_upazila_or_thana_office
+"আমার নতুন ভোটার হওয়ার আবেদন উপজেলা নির্বাচন অফিস গ্রহণ করছে না, কোথায় অভিযোগ করব?",new_voter_application_not_submitted_to_upazila_or_thana_office
+"উপজেলা নির্বাচন অফিস বারবার আমার নতুন ভোটার আবেদন ফিরিয়ে দিচ্ছে, আমি কী পদক্ষেপ নেব?",new_voter_application_not_submitted_to_upazila_or_thana_office
+"উপজেলা নির্বাচন অফিস কারণ ছাড়া নতুন ভোটার ফর্ম নিচ্ছে না, আমি কীভাবে এগোব?",new_voter_application_not_submitted_to_upazila_or_thana_office
+"উপজেলা নির্বাচন অফিস কাগজপত্র ঠিক থাকলেও নতুন ভোটার আবেদন নিচ্ছে না, এখন কী করা উচিত?",new_voter_application_not_submitted_to_upazila_or_thana_office
+"আমার নতুন ভোটার নিবন্ধন আবেদন উপজেলা নির্বাচন কার্যালয় রিজেক্ট করছে, আপিল কিভাবে করবো?",new_voter_application_not_submitted_to_upazila_or_thana_office
+"নতুন ভোটার হিসেবে আবেদন দিতে গেলে উপজেলা নির্বাচন অফিস নেয় না, সহায়তা কোথায় পাব?",new_voter_application_not_submitted_to_upazila_or_thana_office
+"অনলাইনে ভোটার হওয়ার জন্য আবেদন করেছি, এখন কি কি দলিল নিয়ে উপজেলা নির্বাচন অফিসে যাব?",new_voter_apply_online_what_documents_needed
+"অনলাইনে ভোটার রেজিস্ট্রেশন করেছি, এখন উপজেলা নির্বাচন অফিসে গেলে কোন কোন কাগজপত্র নিতে হবে?",new_voter_apply_online_what_documents_needed
+"অনলাইনে নতুন ভোটার হওয়ার আবেদন করেছি, উপজেলা নির্বাচন অফিসে কী কী ডকুমেন্ট লাগবে?",new_voter_apply_online_what_documents_needed
+অনলাইন আবেদন করার পর উপজেলা নির্বাচন অফিসে উপস্থিত হলে কোন কোন প্রমাণপত্র দিতে হবে?,new_voter_apply_online_what_documents_needed
+"নতুন ভোটার হতে অনলাইনে আবেদন করেছি, এখন উপজেলা নির্বাচন অফিসে কী কী কাগজ লাগবে?",new_voter_apply_online_what_documents_needed
+অনলাইন রেজিস্ট্রেশনের পর উপজেলা নির্বাচন অফিসে গেলে কি কি দলিল জমা দিতে হয়?,new_voter_apply_online_what_documents_needed
+"অনলাইনে ভোটার আবেদন সম্পন্ন করেছি, উপজেলা নির্বাচন অফিসে গিয়ে কোন কোন কাগজপত্র দেখাতে হবে?",new_voter_apply_online_what_documents_needed
+"অনলাইনে আবেদন করেছি, উপজেলা নির্বাচন অফিসে বায়োমেট্রিকের সময় কী কী ডকুমেন্ট নিতে হবে?",new_voter_apply_online_what_documents_needed
+নতুন ভোটার হওয়ার জন্য অনলাইনে আবেদন করার পর কি কি কাগজপত্র জমা দিতে হয়?,new_voter_apply_online_what_documents_needed
+ইসির কাছে নতুন ভোটার অনলাইন আবেদন দেওয়ার পর কি কি প্রমাণপত্র দিতে হবে?,new_voter_apply_online_what_documents_needed
+বাংলাদেশ নির্বাচন কমিশনের অনলাইন নিবন্ধনের পর নতুন ভোটার হিসেবে কোন কোন ডকুমেন্ট সাবমিট করতে হয়?,new_voter_apply_online_what_documents_needed
+ইসির নতুন ভোটার রেজিস্ট্রেশনের অনলাইন ফর্ম জমা দেওয়ার পর কি কি নথিপত্র জমা লাগবে?,new_voter_apply_online_what_documents_needed
+অনলাইনে নতুন ভোটার হওয়ার আবেদন শেষ হলে কি কি কাগজ দিতে হবে নির্বাচন কমিশনে?,new_voter_apply_online_what_documents_needed
+নতুন ভোটার হিসেবে ইসিতে অনলাইনে আবেদন করার পর কোন কোন দলিলপত্র প্রয়োজন হয়?,new_voter_apply_online_what_documents_needed
+নতুন ভোটার আবেদনের পর এসএমএস পেয়েছি এখন কি করবো?,new_voter_apply_online_what_documents_needed
+নতুন ভোটার আবেদন করার পর নির্বাচন কমিশন থেকে এসএমএস পেলাম এখন কি করব?,new_voter_apply_online_what_documents_needed
+নতুন ভোটার রেজিস্ট্রেশনের এসএমএস এসেছে এখন ইসির পরবর্তী ধাপ কি?,new_voter_apply_online_what_documents_needed
+বাংলাদেশ নির্বাচন কমিশন থেকে নতুন ভোটার এসএমএস পাওয়ার পর এখন কি করতে হবে?,new_voter_apply_online_what_documents_needed
+ইসি থেকে নতুন ভোটার আবেদনের এসএমএস এসেছে এখন কি করা উচিত?,new_voter_apply_online_what_documents_needed
+নতুন ভোটার হিসেবে এসএমএস পেয়েছি নির্বাচন কমিশনের পরের কাজটা কি?,new_voter_apply_online_what_documents_needed
+নির্বাচন কমিশনের নতুন ভোটার কনফার্মেশন এসএমএস এলো এখন কি করব?,new_voter_apply_online_what_documents_needed
+ইসির নতুন ভোটার আবেদন আপডেটের এসএমএস পেয়েছি পরের ধাপটা কি?,new_voter_apply_online_what_documents_needed
+ইসির নতুন ভোটার এসএমএস পাওয়ার পর এখন কোথায় যেতে হবে?,new_voter_apply_online_what_documents_needed
+ইসির নতুন ভোটার এসএমএস পেলাম এখন কি করতে হবে?,new_voter_apply_online_what_documents_needed
+"বায়োমেট্রিক্স দেওয়ার জন্য এসএমএস পেয়েছি, এখন কি করবো?",new_voter_apply_online_what_documents_needed
+"বাংলাদেশ নির্বাচন কমিশন থেকে বায়োমেট্রিক্সের এসএমএস পেয়েছি, এখন কী করব?",new_voter_apply_online_what_documents_needed
+"নির্বাচন কমিশন থেকে বায়োমেট্রিক দিতে এসএমএস এসেছে, এখন কী করতে হবে?",new_voter_apply_online_what_documents_needed
+"বায়োমেট্রিক ভেরিফিকেশনের এসএমএস নির্বাচন কমিশন থেকে পেয়েছি, পরের ধাপ কী?",new_voter_apply_online_what_documents_needed
+"বাংলাদেশ নির্বাচন কমিশন থেকে বায়োমেট্রিকের মেসেজ পেলাম, এখন কী করণীয়?",new_voter_apply_online_what_documents_needed
+"নির্বাচন কমিশনের এনআইডি বায়োমেট্রিকের এসএমএস এসেছে, এরপর কী করব?",new_voter_apply_online_what_documents_needed
+"নির্বাচন কমিশন থেকে বায়োমেট্রিক আপডেটের এসএমএস পেয়েছি, এখন কীভাবে এগোবো?",new_voter_apply_online_what_documents_needed
+"বাংলাদেশ নির্বাচন কমিশন থেকে বায়োমেট্রিকের নোটিফিকেশন পেয়েছি, এরপর কী করতে হবে?",new_voter_apply_online_what_documents_needed
+"নির্বাচন কমিশন থেকে বায়োমেট্রিকের টেক্সট মেসেজ এলো, এখন কী করব?",new_voter_apply_online_what_documents_needed
+"আমি নতুন ভোটার হওয়ার আবেদন করেছিলাম কিন্তু সেটি বাতিল (Rejected) করা হয়েছে, কেন?",new_voter_but_card_rejected
+"আমি নতুন ভোটার হিসেবে নিবন্ধনের জন্য আবেদন করেছিলাম, কিন্তু তা বাতিল হয়েছে, কারণটা কী?",new_voter_but_card_rejected
+নতুন ভোটার হওয়ার আমার আবেদনটা কেন রিজেক্ট হলো?,new_voter_but_card_rejected
+"ভোটার তালিকায় নতুনভাবে নাম তোলার আবেদন করেছিলাম, কিন্তু গ্রহণ হয়নি, কেন এমন হলো?",new_voter_but_card_rejected
+ইসি আমার নতুন ভোটার হওয়ার আবেদনটি কেন গ্রহণ করেনি?,new_voter_but_card_rejected
+"আমি নতুন ভোটার হওয়ার জন্য আপ্লাই করেছিলাম, কিন্তু রিজেক্ট হয়েছে, কারণ কী?",new_voter_but_card_rejected
+নতুন ভোটার হিসেবে নাম তোলার আবেদনটি কেন বাতিল করা হলো?,new_voter_but_card_rejected
+আমার নতুন ভোটার হওয়া সংক্রান্ত আবেদন কেন অনুমোদন পায়নি?,new_voter_but_card_rejected
+"নতুন ভোটার হয়েছি, ফরম নম্বর দিয়ে রেজিষ্ট্রেশন করেছি, কিন্তু কার্ড ডাউনলোড করতে পারছি না, কেন?",new_voter_can_not_download_card_with_form_number
+"নতুনভাবে ভোটার হয়েছি, ফর্ম নম্বর দিয়ে নিবন্ধন করেছি, কিন্তু এনআইডি কার্ড ডাউনলোড হচ্ছে না, কেন?",new_voter_can_not_download_card_with_form_number
+"আমি নতুন ভোটার, ফর্মের নম্বর দিয়ে রেজিস্ট্রেশন করেছি, তবু কার্ড ডাউনলোড দিতে পারছি না, কী সমস্যা?",new_voter_can_not_download_card_with_form_number
+"প্রথমবার ভোটার হলাম, ফর্ম নম্বর দিয়ে নিবন্ধন করার পরও এনআইডি ডাউনলোড হচ্ছে না, কেন এমন হচ্ছে?",new_voter_can_not_download_card_with_form_number
+"আমি নতুন ভোটার, ফর্ম নম্বর দিয়ে নিবন্ধন সম্পন্ন, এরপরও এনআইডি কপি ডাউনলোড হয় না, কেন?",new_voter_can_not_download_card_with_form_number
+"নতুন ভোটার রেজিস্ট্রেশন করেছি, ফর্ম নম্বর আছে, তবু নির্বাচন কমিশনের সাইটে কার্ড ডাউনলোড হচ্ছে না, কেন?",new_voter_can_not_download_card_with_form_number
+"আমি নতুন ভোটার, ফর্ম নম্বর দিয়ে এনরোল করেছি, কিন্তু কার্ড ডাউনলোড হচ্ছে না, কী কারণে?",new_voter_can_not_download_card_with_form_number
+"নতুন ভোটার, ফর্ম নম্বর দিয়ে নিবন্ধন করেছি, তবুও ভোটার আইডি কার্ড ডাউনলোড হচ্ছে না, কেন?",new_voter_can_not_download_card_with_form_number
+এনআইডি কার্ড পেতে কতদিন সময় লাগে?,new_voter_card_getting_time
+নির্বাচন কমিশন থেকে এনআইডি কার্ড পেতে কতদিন লাগে?,new_voter_card_getting_time
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি কার্ড কদিনে হাতে পাওয়া যায়?,new_voter_card_getting_time
+নির্বাচন কমিশনে আবেদন দিলে এনআইডি কার্ড পেতে কত সময় লাগে?,new_voter_card_getting_time
+নির্বাচন কমিশন থেকে নতুন এনআইডি ইস্যু হতে সাধারণত কদিন সময় লাগে?,new_voter_card_getting_time
+নির্বাচন কমিশনের স্মার্ট এনআইডি কার্ড পেতে কতদিন অপেক্ষা করতে হয়?,new_voter_card_getting_time
+নিবন্ধনের পর নির্বাচন কমিশন থেকে এনআইডি কবে পাওয়া যাবে?,new_voter_card_getting_time
+অনলাইনে নির্বাচন কমিশনে আবেদন করলে এনআইডি কার্ড কদিনে পাই?,new_voter_card_getting_time
+"অনেক আগে ভোটার হয়েছি, কার্ড গ্রহণ করিনি, ফরম নম্বর আছে, কার্ড ডাউনলোডের জন্য রেজিষ্ট্রেশন করতে পারছি না, কি করবো?",new_voter_card_not_taken_has_form_no_can_not_register_online
+"অনেক দিন আগে ভোটার হয়েছি, জাতীয় পরিচয়পত্র তুলিনি, ফরম নম্বর আছে, অনলাইনে ডাউনলোড রেজিস্ট্রেশন হচ্ছে না, কী করব?",new_voter_card_not_taken_has_form_no_can_not_register_online
+"বছর আগে ভোটার রেজিস্ট্রেশন করেছি, কার্ড সংগ্রহ করিনি, স্লিপ নম্বর আছে, কার্ড ডাউনলোডে সাইন আপ হচ্ছে না, কীভাবে পাব?",new_voter_card_not_taken_has_form_no_can_not_register_online
+"আগে ভোটার হয়েছিলাম, কার্ড তুলি নাই, রেজিস্ট্রেশন নম্বর আছে, অনলাইন ডাউনলোড অ্যাকাউন্ট বানাতে পারছি না, কী করতে হবে?",new_voter_card_not_taken_has_form_no_can_not_register_online
+"অনেক আগে ভোটার হিসেবে নিবন্ধিত, কার্ড পাইনি, টোকেন নম্বর আছে, NID ডাউনলোডের রেজিস্ট্রেশন বারবার ব্যর্থ হচ্ছে, কী করবো?",new_voter_card_not_taken_has_form_no_can_not_register_online
+"অনেক বছর আগে ভোটার হয়েছি, কার্ড হাতে নেই, ট্র্যাকিং নম্বর আছে, ডাউনলোডের জন্য অনলাইন রেজিস্ট্রেশন পারছি না, কী করণীয়?",new_voter_card_not_taken_has_form_no_can_not_register_online
+"ভোটার হয়েছিলাম অনেক আগে, কার্ড নেই, ফর্ম নম্বর আছে, পোর্টালে ডাউনলোড রেজিস্ট্রেশন নিতে পারছি না, কোথায় যোগাযোগ করব?",new_voter_card_not_taken_has_form_no_can_not_register_online
+"বাংলাদেশ নির্বাচন কমিশনে আগে ভোটার হয়েছিলাম, কার্ড নেই, ফর্ম নম্বর আছে, অনলাইন ডাউনলোডের রেজিস্ট্রেশন করতে পারছি না, এখন কী করব?",new_voter_card_not_taken_has_form_no_can_not_register_online
+নতুন ভোটার হওয়ার ফি কত?,new_voter_fees
+ইসিতে নতুন ভোটার হতে কত ফি?,new_voter_fees
+নতুন ভোটার নিবন্ধনে ইসির ফি কত?,new_voter_fees
+বাংলাদেশ নির্বাচন কমিশনে প্রথমবার ভোটার করতে কত টাকা লাগে?,new_voter_fees
+নতুন NID করার জন্য ইসিতে কি টাকা লাগে?,new_voter_fees
+ইসিতে নতুন ভোটার বানাতে কোনো ফি আছে নাকি?,new_voter_fees
+ইসিতে নতুন ভোটার হওয়া কি বিনামূল্যে?,new_voter_fees
+ইসির ভোটার তালিকায় নতুন করে নাম তুলতে কোনো চার্জ আছে?,new_voter_fees
+প্রথমবার ভোটার আইডি করতে নির্বাচন কমিশনের ফি কত?,new_voter_fees
+ইসি অফিসে নতুন ভোটার নিবন্ধনে কত টাকা দিতে হয়?,new_voter_fees
+নতুন এনআইডি করতে কি চার্জ দিতে হয়?,new_voter_fees
+নির্বাচন কমিশনের এনআইডি নিবন্ধনে কি ফি আছে?,new_voter_fees
+এনআইডি এনরোলমেন্টের জন্য কি কোনো খরচ দিতে হয়?,new_voter_fees
+নির্বাচন কমিশনের এনআইডি রেজিস্ট্রেশনের জন্য কি ফি দিতে হয় নাকি এটা ফ্রি?,new_voter_fees
+এনআইডি আবেদন প্রক্রিয়ায় কি কোনো ফি বা চার্জ আছে?,new_voter_fees
+স্মার্ট এনআইডি নিবন্ধনে কি টাকা নিতে হয়?,new_voter_fees
+"বাংলাদেশ নির্বাচন কমিশনের এনআইডি কার্ডের রেজিস্ট্রেশন কি ফ্রি, না ফি লাগে?",new_voter_fees
+নতুন ভোটার হওয়ার জন্য কোন ফি জমা দিতে হয়?,new_voter_fees
+নতুন ভোটার নিবন্ধন করতে কি কোনো ফি দিতে হয়?,new_voter_fees
+প্রথমবার ভোটার হতে কি টাকা লাগবে?,new_voter_fees
+নতুন ভোটার আইডি করতে কি ফি জমা দিতে হয়?,new_voter_fees
+বাংলাদেশ নির্বাচন কমিশনে নতুন ভোটার করার সময় কি টাকা দিতে হয়?,new_voter_fees
+নতুন এনআইডি নেওয়ার জন্য কি কোনো খরচ পড়ে?,new_voter_fees
+ভোটার রেজিস্ট্রেশন কি ফ্রি নাকি কিছু ফি দিতে হয়?,new_voter_fees
+নতুন ভোটার হিসেবে আবেদন করলে কি কোনো সরকারি ফি আছে?,new_voter_fees
+নতুন ভোটার হওয়ার প্রক্রিয়ায় কি কোনো টাকা পয়সা দিতে হয়?,new_voter_fees
+"নতুন ভোটার হয়েছিলাম, এনআইডি কার্ড পেয়েছি/ ডাউনলোড করেছি, স্মার্ট কার্ড কবে পাবো?",new_voter_got_normal_card_when_get_smart_card
+"নতুন ভোটার হিসেবে এনআইডি ইস্যু হয়েছে, নির্বাচন কমিশনের স্মার্ট কার্ড কখন দেওয়া হবে?",new_voter_got_normal_card_when_get_smart_card
+"এনআইডি পাওয়া হয়ে গেছে, আমি তো নতুন ভোটার, স্মার্ট কার্ড কবে রেডি হবে?",new_voter_got_normal_card_when_get_smart_card
+"আমি নতুন ভোটার, এনআইডির প্রিন্ট আছে, স্মার্ট কার্ড নেওয়া যাবে কবে?",new_voter_got_normal_card_when_get_smart_card
+"নতুন ভোটার, অনলাইনে এনআইডি ডাউনলোড করেছি, স্মার্ট কার্ডের ডেলিভারি কবে?",new_voter_got_normal_card_when_get_smart_card
+"আমি নতুন ভোটার, এনআইডি নম্বর আছে, ইসির স্মার্ট কার্ড বিতরণ কবে শুরু হবে?",new_voter_got_normal_card_when_get_smart_card
+"এনআইডি হাতে পেয়েছি, আমি নতুন ভোটার, স্মার্ট কার্ড ইস্যু হতে কতদিন লাগে?",new_voter_got_normal_card_when_get_smart_card
+"নতুন ভোটার, এনআইডি হয়েছে, স্মার্ট কার্ড পাওয়ার সময়টা কখন?",new_voter_got_normal_card_when_get_smart_card
+"নতুন ভোটার হয়েছি, এনআইডি কার্ড পাবো কিভাবে?",new_voter_how_to_get_card
+"সদ্য ভোটার হলাম, জাতীয় পরিচয়পত্র কিভাবে পাব?",new_voter_how_to_get_card
+"ভোটার রেজিস্ট্রেশন করেছি, এনআইডি কার্ড তুলব কোথা থেকে?",new_voter_how_to_get_card
+"প্রথমবার ভোটার হয়েছি, এনআইডি সংগ্রহের নিয়মটা কী?",new_voter_how_to_get_card
+নতুন ভোটার হিসেবে এনআইডি কার্ডের ডেলিভারি কবে এবং কীভাবে হয়?,new_voter_how_to_get_card
+"ভোটার তালিকায় নাম উঠেছে, জাতীয় পরিচয়পত্র নিতে প্রক্রিয়াটা কী?",new_voter_how_to_get_card
+"সদ্য নিবন্ধিত ভোটার, এনআইডি কার্ড পেতে কী কী ধাপ?",new_voter_how_to_get_card
+নির্বাচন কমিশন থেকে নতুন ভোটারের এনআইডি কিভাবে সংগ্রহ করব?,new_voter_how_to_get_card
+নতুন ভোটারের আবেদন ফরমে শনাক্তকারী কে?,new_voter_identifier_who
+নতুন ভোটার আবেদনপত্রে শনাক্তকারী হিসেবে কাকে দিতে হয়?,new_voter_identifier_who
+বাংলাদেশ নির্বাচন কমিশনের নতুন ভোটার ফরমে শনাক্তকারী কারা হতে পারেন?,new_voter_identifier_who
+নতুন ভোটার হওয়ার আবেদনে শনাক্তকারী হিসেবে কার নাম লিখতে হয়?,new_voter_identifier_who
+নতুন ভোটার রেজিস্ট্রেশন ফরমে পরিচয় নিশ্চিতকারী কে থাকেন?,new_voter_identifier_who
+নির্বাচন কমিশনের নতুন ভোটার ফর্মে শনাক্তকারী হিসেবে কাকে উল্লেখ করতে হবে?,new_voter_identifier_who
+নতুন ভোটার তালিকার আবেদনপত্রে শনাক্তকারী হিসেবে কে যোগ্য?,new_voter_identifier_who
+নতুন ভোটার এনরোলমেন্ট ফরমে পরিচয়দাতা কাকে দিতে হয়?,new_voter_identifier_who
+"অনেক দিন হয়ে গেল কোন মেসেজ পাচ্ছি না, করণীয় কি?",new_voter_no_messages_from_upzila_or_thana
+"অনেকদিন হয়ে গেল ইসি থেকে কোন এসএমএস পাই না, এখন করণীয় কী?",new_voter_no_messages_from_upzila_or_thana
+"দীর্ঘদিন ধরে নির্বাচন কমিশনের বার্তা আসছে না, কী করব?",new_voter_no_messages_from_upzila_or_thana
+"এনআইডি আবেদনের এসএমএস অনেকদিন ধরে পাইনি, করণীয় কী?",new_voter_no_messages_from_upzila_or_thana
+"ভোটার আইডি আপডেটের মেসেজ আসছে না, এখন কী করতে হবে?",new_voter_no_messages_from_upzila_or_thana
+"স্মার্ট কার্ডের স্ট্যাটাসের বার্তা নেই অনেকদিন, কী করা উচিত?",new_voter_no_messages_from_upzila_or_thana
+"ভোটার তথ্য সংশোধনের এসএমএস পাচ্ছি না, কী করলে সমাধান হবে?",new_voter_no_messages_from_upzila_or_thana
+"ট্র্যাকিং আপডেট ইসি থেকে আসছে না, এখন কী করব?",new_voter_no_messages_from_upzila_or_thana
+"নম্বর ঠিক থাকলেও নির্বাচন কমিশনের মেসেজ আসছে না, করণীয় কী?",new_voter_no_messages_from_upzila_or_thana
+"ইসি থেকে যাচাইকরণের এসএমএস আসছে না অনেকদিন, এখন কী করব?",new_voter_no_messages_from_upzila_or_thana
+"নতুন ভোটারের আবেদন করেছি, থানা/উপজেলা থেকে এসএমএস আসেনি, কি করণীয়?",new_voter_no_messages_from_upzila_or_thana
+"নতুন ভোটার নিবন্ধন করেছি, উপজেলা নির্বাচন অফিসের এসএমএস এখনও পাইনি, এরপর কী করব?",new_voter_no_messages_from_upzila_or_thana
+"নতুন ভোটারের আবেদন করেছি, থানা নির্বাচন অফিস থেকে এসএমএস না এলে কাকে যোগাযোগ করব?",new_voter_no_messages_from_upzila_or_thana
+"নতুন ভোটার হওয়ার জন্য আবেদন করেছি, থানা বা উপজেলা থেকে নিশ্চিতকরণের এসএমএস না এলে কী করতে হবে?",new_voter_no_messages_from_upzila_or_thana
+"আমি নতুন ভোটার হিসেবে অনলাইনে আবেদন করেছি, উপজেলা অফিস থেকে এসএমএস না এলে কীভাবে এগোব?",new_voter_no_messages_from_upzila_or_thana
+"নতুন ভোটার নিবন্ধনের আবেদন করেছি, থানা কিংবা উপজেলা থেকে এসএমএস না এলে পরবর্তী পদক্ষেপ কী?",new_voter_no_messages_from_upzila_or_thana
+"নতুন ভোটার হতে আবেদন করেছি, থানা বা উপজেলা থেকে এসএমএস না এলে কীভাবে সমাধান করব?",new_voter_no_messages_from_upzila_or_thana
+নতুন নিবন্ধনের জন্য কি কি ডকুমেন্ট জমা দিতে হয়?,new_voter_online_what_documents_to_submit
+এনআইডির নতুন রেজিস্ট্রেশনে কী কী ডকুমেন্ট লাগে?,new_voter_online_what_documents_to_submit
+নির্বাচন কমিশনে নতুন নিবন্ধনে কোন কাগজ জমা দিতে হয়?,new_voter_online_what_documents_to_submit
+ভোটার তালিকায় নতুন নাম তুলতে কী কী প্রমাণপত্র দরকার?,new_voter_online_what_documents_to_submit
+প্রথমবার এনআইডি করতে কোন কোন কাগজপত্র সঙ্গে নিতে হবে?,new_voter_online_what_documents_to_submit
+নতুন ভোটার হিসেবে রেজিস্ট্রেশনে কী ডকুমেন্ট জমা দিতে হবে?,new_voter_online_what_documents_to_submit
+বাংলাদেশ নির্বাচন কমিশনে নতুন রেজিস্ট্রেশনে কোন কোন কাগজ লাগবে?,new_voter_online_what_documents_to_submit
+ইসিতে নতুন ভোটার এনরোলমেন্টে কী কী কাগজপত্র চাই?,new_voter_online_what_documents_to_submit
+ভোটার আইডির জন্য নতুন আবেদন করলে কী কী ডকুমেন্ট প্রয়োজন?,new_voter_online_what_documents_to_submit
+জাতীয় পরিচয়পত্রের নতুন নিবন্ধনে কী কী কাগজ দরকার?,new_voter_online_what_documents_to_submit
+নতুন ভোটার হওয়ার জন্য কি কি কাগজ লাগে?,new_voter_online_what_documents_to_submit
+নতুন ভোটার নিবন্ধনের জন্য কী কী কাগজপত্র দরকার?,new_voter_online_what_documents_to_submit
+বাংলাদেশ নির্বাচন কমিশনে নতুন ভোটার হতে কোন কোন কাগজ লাগবে?,new_voter_online_what_documents_to_submit
+ভোটার তালিকায় নতুন করে নাম তুলতে কী কী কাগজ লাগে?,new_voter_online_what_documents_to_submit
+প্রথমবার ভোটার হতে কী কী কাগজপত্র লাগবে?,new_voter_online_what_documents_to_submit
+নতুন এনআইডি বা ভোটার রেজিস্ট্রেশনের জন্য কোন কোন ডকুমেন্ট দরকার?,new_voter_online_what_documents_to_submit
+ইসি অফিসে নতুন ভোটার হতে কী কী প্রমাণপত্র দিতে হবে?,new_voter_online_what_documents_to_submit
+নতুন ভোটার আইডি করার সময় কী কী কাগজ লাগবে?,new_voter_online_what_documents_to_submit
+নতুন ভোটার হিসেবে নিবন্ধন করতে কোন কোন কাগজ দরকার?,new_voter_online_what_documents_to_submit
+ভোটার হতে প্রথমবার আবেদন করলে কী কী কাগজপত্র লাগে?,new_voter_online_what_documents_to_submit
+ইসির নিয়মে ভোটার রেজিস্ট্রেশনের জন্য কোন কোন ডকুমেন্ট দরকার?,new_voter_online_what_documents_to_submit
+বাংলাদেশ ইসিতে নতুন ভোটার হতে কী কী প্রমাণপত্র লাগে?,new_voter_online_what_documents_to_submit
+ইসির কাছে ভোটার হতে গেলে কোন কাগজগুলো জমা দিতে হয়?,new_voter_online_what_documents_to_submit
+ইসির ভোটার নিবন্ধনে কোন কোন দলিল সঙ্গে নিতে হবে?,new_voter_online_what_documents_to_submit
+বাংলাদেশ নির্বাচন কমিশনে প্রথমবার ভোটার হতে কী কী কাগজ লাগে?,new_voter_online_what_documents_to_submit
+জাতীয় পরিচয়পত্র করতে কী কী কাগজপত্র দরকার?,new_voter_online_what_documents_to_submit
+জাতীয় পরিচয়পত্র বানাতে কোন কোন ডকুমেন্ট লাগবে?,new_voter_online_what_documents_to_submit
+এনআইডির জন্য কী কী কাগজপত্র লাগবে?,new_voter_online_what_documents_to_submit
+জাতীয় পরিচয়পত্রের আবেদন করতে কোন কোন প্রমাণপত্র দরকার?,new_voter_online_what_documents_to_submit
+জাতীয় পরিচয়পত্র রেজিস্ট্রেশনের জন্য কোন কোন কাগজপত্র দিতে হয়?,new_voter_online_what_documents_to_submit
+জাতীয় পরিচয়পত্র ইস্যুর জন্য কোন কোন কাগজ দরকার?,new_voter_online_what_documents_to_submit
+ইসি অফিসে জাতীয় পরিচয়পত্রের জন্য কী কী প্রমাণপত্র চায়?,new_voter_online_what_documents_to_submit
+এনআইডি করার জন্য কী কী কাগজপত্র জমা দিতে হবে?,new_voter_online_what_documents_to_submit
+এনআইডি নিবন্ধনের পূর্ব শর্ত কি কি?,new_voter_pre_condition
+এনআইডি নিবন্ধনের জন্য কী কী শর্ত পূরণ করতে হয়?,new_voter_pre_condition
+এনআইডি রেজিস্ট্রেশনের আগে কী কী লাগবে?,new_voter_pre_condition
+এনআইডি নিবন্ধনের প্রয়োজনীয়তা ও কাগজপত্র কী কী?,new_voter_pre_condition
+নির্বাচন কমিশনে এনআইডি নিবন্ধনের জন্য কোন কোন কাগজ দরকার?,new_voter_pre_condition
+এনআইডি নিবন্ধনের পূর্বশর্ত ও দরকারি নথি কী কী?,new_voter_pre_condition
+বাংলাদেশ নির্বাচন কমিশনে এনআইডি রেজিস্ট্রেশন করতে কী কী প্রমাণপত্র লাগবে?,new_voter_pre_condition
+এনআইডি রেজিস্ট্রেশনের জন্য ন্যূনতম বয়স ও অন্যান্য শর্ত কী?,new_voter_pre_condition
+এনআইডি রেজিস্ট্রেশনের জন্য আবেদন করতে কী কী শর্ত ও কাগজ লাগে?,new_voter_pre_condition
+এনআইডি করতে হলে বাংলাদেশ নির্বাচন কমিশনের কী কী শর্ত মানতে হয়?,new_voter_pre_condition
+একজন নাগরিক এনআইডির জন্য নির্বাচন কমিশনের কোন যোগ্যতা পূরণ করতে হবে?,new_voter_pre_condition
+প্রথমবার এনআইডি পেতে কী কী শর্ত আছে?,new_voter_pre_condition
+এনআইডি নিবন্ধনের জন্য ন্যূনতম বয়স আর নাগরিকত্বের শর্ত কী?,new_voter_pre_condition
+"কে কে এনআইডি করতে পারে, নির্বাচন কমিশনের নিয়মে কী যোগ্যতা দরকার?",new_voter_pre_condition
+এনআইডি বানাতে কী কী শর্ত পূরণ করা লাগে?,new_voter_pre_condition
+ভোটার হওয়ার পূর্ব শর্ত কি কি?,new_voter_pre_condition
+বাংলাদেশে ভোটার হতে কী কী যোগ্যতা লাগে?,new_voter_pre_condition
+নির্বাচন কমিশনে ভোটার নিবন্ধনের শর্তগুলো কী কী?,new_voter_pre_condition
+ইসির নিয়মে ভোটার হওয়ার ন্যূনতম পূর্বশর্ত কী?,new_voter_pre_condition
+বাংলাদেশ নির্বাচন কমিশন অনুযায়ী ভোটার হওয়ার প্রয়োজনীয়তা কী কী?,new_voter_pre_condition
+বাংলাদেশে ভোটার তালিকায় নাম তুলতে কী কী শর্ত আছে?,new_voter_pre_condition
+বাংলাদেশে ভোটার হিসেবে নিবন্ধিত হতে কী দরকার?,new_voter_pre_condition
+ইসির ভোটার হতে যোগ্যতার মানদণ্ডগুলো কী?,new_voter_pre_condition
+বাংলাদেশে ভোটার আইডি পেতে কী কী শর্ত আছে?,new_voter_pre_condition
+নির্বাচন কমিশনের মতে ভোটার হওয়ার জন্য কী কী লাগে?,new_voter_pre_condition
+ভোটার হওয়ার জন্য কি কি শর্ত পূরণ করতে হয়?,new_voter_pre_condition
+ভোটার হতে হলে কী কী যোগ্যতা থাকতে হয়?,new_voter_pre_condition
+ভোটার তালিকায় নাম তুলতে কী শর্তগুলো মানতে হয়?,new_voter_pre_condition
+ইসির মতে ভোটার হওয়ার জন্য কোন কোন যোগ্যতা দরকার?,new_voter_pre_condition
+ভোটার হিসেবে নিবন্ধিত হতে কী কী শর্ত পূরণ করা লাগে?,new_voter_pre_condition
+ভোটার রেজিস্ট্রেশনের জন্য কী কী যোগ্যতা থাকা চাই?,new_voter_pre_condition
+বাংলাদেশে ভোটার হতে কী কী মানদণ্ড আছে?,new_voter_pre_condition
+ভোটার হিসেবে নাম তুলতে হলে কোন কোন শর্ত আছে?,new_voter_pre_condition
+ভোটার হতে প্রয়োজনীয় যোগ্যতাগুলো কী কী?,new_voter_pre_condition
+"নতুন ভোটার হওয়ার জন্য অনলাইনে আবেদন করেছি, ডাউনলোড করা ফরম কোথায় জমা দিবো?",new_voter_registered_where_To_submit_the_downloaded_form
+"নতুন ভোটার নিবন্ধনের জন্য অনলাইনে আবেদন করেছি, প্রিন্ট করা ফরমটা কোথায় জমা দেব?",new_voter_registered_where_To_submit_the_downloaded_form
+"নতুন ভোটার হতে অনলাইনে ফর্ম পূরণ করেছি, ডাউনলোড করা কপি কার কাছে জমা দিতে হবে?",new_voter_registered_where_To_submit_the_downloaded_form
+"ইসির নতুন ভোটার আবেদন অনলাইনে করেছি, প্রিন্টেড ফর্ম কোথায় জমা দেওয়া যায়?",new_voter_registered_where_To_submit_the_downloaded_form
+"নির্বাচন কমিশনের নতুন ভোটার অনলাইন আবেদন করেছি, ফরমের হার্ডকপি কোথায় দিতে হবে?",new_voter_registered_where_To_submit_the_downloaded_form
+"অনলাইনে নতুন ভোটার আবেদন করেছি, ডাউনলোড করা ফর্মটা কোন উপজেলা নির্বাচন অফিসে জমা দেব?",new_voter_registered_where_To_submit_the_downloaded_form
+নতুন ভোটার হওয়ার জন্য অনলাইন আবেদন দেওয়ার পর প্রিন্টেড কপি কোথায় জমা দিতে হয়?,new_voter_registered_where_To_submit_the_downloaded_form
+"ইসিতে নতুন ভোটার অনলাইনে আবেদন করেছি, ডাউনলোড ফরমটি কোথায় জমা দেব?",new_voter_registered_where_To_submit_the_downloaded_form
+"সদ্য ভোটার হয়েছি, স্মার্ট জাতীয় পরিচয়পত্র পেতে কী করতে হবে?",new_voter_smart_card_how_to_get
+নতুন ভোটার হিসেবে স্মার্ট এনআইডি কোথা থেকে এবং কীভাবে সংগ্রহ করব?,new_voter_smart_card_how_to_get
+ভোটার তালিকায় নাম ওঠার পর স্মার্ট কার্ড কবে এবং কীভাবে হাতে পাব?,new_voter_smart_card_how_to_get
+নতুন ভোটারদের স্মার্ট কার্ড নিতে কি নির্বাচন কমিশনের অফিসে যেতে হয়?,new_voter_smart_card_how_to_get
+নতুন ভোটার হলে স্মার্ট এনআইডি কত দিনে পাওয়া যায় এবং নিতে কী করতে হয়?,new_voter_smart_card_how_to_get
+ইসির স্মার্ট কার্ড নতুন ভোটাররা কীভাবে পাবে?,new_voter_smart_card_how_to_get
+নতুন ভোটার হিসেবে স্মার্ট জাতীয় পরিচয়পত্র পাওয়ার ধাপগুলো কী?,new_voter_smart_card_how_to_get
+স্মার্ট এনআইডি পেতে নতুন ভোটারকে আগে কোনো আবেদন করতে হয় নাকি সরাসরি সংগ্রহ করা যায়?,new_voter_smart_card_how_to_get
+নতুন এনআইডি বা ভোটার আবেদন করেছিলাম কিন্তু এখনো Adjudication Pending অবস্থায় আছে। কি করনীয়?,nid_adjudication_pending
+"নতুন এনআইডির জন্য আবেদন করেছি, কিন্তু স্ট্যাটাসে এখনও Adjudication Pending দেখাচ্ছে। এখন কী করব?",nid_adjudication_pending
+"ভোটার নিবন্ধনের আবেদন করেছি, তবু Adjudication Pending থেকে যাচ্ছে। করণীয় কী?",nid_adjudication_pending
+আমার NID নতুন আবেদন অনেকদিন ধরে Adjudication Pending এ। পরবর্তী পদক্ষেপ কী?,nid_adjudication_pending
+নতুন ভোটার আইডির আবেদন Adjudication Pending এ আটকে আছে। কীভাবে এগোবো?,nid_adjudication_pending
+এনআইডি রেজিস্ট্রেশনের আবেদন এখনও Adjudication Pending অবস্থায়। সমাধান কী?,nid_adjudication_pending
+Adjudication Pending দেখাচ্ছে আমার নতুন এনআইডি আবেদন। এখন কাকে যোগাযোগ করব?,nid_adjudication_pending
+নতুন NID বা ভোটার আবেদন Adjudication Pending এ আছে। কী করলে দ্রুত হবে?,nid_adjudication_pending
+আমার এনআইডি card এ অন্য ব্যক্তির তথ্য চলে এসেছে। কিভাবে সংশোধন করা যাবে?,nid_information_misentry_correction_procedure
+"আমার এনআইডি কার্ডে অন্য কারোর তথ্য দেখাচ্ছে, এটা কীভাবে ঠিক করব?",nid_information_misentry_correction_procedure
+"জাতীয় পরিচয়পত্রে আমার নামে অন্য ব্যক্তির তথ্য এসেছে, সংশোধনের উপায় কী?",nid_information_misentry_correction_procedure
+"আমার এনআইডিতে ভুল করে অন্যজনের তথ্য যুক্ত হয়েছে, নির্বাচন কমিশনের মাধ্যমে কীভাবে ঠিক করবো?",nid_information_misentry_correction_procedure
+"এনআইডি কার্ডে তথ্য গুলিয়ে গেছে, অন্য কারো তথ্য আছে, কীভাবে সংশোধন করা যায়?",nid_information_misentry_correction_procedure
+"এনআইডিতে আমার বদলে অন্যের তথ্য দেখায়, বাংলাদেশ নির্বাচন কমিশনে এটা ঠিক করার নিয়ম কী?",nid_information_misentry_correction_procedure
+"নির্বাচন কমিশনের এনআইডি রেকর্ডে আমার জায়গায় অন্য কারোর তথ্য এসেছে, কীভাবে দ্রুত সংশোধন করবো?",nid_information_misentry_correction_procedure
+"এনআইডি কার্ডে অন্য ব্যক্তির ডেটা যোগ হয়ে গেছে, এটা কীভাবে ঠিক করা যাবে?",nid_information_misentry_correction_procedure
+"আমি একবারই ভোটার হয়েছি কিন্তু কোথাও যাচাই করতে পারছি না, জানতে পারলাম এনআইডি MATCH FOUND হয়েছে, কিভাবে সমাধান পেতে পারি?",nid_match_found_verification_failed_how_to_solve
+"আমি তো একবারই ভোটার হয়েছি, তবু যাচাই হচ্ছে না, এনআইডি MATCH FOUND দেখাচ্ছে, নির্বাচন কমিশনের কাছে কীভাবে সমাধান নেব?",nid_match_found_verification_failed_how_to_solve
+"আমি একবার ভোটার হয়েছি, যাচাইয়ে নাম উঠছে না, এনআইডি MATCH FOUND দেখায়, উপজেলা ইসি অফিসে গেলে হবে কি?",nid_match_found_verification_failed_how_to_solve
+"একবার মাত্র ভোটার হয়েছি, ভেরিফিকেশন মিলছে না, এনআইডিতে MATCH FOUND দেখাচ্ছে, দ্রুত সমাধান কীভাবে পাব?",nid_match_found_verification_failed_how_to_solve
+"আমি শুধু একবার ভোটার এনরোল করেছি, কিন্তু ইসি সাইটে যাচাই করতে পারছি না, এনআইডি MATCH FOUND আসে, কী করব?",nid_match_found_verification_failed_how_to_solve
+"একবারই ভোটার হয়েছি, তবু MATCH FOUND দেখাচ্ছে, নির্বাচন কমিশনের মাধ্যমে কীভাবে ঠিক করব?",nid_match_found_verification_failed_how_to_solve
+"একবারই ভোটার রেজিস্টার করেছি, তবু ইসি ডাটাবেজে যাচাই মিলছে না, এনআইডি MATCH FOUND দেখায়, কাকে যোগাযোগ করব?",nid_match_found_verification_failed_how_to_solve
+"একবারে ভোটার হয়েছি, যাচাই করতে গেলে এনআইডি MATCH FOUND আসে, ইসি অফিসে কী নথি নিয়ে যেতে হবে?",nid_match_found_verification_failed_how_to_solve
+বৈবাহিক সূত্রে কোন বিদেশি নাগরিকের এনআইডি পাওয়ার সুযোগ আছে কি?,nid_opportunity_for_foreign_spouse
+বিয়ের ভিত্তিতে বিদেশি স্বামী বা স্ত্রীকে এনআইডি দেওয়া হয় কি?,nid_opportunity_for_foreign_spouse
+বিয়ের পর বিদেশি জীবনসঙ্গী কি জাতীয় পরিচয়পত্র করতে পারবে?,nid_opportunity_for_foreign_spouse
+বৈবাহিক সম্পর্ক থাকলে কোনো বিদেশি কি এনআইডি করার যোগ্য?,nid_opportunity_for_foreign_spouse
+নির্বাচন কমিশন কি বিয়ের সূত্রে বিদেশি নাগরিককে এনআইডি দেয়?,nid_opportunity_for_foreign_spouse
+বাংলাদেশি সঙ্গীকে বিয়ে করলে বিদেশির এনআইডি করার নিয়ম আছে কি?,nid_opportunity_for_foreign_spouse
+বিয়ের সনদের ভিত্তিতে বিদেশি নাগরিক কি এনআইডি নিতে পারে?,nid_opportunity_for_foreign_spouse
+বৈবাহিক সম্পর্কের কারণে বিদেশি কি নির্বাচন কমিশনের এনআইডি পাবে?,nid_opportunity_for_foreign_spouse
+নতুন এনআইডি নিবন্ধনের জন্য বয়স কত হতে হয়?,nid_registration_age
+নতুন এনআইডি করতে ন্যূনতম বয়স কত?,nid_registration_age
+প্রথমবার এনআইডি নিবন্ধন করতে হলে বয়স কত হতে হবে?,nid_registration_age
+বাংলাদেশ নির্বাচন কমিশনের নতুন এনআইডি পেতে কত বছর বয়স লাগবে?,nid_registration_age
+এনআইডি প্রথমবার বানাতে হলে কত বয়স থাকা দরকার?,nid_registration_age
+নতুন এনআইডি ইস্যুর জন্য বয়স কত হলে আবেদন করা যায়?,nid_registration_age
+এনআইডি রেজিস্ট্রেশন নতুন করে করতে হলে কত বছর পূর্ণ হতে হবে?,nid_registration_age
+নির্বাচন কমিশনের এনআইডি করতে ন্যূনতম বয়স কত লাগে?,nid_registration_age
+এনআইডি Wallet কোথায় পাবো?,nid_wallet_download
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি ওয়ালেট কোথা থেকে ডাউনলোড করব?,nid_wallet_download
+ইসির এনআইডি ওয়ালেটের অফিসিয়াল লিংক কোথায় পাব?,nid_wallet_download
+নির্বাচন কমিশনের এনআইডি ওয়ালেট অ্যাপটা কোথায় পাওয়া যাবে?,nid_wallet_download
+ইসির এনআইডি ওয়ালেট কীভাবে আর কোথা থেকে পাবো?,nid_wallet_download
+ইসির এনআইডি ওয়ালেট অ্যাপটি আইওএস বা অ্যান্ড্রয়েডে কোথায় মিলবে?,nid_wallet_download
+ইসির এনআইডি ওয়ালেট অফিসিয়ালি পাওয়ার ঠিকানাটা কোথায়?,nid_wallet_download
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি ওয়ালেট ঠিক কোথায় পাওয়া যায়?,nid_wallet_download
+"এনআইডি Wallet ডাউনলোড করতে পারছি না, অন্য কোন উপায় আছে কি?",nid_wallet_download_alternative
+"এনআইডি ওয়ালেট ডাউনলোড হচ্ছে না, অন্যভাবে কি পাওয়া যাবে?",nid_wallet_download_alternative
+"আমি এনআইডি ওয়ালেট নামাতে পারছি না, বিকল্প কোনো উপায় আছে?",nid_wallet_download_alternative
+"এনআইডি ওয়ালেট অ্যাপ ইনস্টল হতে চাইছে না, ইসির অন্য অপশন কি আছে?",nid_wallet_download_alternative
+"NID Wallet নামানো যাচ্ছে না, বাংলাদেশ নির্বাচন কমিশন কি আর কোন পথ দিয়েছে?",nid_wallet_download_alternative
+"এনআইডি ওয়ালেট নিতে পারছি না, কোন বিকল্প লিংক বা পদ্ধতি আছে?",nid_wallet_download_alternative
+"এনআইডি ওয়ালেট ডাউনলোড আটকে যাচ্ছে, অন্যভাবে কিভাবে পাব?",nid_wallet_download_alternative
+"এনআইডি ওয়ালেট অ্যাপ ডাউনলোড হয় না, আর কী করলে পাব?",nid_wallet_download_alternative
+"আমার Android ফোন নাই, iPhone আছে এনআইডি Wallet ডাউনলোড করবো কিভাবে?",nid_wallet_download_iphone
+"আইফোন আছে, অ্যান্ড্রয়েড না থাকলে নির্বাচন কমিশনের এনআইডি ওয়ালেট কীভাবে ইনস্টল করব?",nid_wallet_download_iphone
+iPhone এ নির্বাচন কমিশনের NID Wallet পাওয়া যায় নাকি ডাউনলোড করব কীভাবে?,nid_wallet_download_iphone
+iOS এ নির্বাচন কমিশনের এনআইডি ওয়ালেট কিভাবে নামাবো?,nid_wallet_download_iphone
+"Android ফোন নাই, শুধু iPhone আছে নির্বাচন কমিশনের NID Wallet সেটআপ করব কিভাবে?",nid_wallet_download_iphone
+আমার iPhone এ নির্বাচন কমিশনের NID Wallet চালাতে চাই ডাউনলোডের উপায়টা কী?,nid_wallet_download_iphone
+অ্যাপল ফোনে নির্বাচন কমিশনের এনআইডি ওয়ালেট কিভাবে ইনস্টল করা যায়?,nid_wallet_download_iphone
+"অ্যান্ড্রয়েড নেই, আমার iPhone এ নির্বাচন কমিশনের এনআইডি ওয়ালেট কিভাবে পাবো?",nid_wallet_download_iphone
+"আমার Android ফোন নেই, এনআইডি Wallet ডাউনলোড এর কাজ কিভাবে করবো?",no_android_phone
+"আমার অ্যান্ড্রয়েড ফোন নেই, তাহলে এনআইডি ওয়ালেট ডাউনলোড করব কীভাবে?",no_android_phone
+"আমি অ্যান্ড্রয়েড ইউজ করি না, এনআইডি ওয়ালেট কিভাবে ডাউনলোড বা চালু করব?",no_android_phone
+"আমার কাছে অ্যান্ড্রয়েড নেই, এনআইডি ওয়ালেট করার প্রক্রিয়া কী হবে?",no_android_phone
+অ্যান্ড্রয়েড ফোন না থাকলে এনআইডি ওয়ালেট অ্যাপটা কিভাবে পাব?,no_android_phone
+অ্যান্ড্রয়েড না থাকলে এনআইডি ওয়ালেট ব্যবহার শুরু করব কীভাবে?,no_android_phone
+অ্যান্ড্রয়েড না থাকলে এনআইডি ওয়ালেট অ্যাক্টিভেট করতে হলে কী করতে হবে?,no_android_phone
+"আমার ফোন অ্যান্ড্রয়েড না, এনআইডি ওয়ালেট ডাউনলোডের বিকল্প উপায় আছে?",no_android_phone
+"সংশোধনের মেসেজ পেয়েছি কিন্তু কার্ড ডাউনলোড করতে পারছি না, অপশন নাই।",no_download_option_after_correction
+"সংশোধনের এসএমএস পেয়েছি, কিন্তু এনআইডি কার্ড ডাউনলোডের অপশন কেন নেই?",no_download_option_after_correction
+"এনআইডি সংশোধন সম্পন্নের এসএমএসের পরও কার্ড ডাউনলোডের অপশন আসছে না, সমাধান কী?",no_download_option_after_correction
+"সংশোধনের পর অনলাইনে এনআইডি কার্ড ডাউনলোড করতে গেলে কোনো অপশন পাই না, কীভাবে পাব?",no_download_option_after_correction
+"সংশোধন শেষের মেসেজ পেয়েছি, কিন্তু স্মার্ট এনআইডি ডাউনলোডের বাটন নেই, কী সমস্যা?",no_download_option_after_correction
+"নির্বাচন কমিশনের পোর্টালে সংশোধন দেখাচ্ছে, কিন্তু এনআইডি কার্ড ডাউনলোড করতে পারছি না, কারণ কী?",no_download_option_after_correction
+"এনআইডি আপডেটের এসএমএস এসেছে, তবু ডাউনলোডের অপশন মেলে না, এখন কী করব?",no_download_option_after_correction
+"সংশোধনের আবেদন সফল বলছে, কিন্তু ওয়েবসাইট বা অ্যাপে ডাউনলোড বাটন নেই, কী করণীয়?",no_download_option_after_correction
+এনআইডি Wallet এ ফেস ভেরিফিকেশন করতে পারছি না।,no_face_verification
+"এনআইডি Wallet এ ফেস ভেরিফাই বারবার ফেল করছে, কেন?",no_face_verification
+"এনআইডি ওয়ালেট অ্যাপের ফেস স্ক্যান কাজ করছে না, কী সমস্যা?",no_face_verification
+"এনআইডি ওয়ালেটের ফেস ভেরিফিকেশন আটকে যাচ্ছে, কীভাবে ঠিক করব?",no_face_verification
+"এনআইডি Wallet এ লাইভনেস চেক পারছি না, কেন হচ্ছে?",no_face_verification
+"এনআইডি ওয়ালেটে ফেস ম্যাচ বারবার ব্যর্থ হচ্ছে, কী করা যায়?",no_face_verification
+"এনআইডি Wallet অ্যাপে মুখের ভেরিফিকেশন নিতে পারছি না, কীভাবে হবে?",no_face_verification
+"এনআইডি ওয়ালেটে ফেস আইডি ভেরিফিকেশন কাজ করছে না, কী করণীয়?",no_face_verification
+"আগের আইডি কার্ডে স্বামীর নাম ছিলো, স্মার্ট কার্ডে স্বামীর নাম নাই, কেন?",no_husband_name_in_smart_card
+"পুরনো এনআইডিতে স্বামীর নাম ছিল, স্মার্ট এনআইডিতে স্বামীর নাম নেই, কেন?",no_husband_name_in_smart_card
+"আগের জাতীয় পরিচয়পত্রে স্বামীর নাম থাকত, এখন স্মার্ট কার্ডে দেখায় না, কারণ কী?",no_husband_name_in_smart_card
+"আগে এনআইডিতে স্বামীর নাম ছিল, স্মার্ট কার্ডে নাই কেন?",no_husband_name_in_smart_card
+"পুরনো আইডি কার্ডে স্বামীর নাম প্রিন্টেড ছিল, স্মার্ট এনআইডিতে নেই কেন?",no_husband_name_in_smart_card
+"আগের কার্ডে স্বামীর নাম ছিল, নতুন স্মার্ট কার্ডে বাদ গেছে কেন?",no_husband_name_in_smart_card
+"বাংলাদেশ নির্বাচন কমিশনের স্মার্ট এনআইডিতে স্বামীর নাম রাখা হয় না নাকি, কেন?",no_husband_name_in_smart_card
+"আগে এনআইডিতে স্বামীর নাম দেখা যেত, স্মার্ট কার্ডে আর দেখা যায় না, কারণ কী?",no_husband_name_in_smart_card
+"এনআইডি অনলাইন রেজিষ্ট্রেশন করার চেষ্টা করছি, মোবাইলে ওটিপি আসছে না, কি করণীয়?",no_otp_in_registration
+"এনআইডি অনলাইন আবেদন করছি, ফোনে ওটিপি কোড আসছে না, কী করব?",no_otp_in_registration
+"নির্বাচন কমিশনের এনআইডি রেজিস্ট্রেশনে ওটিপি পাচ্ছি না, সমাধান কী?",no_otp_in_registration
+"এনআইডি অনলাইনে নিবন্ধন দিতে গিয়ে ভেরিফিকেশন কোড আসছে না, কী করা উচিত?",no_otp_in_registration
+"এনআইডি পোর্টালে রেজিস্ট্রেশন করছি কিন্তু ফোনে যাচাইকরণ কোড পাচ্ছি না, এখন কী করব?",no_otp_in_registration
+"এনআইডি অনলাইন একাউন্ট খুলতে গেলে ওটিপি মেসেজ আসে না, কীভাবে ঠিক করব?",no_otp_in_registration
+"এনআইডি রেজিস্ট্রেশনের সময় মোবাইলে এসএমএস ওটিপি আসছে না, কী করতে হবে?",no_otp_in_registration
+"এনআইডি অনলাইন অ্যাকটিভেশন করতে গেলে ওটিপি কোড আসে না, কীভাবে সমাধান করব?",no_otp_in_registration
+"এনআইডি অনলাইন সাইন আপে ফোনে যাচাইকরণ এসএমএস পাচ্ছি না, কী করণীয়?",no_otp_in_registration
+"আমি OTP পাচ্ছি না, কতো সময় পর আসবে?",no_otp_in_registration
+"বাংলাদেশ নির্বাচন কমিশনের NID সেবায় OTP পাচ্ছি না, কতক্ষণ পর আসবে?",no_otp_in_registration
+"নির্বাচন কমিশনের অনলাইন ভেরিফিকেশনের OTP আসছে না, সাধারণত কত সময় লাগে?",no_otp_in_registration
+বাংলাদেশ নির্বাচন কমিশনের OTP না এলে কতক্ষণ পরে পাওয়া যায়?,no_otp_in_registration
+"NID অনলাইনে নির্বাচন কমিশনের OTP পাচ্ছি না, আনুমানিক কত সময় পর আসে?",no_otp_in_registration
+ইসির ভেরিফিকেশন OTP পৌঁছাতে কত সময় নেয়?,no_otp_in_registration
+নির্বাচন কমিশনের OTP রিসেন্ড দিলে কতক্ষণে আসে?,no_otp_in_registration
+"বাংলাদেশ নির্বাচন কমিশনের সেবায় OTP মেসেজ দেরি হচ্ছে, কবে পাব?",no_otp_in_registration
+ভোটার এলাকায় নিজের বাড়ি না থাকলে কি ভোটার হওয়া যাবে?,no_own_house_in_voter_area
+নিজের বাড়ি না থাকলে ওই এলাকায় ভোটার হিসেবে নিবন্ধন করা যাবে কি?,no_own_house_in_voter_area
+ভাড়া বাসায় থাকলে এই এলাকায় ভোটার হওয়া যাবে?,no_own_house_in_voter_area
+বাংলাদেশ নির্বাচন কমিশনের নিয়মে নিজের বাড়ি ছাড়া কি এখানে ভোটার হওয়া যায়?,no_own_house_in_voter_area
+স্থায়ী বাড়ি না থাকলেও কি বর্তমান এলাকায় ভোটার তালিকায় নাম তোলা যাবে?,no_own_house_in_voter_area
+বাড়ি নিজের নামে না হলে ওই এলাকায় কি ভোটার হওয়া যাবে?,no_own_house_in_voter_area
+"হোস্টেল বা ভাড়া বাসায় থাকি, তাহলে কি এই ওয়ার্ডে ভোটার হতে পারি?",no_own_house_in_voter_area
+"কাজের জায়গার এলাকায় নিজের বাড়ি নেই, সেখানে কি ভোটার হিসেবে নিবন্ধন সম্ভব?",no_own_house_in_voter_area
+"আমার এনআইডি এর ঠিকানায় উপজেলার ঘর ফাঁকা, অনলাইনে রেজিষ্ট্রেশন করতে পারছি না।",no_upzila_in_online_registration
+"এনআইডির ঠিকানায় উপজেলা নেই বলে নির্বাচন কমিশনের সাইটে রেজিস্ট্রেশন হচ্ছে না, সমাধান কী?",no_upzila_in_online_registration
+"আমার এনআইডি ঠিকানায় উপজেলা সিলেক্ট করা নেই, অনলাইন সেবায় ঢুকতে পারছি না, কোথায় আপডেট করব?",no_upzila_in_online_registration
+"ঠিকানার উপজেলা তথ্য না থাকায় ইসির অনলাইন রেজিস্ট্রেশন আটকে যাচ্ছে, সমাধান কীভাবে পাব?",no_upzila_in_online_registration
+"এনআইডির ঠিকানায় উপজেলা বা থানা ঘর খালি, অনলাইনে অ্যাকাউন্ট খুলতে পারছি না, কী করতে হবে?",no_upzila_in_online_registration
+এনআইডি ঠিকানায় উপজেলা মিসিং থাকলে অনলাইন নিবন্ধন কীভাবে সম্পন্ন করব?,no_upzila_in_online_registration
+"আমার এনআইডিতে উপজেলার ঘর ফাঁকা দেখাচ্ছে, তাই অনলাইনে রেজিস্ট্রেশন হচ্ছে না, কীভাবে সংশোধন দেব?",no_upzila_in_online_registration
+"ঠিকানার উপজেলা আপডেট না থাকলে এনআইডির অনলাইন নিবন্ধন কেন হয় না, কিভাবে আপডেট দেব?",no_upzila_in_online_registration
+"স্থায়ী ঠিকানায় উপজেলাটা লেখা নেই, কী করব?",no_upzila_in_permananet_address
+"এনআইডিতে স্থায়ী ঠিকানার উপজেলা নেই, করণীয় কী?",no_upzila_in_permananet_address
+"ভোটার আইডিতে স্থায়ী ঠিকানায় উপজেলা বাদ গেছে, কী করতে হবে?",no_upzila_in_permananet_address
+"স্থায়ী ঠিকানার উপজেলাটি মিস হয়েছে, এখন কীভাবে ঠিক করব?",no_upzila_in_permananet_address
+"ইসি রেকর্ডে স্থায়ী ঠিকানায় উপজেলা আপডেট নেই, কী করণীয়?",no_upzila_in_permananet_address
+"ভোটার তালিকায় স্থায়ী ঠিকানার উপজেলা নেই, কীভাবে সংশোধন করব?",no_upzila_in_permananet_address
+"স্থায়ী ঠিকানায় উপজেলা ঢোকেনি, কীভাবে আপডেট করব?",no_upzila_in_permananet_address
+"এনআইডি তথ্যের স্থায়ী ঠিকানায় উপজেলা নাই, এখন করব কী?",no_upzila_in_permananet_address
+"আমার পরে ভোটার হয়েছে, তারা স্মার্ট কার্ড পেয়েছে কিন্তু আমি পাইনি, কি করবো?",not_getting_smart_card_though_newer_voter_getting
+"আমি তো আগে ভোটার হয়েছি, পরে যারা হয়েছে তারা স্মার্ট কার্ড পেয়েছে, আমারটা নেই, এখন কী করব?",not_getting_smart_card_though_newer_voter_getting
+"পরে ভোটার হওয়া সবাই স্মার্ট এনআইডি কার্ড হাতে পেয়েছে, আমি পাইনি, নির্বাচন কমিশনে কী করব?",not_getting_smart_card_though_newer_voter_getting
+"আমার ভোটার হওয়া আগে, তবু স্মার্ট এনআইডি পাইনি, ইসির কাছে কীভাবে অনুসন্ধান করব?",not_getting_smart_card_though_newer_voter_getting
+"আমি আগে ভোটার হয়েছি, কিন্তু স্মার্ট এনআইডি কার্ড আসেনি, করণীয় কী?",not_getting_smart_card_though_newer_voter_getting
+"পরে ভোটার হওয়া বন্ধুরা স্মার্ট কার্ড পেল, আমারটা হয়নি, নির্বাচন কমিশনে কার সাথে কথা বলব?",not_getting_smart_card_though_newer_voter_getting
+"আমি আগেই ভোটার হয়েও স্মার্ট কার্ড পাইনি, কেন দেরি হচ্ছে, কী করণীয়?",not_getting_smart_card_though_newer_voter_getting
+"পরে যারা ভোটার হয়েছে তাদের স্মার্ট এনআইডি এসে গেছে, আমারটা আসেনি, এখন পদক্ষেপ কী?",not_getting_smart_card_though_newer_voter_getting
+প্রবাসী এনআইডি বা ভোটার নিবন্ধনের জন্য এম্বাসী/দূতাবাসে আবেদন জমা দিয়ে এসেছি। বর্তমান অবস্থা কি?,nrb_application_status
+"প্রবাসী এনআইডি বা ভোটার নিবন্ধনের আবেদন এম্বাসি বা দূতাবাসে জমা দিয়েছি, বর্তমান অবস্থা কী?",nrb_application_status
+দূতাবাসে দেওয়া প্রবাসী এনআইডি বা ভোটার নিবন্ধনের ফাইল এখন কোন ধাপে আছে?,nrb_application_status
+হাইকমিশনে জমা দেওয়া প্রবাসী এনআইডি বা ভোটার আবেদনটি কতদূর প্রসেস হয়েছে?,nrb_application_status
+বাংলাদেশ নির্বাচন কমিশনের প্রবাসী এনআইডি আবেদনের স্ট্যাটাস এখন কোথায় দাঁড়িয়ে?,nrb_application_status
+"এম্বাসিতে জমা করা প্রবাসী এনআইডি আবেদনের অগ্রগতি জানতে চাই, এখন কী অবস্থায় আছে?",nrb_application_status
+বাংলাদেশ মিশনে দেওয়া প্রবাসী এনআইডি বা ভোটার নিবন্ধনের আবেদন কোন পর্যায়ে পৌঁছেছে?,nrb_application_status
+দূতাবাসে জমা দেওয়া প্রবাসী ভোটার নিবন্ধনের স্ট্যাটাস এখন কী দেখাচ্ছে?,nrb_application_status
+"প্রবাসী এনআইডি বা ভোটার নিবন্ধনের জন্য এম্বাসিতে আবেদন করেছি, প্রসেসিং কতদূর গেল?",nrb_application_status
+"আমি এম্বাসিতে প্রবাসী এনআইডি বা ভোটার নিবন্ধনের ফর্ম জমা দিয়েছি, আপডেট কী আছে?",nrb_application_status
+"কনস্যুলেটে প্রবাসী এনআইডি বা ভোটার নিবন্ধনের কাগজ জমা দিয়েছি, বর্তমান অবস্থা জানতে চাই?",nrb_application_status
+"বাংলাদেশ নির্বাচন কমিশনের প্রবাসী এনআইডি বা ভোটার নিবন্ধনের আবেদন আমি দূতাবাসে দিয়েছি, স্ট্যাটাসটা এখন কোথায়?",nrb_application_status
+"প্রবাসী এনআইডি কিংবা ভোটার নিবন্ধনের জন্য ইসির আবেদন এম্বাসিতে সাবমিট করেছি, এখন কতদূর অগ্রগতি?",nrb_application_status
+"বিদেশ থেকে প্রবাসী এনআইডি বা ভোটার রেজিস্ট্রেশনের আবেদন দূতাবাসে দিয়েছি, এখন স্ট্যাটাস কী?",nrb_application_status
+"এম্বাসিতে প্রবাসী এনআইডি বা ভোটার নিবন্ধনের আবেদন জমা আছে, প্রসেসিং কতদূর হয়েছে?",nrb_application_status
+"প্রবাসী এনআইডি বা ভোটার নিবন্ধনের আবেদন দূতাবাসে সাবমিট করে এসেছি, এখন স্ট্যাটাস কী?",nrb_application_status
+"পুরোনো জন্ম সনদ আছে, অনলাইনে পাওয়া যাচ্ছে না, কিন্তু এনআইডি সংশোধনের আবেদনে জন্ম নিবন্ধন দিতে হবে, কী করব?",old_birth_certificate
+"আমার জন্ম সনদটা পুরনো এবং অনলাইনে দেখা যায় না, নির্বাচন কমিশনে এনআইডি সংশোধনে জন্ম নিবন্ধন লাগবে, এখন কীভাবে জমা দেব?",old_birth_certificate
+"হাতে লেখা পুরাতন জন্ম সনদ আছে, অনলাইনে ভেরিফাই হয় না, ইসিতে তথ্য সংশোধনের আবেদনে জন্ম নিবন্ধন দরকার, কী করবো?",old_birth_certificate
+"পুরনো জন্ম নিবন্ধনের কাগজ আছে কিন্তু অনলাইন রেকর্ড নেই, এনআইডি সংশোধন করতে ইসিতে কী জমা দেব?",old_birth_certificate
+"আমার জন্ম সনদ অনলাইনে নেই, কিন্তু ভোটার আইডি সংশোধনে জন্ম নিবন্ধন সংযুক্ত করতে বলছে, এখন সমাধান কী?",old_birth_certificate
+"জন্ম সনদ পুরাতন এবং অনলাইনে মিলছে না, নির্বাচন কমিশনে রেকর্ড সংশোধনের সময় জন্ম নিবন্ধন কীভাবে দেব?",old_birth_certificate
+"পুরোনো জন্ম সনদ অনলাইনে উঠেনি, এনআইডি ডাটা সংশোধনের আবেদনে জন্ম নিবন্ধন চাই, কী করব?",old_birth_certificate
+"জন্ম নিবন্ধনের অনলাইন কপি নেই, ইসিতে ভোটার তথ্য সংশোধনের জন্য জন্ম সনদ জমা দিতে হলে কী উপায়?",old_birth_certificate
+একটি মোবাইল নম্বর দিয়ে কতবার রেজিষ্ট্রেশন করতে পারবো?,one_mobile_number_how_many_time_registration
+একটি মোবাইল নম্বর দিয়ে ইসি পোর্টালে কতবার রেজিস্ট্রেশন করা যাবে?,one_mobile_number_how_many_time_registration
+একই মোবাইল নম্বর দিয়ে ভোটার নিবন্ধন কয়বার করা যায়?,one_mobile_number_how_many_time_registration
+একই নম্বর দিয়ে একাধিকবার ভোটার নিবন্ধন করা যাবে কি?,one_mobile_number_how_many_time_registration
+আগে ব্যবহৃত মোবাইল নম্বর দিয়ে কি পুনরায় রেজিস্ট্রেশন করতে পারি?,one_mobile_number_how_many_time_registration
+একটি মোবাইল নম্বর দিয়ে কয়বার রেজিস্ট্রেশন করতে পারবো?,one_mobile_number_how_many_time_registration
+একই মোবাইল নম্বর দিয়ে কি বারবার নিবন্ধন করা যাবে?,one_mobile_number_how_many_time_registration
+নির্বাচন কমিশনের পোর্টালে একটি নম্বর দিয়ে কতবার রেজিস্ট্রেশন করা যায়?,one_mobile_number_how_many_time_registration
+"সংশোধনের আবেদনের অবস্থা জানতে চেয়ে ১০৫ এ ফোন করেছি, উপজেলা নির্বাচন অফিসে যোগাযোগ করতে বলেছে, কিন্তু আমি উক্ত এলাকায় থাকিনা, কি করবো?",one_zero_five_upzila_office_contact
+"সংশোধন আবেদনের স্ট্যাটাস জানতে ১০৫ এ ফোন করেছিলাম, তারা উপজেলা নির্বাচন অফিসে যেতে বলেছে, কিন্তু আমি ওখানে থাকি না, এখন কী করবো?",one_zero_five_upzila_office_contact
+"এনআইডি সংশোধনের অবস্থা জানার জন্য ১০৫ এ কল দিলে উপজেলা নির্বাচন অফিসে যোগাযোগ করতে বলেছে, আমি সেই এলাকায় নেই, সমাধান কী?",one_zero_five_upzila_office_contact
+"এনআইডি সংশোধনের স্ট্যাটাস জানতে ১০৫ নম্বরে ফোন করেছি, উপজেলা নির্বাচন অফিসে যেতে বলেছে, কিন্তু আমি দেশে নেই, এখন কী অপশন আছে?",one_zero_five_upzila_office_contact
+"১০৫ এ কল করে সংশোধন আবেদন সম্পর্কে জানতে চেয়েছি, তারা বলছে উপজেলা নির্বাচন অফিসে যেতে, কিন্তু আমি ওই এলাকায় থাকি না, কীভাবে সমাধান করব?",one_zero_five_upzila_office_contact
+"এনআইডি সংশোধনের আবেদন ট্র্যাক করতে ১০৫ এ কল করেছিলাম, বলল উপজেলা নির্বাচন অফিসে যোগাযোগ করতে, আমি ঢাকার বাইরে আছি, কী করাটা ঠিক হবে?",one_zero_five_upzila_office_contact
+"১০৫ হেল্পলাইনে কথা বলে সংশোধন আবেদনের স্ট্যাটাস জানতে চেয়েছি, তারা উপজেলা নির্বাচন অফিসে যেতে বলেছে, কিন্তু আমি সেখানে যেতে পারছি না, কী করব?",one_zero_five_upzila_office_contact
+"সংশোধন আবেদনের অবস্থা জানতে ১০৫ এ ফোন করেছি, তারা উপজেলা নির্বাচন অফিসে যোগাযোগ করতে বলেছে, কিন্তু আমি আবেদনের এলাকার বাইরে আছি, অনলাইনে করা যাবে?",one_zero_five_upzila_office_contact
+"সংশোধনের আবেদন করেছি অনেকদিন আগে এখনো “আপনার একটি আবেদন পেন্ডিং আছে” মেসেজ দেখাচ্ছে, এখন কি করবো?",online_application_pending
+"এনআইডি সংশোধনের আবেদন করেছি অনেকদিন, এখনও ‘আপনার একটি আবেদন পেন্ডিং আছে’ দেখাচ্ছে, এখন কী করব?",online_application_pending
+"এনআইডি তথ্য সংশোধনের আবেদন বহুদিন আগে করেছি, এখনও পেন্ডিং স্ট্যাটাস, এখন আমি কী করতে পারি?",online_application_pending
+"সংশোধন আবেদন সাবমিট করেছি অনেক আগে, পোর্টালে ‘আপনার একটি আবেদন পেন্ডিং আছে’ আসে, এখন কীভাবে এগোবো?",online_application_pending
+"ভোটার আইডি সংশোধনের অনলাইন আবেদন করেছি, অনেকদিন হলো তবু পেন্ডিং দেখায়, এখন কী করব?",online_application_pending
+"এনআইডি ডেটা সংশোধনের আবেদন করেছি, এখনও পেন্ডিং থেকে যাচ্ছে, এখন সমাধান কীভাবে হবে?",online_application_pending
+"সংশোধনের জন্য আবেদন করেছিলাম, অনেক সময় পেরিয়ে গেছে কিন্তু পেন্ডিংই দেখাচ্ছে, এখন কী করব?",online_application_pending
+"নির্বাচন কমিশনের এনআইডি সংশোধনের আবেদন অনেক আগে দিয়েছি, আজও পেন্ডিং দেখায়, এখন কী করণীয়?",online_application_pending
+"আমি অনেকদিন আগে এনআইডি রিইস্যুর আবেদন দিয়েছি, এখনো পেন্ডিং দেখায়, আর কত সময় লাগবে?",online_application_pending
+"নির্বাচন কমিশনে এনআইডি রিইস্যু আবেদন অনেকদিন ধরে পেন্ডিং, কবে রেডি হবে?",online_application_pending
+"ইসির রিইস্যু আবেদনটা কেন এখনো পেন্ডিং, আনুমানিক কতদিন লাগে?",online_application_pending
+"আমার এনআইডি রিইস্যু স্ট্যাটাস ইসি পোর্টালে পেন্ডিং, প্রসেস করতে কত সময় লাগে?",online_application_pending
+"ইসি রিইস্যু আবেদন পেন্ডিং আছে, সাধারণত কতদিনে অ্যাপ্রুভ হয়?",online_application_pending
+"এনআইডি রিইস্যুর ফাইলটা পেন্ডিং কেন, নির্বাচন কমিশন কত দিনে শেষ করে?",online_application_pending
+"রিইস্যু রিকোয়েস্ট সাবমিট করেছি, স্ট্যাটাস পেন্ডিং, কবে হাতে পেতে পারি?",online_application_pending
+"ইসির অনলাইনে রিইস্যু স্ট্যাটাস পেন্ডিং দেখাচ্ছে, প্রসেসিং টাইম কত?",online_application_pending
+নির্বাচন কমিশনে এনআইডি রিইস্যুর পেন্ডিং স্ট্যাটাস কতদিন থাকা স্বাভাবিক?,online_application_pending
+অনলাইনে কি ধরণের আবেদন করা যায়?,online_apply
+নির্বাচন কমিশনে অনলাইনে কী ধরনের আবেদন করা যায়?,online_apply
+ইসির পোর্টালে অনলাইনে কী কী আবেদন জমা দেওয়া যায়?,online_apply
+ইসির ভোটার বিষয়ক অনলাইনে কোন কোন আবেদন গ্রহণ করা হয়?,online_apply
+অনলাইনে নির্বাচন কমিশনে কোন ধরনের আবেদন দেওয়া সম্ভব?,online_apply
+অনলাইনে ইসিতে কী কী আবেদন সাবমিট করা যায়?,online_apply
+বাংলাদেশ নির্বাচন কমিশনে অনলাইনে কোন কোন আবেদনের ফর্ম জমা দেওয়া যায়?,online_apply
+অনলাইনে ইসির কাছে কোন ধরনের আবেদন নেওয়া হচ্ছে?,online_apply
+এনআইডি সংশোধনের জন্য অনলাইনে আবেদন করার ঠিকানা/ অ্যাড্রেস কি?,online_card_correction
+এনআইডি সংশোধনের অনলাইন আবেদন করার লিংকটা কী?,online_card_correction
+এনআইডি তথ্য ঠিক করার জন্য অনলাইনে কোন ওয়েবসাইটে যাব?,online_card_correction
+নির্বাচন কমিশনের এনআইডি সংশোধনের অনলাইন ইউআরএলটা কোনটি?,online_card_correction
+এনআইডি আপডেটের আবেদন অনলাইনে দিতে ওয়েব অ্যাড্রেস কী?,online_card_correction
+এনআইডি ডাটা সংশোধনের আবেদন করতে অনলাইনে কোন সাইট?,online_card_correction
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি সংশোধনের ওয়েব পোর্টাল কোনটা?,online_card_correction
+এনআইডি সংশোধন অনলাইনে কোথায় আবেদন করব?,online_card_correction
+এনআইডি তথ্য আপডেটের জন্য অনলাইনে আবেদন লিংক কোথায়?,online_card_correction
+"এনআইডি কারেকশন করতে চাই, ইসির কোন অফিসে যেতে হবে?",online_card_correction
+"এনআইডি তথ্য ঠিক করতে হলে, কোন নির্বাচন অফিসে যাওয়া লাগবে?",online_card_correction
+"এনআইডি কারেকশন দরকার, অনলাইনে ইসির কোন মেনুতে আবেদন করবো?",online_card_correction
+"এনআইডি ঠিক করাতে, উপজেলা নাকি জেলা নির্বাচন অফিসে কোনটায় যাবো?",online_card_correction
+"এনআইডি সংশোধন করতে হলে, ইসির কোন কাউন্টারে সেবা পাওয়া যায়?",online_card_correction
+"এনআইডি ভুল ঠিক করতে চাই, ইসির কোন শাখায় আবেদন দেবো?",online_card_correction
+"এনআইডি কারেকশন করবো, ইসির কোন ফর্মটা জমা দিতে হবে?",online_card_correction
+"এনআইডি আপডেট করবো, ইসির কোন প্রক্রিয়া ফলো করবো?",online_card_correction
+ওয়েবসাইটে ঢুকতে হবে?,online_card_correction
+বাংলাদেশ নির্বাচন কমিশনের ওয়েবসাইটে ঢুকতে হবে?,online_card_correction
+ইসি ওয়েবসাইটে ঢুকতে হবে নাকি?,online_card_correction
+নির্বাচন কমিশনের সাইটে যেতে হবে?,online_card_correction
+ইসি পোর্টালে ঢুকতে হবে?,online_card_correction
+বাংলাদেশ নির্বাচন কমিশনের সাইটে লগইন করতে হবে?,online_card_correction
+ইসির ওয়েবসাইটে ঢুকতে হবে?,online_card_correction
+ইসি ওয়েবসাইটে লগইন দিতে হবে?,online_card_correction
+বাংলাদেশ নির্বাচন কমিশনের পোর্টালে ঢুকতে হবে?,online_card_correction
+ইসি সাইটে ঢোকা লাগবে?,online_card_correction
+এনআইডি পোর্টালের এড্রেস জানতে চাই।,online_card_correction
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি পোর্টালের ঠিকানাটা দিবেন?,online_card_correction
+এনআইডি অনলাইন পোর্টালের অফিসিয়াল ওয়েব ঠিকানা কী?,online_card_correction
+এনআইডি সার্ভিস পোর্টাল কোন ওয়েবসাইটে পাওয়া যাবে?,online_card_correction
+এনআইডি পোর্টালের অফিসিয়াল লিংক কোথায় পাব?,online_card_correction
+এনআইডি পোর্টাল অ্যাক্সেস করার ওয়েব ঠিকানাটা বলবেন?,online_card_correction
+বাংলাদেশ ইসির এনআইডি অনলাইন সেবার লিংক কী?,online_card_correction
+এনআইডি ওয়েব পোর্টালের সঠিক ঠিকানাটা কোনটা?,online_card_correction
+"কার্ড সংশোধনের জন্য অনলাইনে আবেদন করেছি, এখন কি করবো?",online_card_correction_application_done_now_what
+"অনলাইনে এনআইডি কার্ড সংশোধনের আবেদন করেছি, এরপর কী করতে হবে?",online_card_correction_application_done_now_what
+"ভোটার কার্ড কারেকশনের জন্য ওয়েবসাইটে আবেদন দিলাম, এখন পরের ধাপ কী?",online_card_correction_application_done_now_what
+"এনআইডি সংশোধনের আবেদন অনলাইনে সাবমিট করেছি, এরপর আমাকে কী করতে হবে?",online_card_correction_application_done_now_what
+"কার্ড কারেকশনের আবেদন ওয়েবে করেছি, এখন কীভাবে এগোবো?",online_card_correction_application_done_now_what
+"নির্বাচন কমিশনের সাইটে কার্ড সংশোধনের রিকোয়েস্ট দিয়েছি, এরপর কী?",online_card_correction_application_done_now_what
+"এনআইডি কার্ড ঠিক করতে অনলাইনে ফর্ম দিয়েছি, এখন কী করণীয়?",online_card_correction_application_done_now_what
+"ভোটার আইডি সংশোধনের জন্য অনলাইনে আবেদন করলাম, এখন কী করতে হবে?",online_card_correction_application_done_now_what
+এনআইডি অনলাইন পোর্টালে নতুন ভোটার হিসেবে কিভাবে রেজিস্ট্রেশন করব?,online_new_voter_registration
+এনআইডি ওয়েবসাইটে নতুন ভোটারের জন্য কিভাবে আবেদন দেব?,online_new_voter_registration
+NID online এ নতুন ভোটার আবেদন করার নিয়ম কী?,online_new_voter_registration
+এনআইডি অনলাইন সেবায় প্রথমবারের ভোটার হিসেবে কিভাবে নিবন্ধন করবো?,online_new_voter_registration
+এনআইডি পোর্টাল দিয়ে নতুন ভোটার আবেদনটা কিভাবে সাবমিট করব?,online_new_voter_registration
+জাতীয় পরিচয়পত্রের অনলাইন পোর্টালে নতুন ভোটার হিসেবে আবেদন করার প্রক্রিয়াটা কী?,online_new_voter_registration
+NID online পোর্টালে নতুন ভোটার রেজিস্ট্রেশন কীভাবে শুরু করব?,online_new_voter_registration
+অনলাইনে কি ধরণের আবেদন করা যায় না?,online_no_apply
+বাংলাদেশ নির্বাচন কমিশনে কোন কোন আবেদন অনলাইনে করা যায় না?,online_no_apply
+বাংলাদেশ নির্বাচন কমিশনের কোন ধরনের আবেদন অনলাইনে দেওয়া যায় না?,online_no_apply
+বাংলাদেশ নির্বাচন কমিশনে কোন আবেদনের জন্য অনলাইন অপশন নেই?,online_no_apply
+বাংলাদেশ নির্বাচন কমিশনে কোন আবেদন শুধু সরাসরি অফিসে জমা দিতে হয়?,online_no_apply
+বাংলাদেশ নির্বাচন কমিশনে কোন বিষয়ে অনলাইনে আবেদন করা সম্ভব নয়?,online_no_apply
+বাংলাদেশ নির্বাচন কমিশনের কোন কাজের আবেদন অনলাইনে গ্রহণযোগ্য নয়?,online_no_apply
+এনআইডি অনলাইন পোর্টালে রেজিষ্ট্রেশন করবো কিভাবে?,online_portal_registration
+এনআইডি অনলাইন পোর্টালে অ্যাকাউন্ট কিভাবে খুলবো?,online_portal_registration
+এনআইডি অনলাইন পোর্টালে নিবন্ধন করার নিয়মটা কী?,online_portal_registration
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি অনলাইন পোর্টালে রেজিস্ট্রেশন করতে হলে কী করতে হবে?,online_portal_registration
+এনআইডি অনলাইন পোর্টালে প্রথমবার নিবন্ধন করবো কীভাবে?,online_portal_registration
+এনআইডি অনলাইন পোর্টালে সাইন আপের প্রক্রিয়া কী?,online_portal_registration
+এনআইডি ওয়েব পোর্টালে অ্যাকাউন্ট তৈরি করতে কী করতে হবে?,online_portal_registration
+এনআইডি অনলাইন পোর্টালে অ্যাকাউন্ট রেজিস্টার করার সহজ উপায় কী?,online_portal_registration
+এনআইডি অনলাইন পোর্টালে পূর্বে রেজিষ্ট্রেশন করেছিলাম এখন কিভাবে লগ-ইন করবো?,online_previously_registered
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি অনলাইন পোর্টালে আগে নিবন্ধন করেছি এখন কীভাবে লগইন করবো?,online_previously_registered
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি অনলাইন সেবায় আগেই সাইন আপ করেছি এখন অ্যাকাউন্টে ঢুকব কীভাবে?,online_previously_registered
+নির্বাচন কমিশনের NID পোর্টালে পুরোনো রেজিস্ট্রেশন দিয়ে এখন লগইন করতে কী করতে হবে?,online_previously_registered
+নির্বাচন কমিশনের এনআইডি অনলাইন পোর্টালে আগেই রেজিস্ট্রেশন ছিল এখন লগইন করার নিয়মটা কী?,online_previously_registered
+বাংলাদেশ নির্বাচন কমিশনের NID অনলাইন সার্ভিসে আগে থেকে রেজিস্টার আছি এখন লগইন করার স্টেপগুলো কী?,online_previously_registered
+নির্বাচন কমিশনের এনআইডি অনলাইনে আগে রেজিস্টার করেছি এখন কিভাবে সাইন ইন করবো?,online_previously_registered
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি পোর্টালে পূর্বে সাইন আপ করা আছে এখন কীভাবে লগ ইন করব?,online_previously_registered
+"পিতা-মাতার এনআইডি নাই, ভোটার হতে পারছি না, কি করবো?",parent_no_card_failed_to_be_voter
+"পিতামাতার এনআইডি নেই, আমি কীভাবে ভোটার রেজিস্ট্রেশন করব?",parent_no_card_failed_to_be_voter
+"বাবা মায়ের এনআইডি নাই বলে ভোটার হতে পারছি না, সমাধান কী?",parent_no_card_failed_to_be_voter
+"বাবা মা এনআইডি করেননি, নির্বাচন কমিশনে ভোটার হতে হলে কী করতে হবে?",parent_no_card_failed_to_be_voter
+পিতামাতার এনআইডি ছাড়া নতুন ভোটার নিবন্ধন কীভাবে করব?,parent_no_card_failed_to_be_voter
+মা বাবা এনআইডি না থাকলে ভোটার তালিকায় নাম তোলা যাবে কি?,parent_no_card_failed_to_be_voter
+বাবা মায়ের এনআইডি না থাকলে জন্মসনদ দিয়ে ভোটার হওয়া যাবে কি?,parent_no_card_failed_to_be_voter
+"পিতা/মাতা মৃত হওয়ায় তাঁদের এনআইডি নাই, ভোটার হতে পারছি না, কি করবো?",parent_no_card_failed_to_be_voter
+"বাবা মা নেই বলে পিতামাতার এনআইডি দিতে পারছি না, তাহলে ভোটার হতে কী করতে হবে?",parent_no_card_failed_to_be_voter
+"পিতা বা মাতা না থাকায় এনআইডি তথ্য নেই, এখন বাংলাদেশ নির্বাচন কমিশনে ভোটার হতে কী উপায়?",parent_no_card_failed_to_be_voter
+"আমার পিতামাতা দুজনই মৃত, তাঁদের এনআইডি নাই, আমি কি ইসি অফিসে গিয়ে ভোটার হতে পারব, প্রক্রিয়াটা কী?",parent_no_card_failed_to_be_voter
+"বাবা মা মৃত হওয়ায় অভিভাবকের এনআইডি নেই, নতুন ভোটার হিসেবে নাম তুলতে কী করতে হবে?",parent_no_card_failed_to_be_voter
+"পিতামাতার এনআইডি ছাড়াই কি ভোটার হওয়া যাবে, তাঁরা তো মারা গেছেন, করণীয় কী?",parent_no_card_failed_to_be_voter
+"বাবা মা আর বেঁচে নেই, তাঁদের এনআইডি নেই, এ অবস্থায় ভোটার রেজিস্ট্রেশন কীভাবে করব?",parent_no_card_failed_to_be_voter
+"পিতামাতা মৃত হওয়ায় এনআইডি নম্বর দিতে পারছি না, বাংলাদেশ নির্বাচন কমিশনে ভোটার হতে কী কী লাগবে?",parent_no_card_failed_to_be_voter
+বাবা মা না থাকলে এবং তাঁদের এনআইডি না থাকলে আমি কীভাবে ভোটার তালিকায় নাম তুলব?,parent_no_card_failed_to_be_voter
+"পিতা বা মাতা বা স্বামী বা স্ত্রীর এনআইডি নম্বর সংশোধন করতে চাই, কীভাবে করব?",parent_spouse_name_correct_or_add_document_new
+"বাবার বা মায়ের বা স্বামী বা স্ত্রীর এনআইডি নম্বর ভুল, নির্বাচন কমিশনে পরিবর্তন করার প্রক্রিয়া কী?",parent_spouse_name_correct_or_add_document_new
+পিতা মাতা বা স্বামী স্ত্রী কারও এনআইডি নম্বর ঠিক করতে হলে ইসিতে কী করতে হবে?,parent_spouse_name_correct_or_add_document_new
+বাবা মা বা জীবনসঙ্গীর এনআইডি নম্বর আপডেট করার নিয়মটা বলবেন?,parent_spouse_name_correct_or_add_document_new
+পিতা বা মাতা বা স্বামী বা স্ত্রীর এনআইডি নম্বর পরিবর্তনের আবেদন কোথায় করব?,parent_spouse_name_correct_or_add_document_new
+"বাবার বা মায়ের বা স্বামী বা স্ত্রীর এনআইডি নম্বর সংশোধন করা যাবে কি, কী কাগজ লাগবে?",parent_spouse_name_correct_or_add_document_new
+পিতা মাতা বা স্বামী স্ত্রী কারো এনআইডি নম্বর পরিবর্তন করতে চাইলে নির্বাচন কমিশনে কীভাবে আবেদন করব?,parent_spouse_name_correct_or_add_document_new
+এনআইডি কার্ডে পিতা-মাতার নাম সংশোধনের জন্য কি ডকুমেন্টস লাগবে?,parents_name_correction_new
+এনআইডি কার্ডে পিতামাতার নাম ঠিক করতে কোন কোন কাগজ লাগবে?,parents_name_correction_new
+জাতীয় পরিচয়পত্রে বাবা মায়ের নাম সংশোধনের জন্য কী কী প্রমাণপত্র দরকার?,parents_name_correction_new
+বাংলাদেশ নির্বাচন কমিশনের এনআইডিতে পিতামাতার নাম সংশোধনে কোন ডকুমেন্ট লাগবে?,parents_name_correction_new
+এনআইডিতে বাবা মায়ের নামের ভুল ঠিক করতে কী কী কাগজপত্র লাগে?,parents_name_correction_new
+স্মার্ট এনআইডি কার্ডে পিতামাতার নাম আপডেট করতে কী ডকুমেন্টস দরকার?,parents_name_correction_new
+জাতীয় আইডিতে পিতা ও মাতার নাম পরিবর্তনের জন্য কোন কোন কাগজ দরকার হবে?,parents_name_correction_new
+নির্বাচন কমিশনের এনআইডিতে বাবা মায়ের নাম বদলাতে কী কী কাগজপত্র জরুরি?,parents_name_correction_new
+এনআইডি আপডেটে পিতামাতার নাম সংশোধনের কাগজপত্র কী কী লাগে?,parents_name_correction_new
+জাতীয় পরিচয়পত্রে বাবা মায়ের নাম ঠিক করতে কী ডকুমেন্ট লাগবে?,parents_name_correction_new
+এনআইডি কার্ডে পিতার বা মায়ের নাম সংশোধনের জন্য কোন কোন প্রমাণপত্র দরকার?,parents_name_correction_new
+এনআইডি কার্ডে পিতার নাম সংশোধনের জন্য কি ডকুমেন্টস লাগবে?,parents_name_correction_new
+এনআইডিতে বাবার নাম ঠিক করতে কোন কোন কাগজপত্র লাগবে?,parents_name_correction_new
+জাতীয় পরিচয়পত্রে পিতার নামের ভুল সংশোধনের জন্য কী কী ডকুমেন্ট দরকার?,parents_name_correction_new
+বাংলাদেশ নির্বাচন কমিশনে এনআইডির বাবার নাম সংশোধনে কোন কাগজগুলো জমা দিতে হবে?,parents_name_correction_new
+এনআইডি কার্ডে পিতার নামের বানান ঠিক করতে কী প্রমাণপত্র লাগবে?,parents_name_correction_new
+এনআইডিতে বাবার নাম আপডেট করতে কী কী কাগজ চাই?,parents_name_correction_new
+এনআইডি কার্ডে পিতার নাম ঠিক করতে কী কাগজ জমা দিতে হবে?,parents_name_correction_new
+এনআইডিতে বাবার নামের তথ্য সংশোধনের জন্য কী কী কাগজপত্র প্রয়োজন?,parents_name_correction_new
+এনআইডিতে মায়ের নাম ঠিক করতে কোন কোন কাগজপত্র লাগবে?,parents_name_correction_new
+নির্বাচন কমিশনে এনআইডির মায়ের নাম সংশোধন করতে কী প্রমাণপত্র লাগবে?,parents_name_correction_new
+এনআইডিতে মায়ের নাম আপডেট করতে কোন কাগজ দিতে হবে?,parents_name_correction_new
+ইসি অফিসে এনআইডিতে মায়ের নাম ঠিক করতে কী কী প্রয়োজন?,parents_name_correction_new
+এনআইডি কার্ডে মায়ের নামের বানান ভুল ঠিক করতে কী কী কাগজ লাগে?,parents_name_correction_new
+বাংলাদেশ নির্বাচন কমিশনে এনআইডিতে মায়ের নাম পরিবর্তনের জন্য কোন কোন ডকুমেন্ট চাই?,parents_name_correction_new
+এনআইডির মায়ের নাম সংশোধন করতে কী কী কাগজপত্র জমা দিতে হয়?,parents_name_correction_new
+পিতা/মাতা/স্বামীকে “মৃত” উল্লেখ করতে চাইলে কি কি সনদ দাখিল করতে হয়?,parents_or_spouse_death_related_documents_to_declare_death
+নির্বাচন কমিশনের রেকর্ডে পিতা মাতা বা স্বামীকে মৃত দেখাতে কী কী সনদ দিতে হবে?,parents_or_spouse_death_related_documents_to_declare_death
+এনআইডি তথ্য আপডেটে পিতা মাতা বা স্বামীর মৃত্যু দেখানোর জন্য কোন কোন নথি লাগবে?,parents_or_spouse_death_related_documents_to_declare_death
+ভোটার তালিকায় পিতা মাতা বা স্বামীকে মৃত হিসেবে উল্লেখ করতে কী কী প্রমাণপত্র জমা দিতে হয়?,parents_or_spouse_death_related_documents_to_declare_death
+বাংলাদেশ নির্বাচন কমিশনে পিতা মাতা অথবা স্বামীর মৃত্যু স্ট্যাটাস আপডেট করতে কোন সনদ লাগবে?,parents_or_spouse_death_related_documents_to_declare_death
+ইসিতে পিতা মাতা বা স্বামীকে মৃত হিসেবে দেখাতে কী কী ডকুমেন্ট দরকার?,parents_or_spouse_death_related_documents_to_declare_death
+পিতা মাতা কিংবা স্বামীর মৃত্যু তথ্য এনআইডিতে যোগ করতে কোন কোন সার্টিফিকেট দিতে হবে?,parents_or_spouse_death_related_documents_to_declare_death
+ভোটার রেকর্ডে পিতা মাতা বা স্বামীর মৃত্যু দেখাতে কী কী নথিপত্র চাই?,parents_or_spouse_death_related_documents_to_declare_death
+"পাসপোর্ট নম্বর সংযোজন বা সংশোধন করতে, কি ডকুমেন্টস লাগে?",passport_number_correct_or_add_document_new
+নির্বাচন কমিশনে এনআইডিতে পাসপোর্ট নম্বর যোগ বা ঠিক করতে কী কী কাগজপত্র লাগবে?,passport_number_correct_or_add_document_new
+বাংলাদেশ নির্বাচন কমিশনের কাছে পাসপোর্টের নম্বর সংযোজন বা ভুল ঠিক করতে কী কী প্রমাণপত্র লাগে?,passport_number_correct_or_add_document_new
+ইসি অফিসে পাসপোর্ট নম্বর আপডেট করতে কী ডকুমেন্ট সঙ্গে নিতে হবে?,passport_number_correct_or_add_document_new
+নতুন পাসপোর্ট নম্বর এনআইডিতে যোগ করতে কী কী কাগজ লাগে?,passport_number_correct_or_add_document_new
+পাসপোর্ট নম্বরের ভুল ঠিক করতে নির্বাচন কমিশন কোন কোন ডকুমেন্ট চায়?,passport_number_correct_or_add_document_new
+অনলাইনে এনআইডিতে পাসপোর্ট নম্বর সংযোজন বা সংশোধন করতে কী কী প্রমাণপত্র দরকার?,passport_number_correct_or_add_document_new
+পাসপোর্ট নম্বর আপডেটের আবেদন করতে নির্বাচন কমিশনে কী কী ডকুমেন্ট জমা দিতে হবে?,passport_number_correct_or_add_document_new
+ঠিকানা পরিবর্তনের আবেদন করলে কি ফি দিতে হয়?,permanent_address_change_fees
+নির্বাচন কমিশনে ঠিকানা বদলের আবেদন করতে কি কোনো ফি লাগে?,permanent_address_change_fees
+ইসিতে ঠিকানা পরিবর্তনের জন্য আবেদন দিলে কি টাকা দিতে হয়?,permanent_address_change_fees
+এনআইডির ঠিকানা আপডেট করতে আবেদন করলে কি ফি দিতে হবে?,permanent_address_change_fees
+ভোটার আইডির ঠিকানা বদলাতে আবেদন করলে কি চার্জ আছে?,permanent_address_change_fees
+ঠিকানা পরিবর্তনের আবেদন ইসিতে করলে ফি কত লাগে?,permanent_address_change_fees
+বাংলাদেশ নির্বাচন কমিশনে ঠিকানা আপডেটের আবেদন করলে কি কোনো পেমেন্ট লাগে?,permanent_address_change_fees
+ঠিকানা বদলের আবেদন করতে নির্বাচন কমিশন কি কোনো ফি নেয়?,permanent_address_change_fees
+স্থায়ী ঠিকানা পরিবর্তন বা সংশোধনের জন্য কতো ফি দিতে হয়?,permanent_address_change_feess
+ভোটার আইডিতে স্থায়ী ঠিকানা সংশোধনের জন্য কত ফি দিতে হয়?,permanent_address_change_feess
+নির্বাচন কমিশনে স্থায়ী ঠিকানা আপডেটের চার্জ কত?,permanent_address_change_feess
+স্থায়ী ঠিকানা পরিবর্তনের আবেদনে কত টাকা ফি লাগে?,permanent_address_change_feess
+জেলা বদলে স্থায়ী ঠিকানা আপডেট করতে কত ফি দিতে হয়?,permanent_address_change_feess
+এনআইডি কার্ডে স্থায়ী ঠিকানা বদলের সার্ভিস চার্জ কত?,permanent_address_change_feess
+ইসিতে স্থায়ী ঠিকানা সংশোধন করলে ফি কত হয়?,permanent_address_change_feess
+স্থায়ী ঠিকানা আপডেট করতে নির্বাচন কমিশনে কত টাকা জমা দিতে হয়?,permanent_address_change_feess
+ইসিতে স্থায়ী ঠিকানা পরিবর্তন করতে কতদিন সময় লাগে?,permanent_address_change_process_duration
+NID এ স্থায়ী ঠিকানা বদলাতে কতদিন সময় লাগে?,permanent_address_change_process_duration
+নির্বাচন কমিশনে স্থায়ী ঠিকানা সংশোধন করতে কতদিন সময় লাগে?,permanent_address_change_process_duration
+NID কার্ডে স্থায়ী ঠিকানা পরিবর্তনের প্রসেস কত দিনে হয়?,permanent_address_change_process_duration
+ইসির রেকর্ডে স্থায়ী ঠিকানা আপডেট হতে আনুমানিক কতদিন লাগে?,permanent_address_change_process_duration
+ভোটার আইডিতে স্থায়ী ঠিকানা বদলের কাজটা কতদিনে শেষ হয়?,permanent_address_change_process_duration
+আবেদন দেওয়ার পর নির্বাচন কমিশন স্থায়ী ঠিকানা পরিবর্তন করতে কতদিন নেয়?,permanent_address_change_process_duration
+ইসিতে স্থায়ী ঠিকানা পরিবর্তনের সময়সীমা সাধারণত কতদিন?,permanent_address_change_process_duration
+ভোটার আইডিতে স্থায়ী ঠিকানা পরিবর্তনের জন্য কোন কোন ডকুমেন্ট দরকার?,permanent_address_new
+ইসিতে স্থায়ী ঠিকানা আপডেট করতে কী কী প্রমাণপত্র জমা দিতে হবে?,permanent_address_new
+নির্বাচন কমিশনে স্থায়ী ঠিকানা সংশোধনের জন্য কী কাগজপত্র লাগে?,permanent_address_new
+NID এ স্থায়ী ঠিকানা বদলাতে কী কী কাগজপত্র দরকার?,permanent_address_new
+স্থায়ী ঠিকানা হালনাগাদের জন্য নির্বাচন কমিশনে কোন কোন কাগজ লাগবে?,permanent_address_new
+ইসি অফিসে স্থায়ী ঠিকানা পরিবর্তনের আবেদন দিতে কী কী ডকুমেন্ট লাগবে?,permanent_address_new
+ভোটার রেকর্ডে স্থায়ী ঠিকানা আপডেটের জন্য কী কী কাগজ লাগে?,permanent_address_new
+স্থায়ী ঠিকানা পরিবর্তনে নির্বাচন কমিশন কোন কোন প্রমাণপত্র চায়?,permanent_address_new
+স্থায়ী ঠিকানা সংশোধনের আবেদন কি অনলাইনে করা যাবে?,permanent_address_update_procedure
+নির্বাচন কমিশনে স্থায়ী ঠিকানা সংশোধনের আবেদন কি অনলাইনে করা যাবে?,permanent_address_update_procedure
+ইসিতে স্থায়ী ঠিকানা পরিবর্তনের আবেদন অনলাইনে করা যাবে কি?,permanent_address_update_procedure
+ভোটার তালিকায় স্থায়ী ঠিকানা বদলের আবেদন কি অনলাইনে করা যায়?,permanent_address_update_procedure
+স্থায়ী ঠিকানা ঠিক করার জন্য ইসিতে কি অনলাইনে আবেদন দেওয়া যাবে?,permanent_address_update_procedure
+স্থায়ী ঠিকানা সংশোধন করতে নির্বাচন কমিশনে কি অনলাইন আবেদন করা যাবে?,permanent_address_update_procedure
+স্থায়ী ঠিকানা আপডেটের জন্য ইসির কি অনলাইন সেবা আছে?,permanent_address_update_procedure
+স্থায়ী ঠিকানা পরিবর্তনের আবেদন কি অনলাইনেই দেওয়া সম্ভব ইসিতে?,permanent_address_update_procedure
+বর্তমান ঠিকানা সংশোধনের আবেদন কি অনলাইনে করা যাবে?,persent_address_correction_procedure
+ইসির ওয়েবসাইটে বর্তমান ঠিকানা পরিবর্তনের আবেদন দিতে পারি?,persent_address_correction_procedure
+নির্বাচন কমিশনের পোর্টালে কি বর্তমান ঠিকানা সংশোধনের আবেদন করা সম্ভব?,persent_address_correction_procedure
+ইসির অনলাইন সেবায় বর্তমান ঠিকানা পরিবর্তন করা যাবে নাকি অফিসে যেতে হবে?,persent_address_correction_procedure
+অনলাইনে ইসির মাধ্যমে বর্তমান ঠিকানা সংশোধন করা যাবে তো?,persent_address_correction_procedure
+এনআইডিতে বর্তমান ঠিকানা ঠিক করার আবেদন কি অনলাইনে দেওয়া যায়?,persent_address_correction_procedure
+ইসির অ্যাপ বা ওয়েবসাইটে কি বর্তমান ঠিকানা সংশোধন করা যাবে?,persent_address_correction_procedure
+অনলাইনে নির্বাচন কমিশনে বর্তমান ঠিকানা পরিবর্তনের আবেদন করা যায় কি?,persent_address_correction_procedure
+"আমার আইডি কার্ড এর ছবি অস্পষ্ট, ছবি পরিবর্তন করতে হলে কি করা দরকার?",photo_correction
+"আমার জাতীয় পরিচয়পত্রের ছবি ঝাপসা এসেছে, ছবি বদলাতে হলে কীভাবে আবেদন করব?",photo_correction
+"এনআইডির ছবিটা স্পষ্ট না, নতুন ছবি দিতে হলে কী কী করতে হবে?",photo_correction
+"আমার স্মার্ট কার্ডের ছবি ঠিকমতো ওঠেনি, ছবি আপডেট করার প্রক্রিয়া কী?",photo_correction
+"জাতীয় পরিচয়পত্রের ছবি ভালো না, আবার ছবি তুলে বদলাতে পারি কীভাবে?",photo_correction
+"আমার আইডির ছবি ফ্যাকাসে, নতুন ছবি যুক্ত করতে হলে কী করব?",photo_correction
+"এনআইডি কার্ডে ভুলভাবে ছবি এসেছে, ছবি শুধু পরিবর্তন করতে কি ফরম বা ফি লাগে?",photo_correction
+"জাতীয় পরিচয়পত্রে ছবিটা স্পষ্ট নয়, ছবি বদলাতে অনলাইনে করা যাবে নাকি অফিসে যেতে হবে?",photo_correction
+"ছবি তুলেছি অনেক বছর আগে এখনো আইডি কার্ড পাইনি, কি করবো?",photo_done_years_ago_but_no_card
+"বহুদিন আগে এনআইডির ছবি তুলি, তবু কার্ড হাতে পাইনি, এখন কী করব?",photo_done_years_ago_but_no_card
+"আগে ছবি তুলেছিলাম এনরোলমেন্টে, এখনও NID আসে নাই, করণীয় কী?",photo_done_years_ago_but_no_card
+"বহু বছর আগে বায়োমেট্রিক দিয়ে ছবি দিয়েছি, এখনও আইডি কার্ড মেলেনি, কী করতে হবে?",photo_done_years_ago_but_no_card
+"অনেক দিন হয়ে গেল ছবি দিয়েছি, তারপরও জাতীয় পরিচয়পত্র পাই না, এখন কী করা উচিত?",photo_done_years_ago_but_no_card
+"আগে ছবিও দিয়েছি, কিন্তু ভোটার আইডি পাইনি, কোথায় যোগাযোগ করব?",photo_done_years_ago_but_no_card
+"ছবি দিয়েছি অনেক আগে, আইডি কার্ড ডেলিভারি হয়নি, কীভাবে সংগ্রহ করব?",photo_done_years_ago_but_no_card
+"বহুদিন আগে ছবি দিয়েছিলাম, কিন্তু কার্ড ইস্যু হয়নি, পরের পদক্ষেপ কী?",photo_done_years_ago_but_no_card
+"ছবি/ স্বাক্ষর পরিবর্তনের জন্য আবেদন করেছিলাম, এখনো অনুমোদন হয়নি, কেন?",photo_signature_change_application_not_approved
+"বাংলাদেশ নির্বাচন কমিশনে ছবি বা স্বাক্ষর পরিবর্তনের আবেদন করেছি, এখনো অনুমোদন আসেনি, কারণ কী?",photo_signature_change_application_not_approved
+"ইসিতে ছবি আর স্বাক্ষর আপডেটের আবেদন দিয়েছি, স্ট্যাটাস পেন্ডিংই আছে, এত দেরি কেন?",photo_signature_change_application_not_approved
+"এনআইডির ছবি বা স্বাক্ষর বদলের জন্য আবেদন করেছিলাম, এখনও আপডেট হয়নি, সমস্যা কোথায়?",photo_signature_change_application_not_approved
+"ভোটার আইডির ছবি এবং স্বাক্ষর পরিবর্তনের রিকোয়েস্ট করেছি, অনুমোদন পেতে দেরি হচ্ছে কেন?",photo_signature_change_application_not_approved
+"এনআইডি ছবি আর স্বাক্ষর পরিবর্তনের আবেদন দিয়েছি, এখনো কোনো অগ্রগতি নেই, দেরির কারণ কী?",photo_signature_change_application_not_approved
+"ভোটার কার্ডের ছবি বা স্বাক্ষর আপডেটের আবেদন করেছিলাম, ইসিতে অনুমোদন এখনো হয়নি, কেন এমন হচ্ছে?",photo_signature_change_application_not_approved
+"বাংলাদেশ নির্বাচন কমিশনে ছবি এবং স্বাক্ষর পরিবর্তনের ফাইল যাচাইতেই আছে, অনুমোদন কবে হবে, দেরি কেন?",photo_signature_change_application_not_approved
+"ছবি তুলতে যাওয়ার এসএমএস পেয়েছি, কিন্তু উপজেলাতে যাওয়া সম্ভব নয়, আমি কি অন্য কোথাও থেকে ছবি তুলতে পারবো?",photo_sms_but_not_in_upzila_other_when
+"ছবি তোলার জন্য নির্বাচন কমিশনের এসএমএস এসেছে, কিন্তু উপজেলা অফিসে যেতে পারছি না, অন্য কোনো কেন্দ্রে ছবি দিতে পারি কি?",photo_sms_but_not_in_upzila_other_when
+"এনআইডির ছবি তুলতে এসএমএস পেয়েছি, তবে উপজেলায় যাওয়া সম্ভব না, কাছের অন্য কোথাও ছবি তোলা যাবে?",photo_sms_but_not_in_upzila_other_when
+"নির্বাচন কমিশনের ছবি তোলার বার্তা পেয়েছি, কিন্তু উপজেলা কার্যালয়ে যেতে পারছি না, জেলা বা সিটি করপোরেশনে ছবি তোলা যাবে কি?",photo_sms_but_not_in_upzila_other_when
+"ভোটার আইডির ছবি তোলার এসএমএস এসেছে, কিন্তু নির্ধারিত উপজেলায় যাওয়া কঠিন, নিকটবর্তী অন্য কেন্দ্রে ছবি দিতে পারি?",photo_sms_but_not_in_upzila_other_when
+"ছবি তোলার জন্য ডাকে পেয়েছি, কিন্তু উপজেলায় যেতে পারবো না, কি কেন্দ্র বদলে অন্যত্র ছবি তুলতে পারবো?",photo_sms_but_not_in_upzila_other_when
+"ছবি তোলার সময়ের এসএমএস পেয়েছি, কিন্তু উপজেলায় যেতে না পারলে, অন্য কোন কেন্দ্র থেকে ছবি দেয়া যাবে?",photo_sms_but_not_in_upzila_other_when
+"নির্বাচন কমিশনের এসএমএস এসেছে ছবি তুলতে, কিন্তু উপজেলায় যাওয়া যাচ্ছে না, কি কাছাকাছি আরেকটা জায়গা থেকে ছবি তুলতে পারি?",photo_sms_but_not_in_upzila_other_when
+"ছবি তোলার সময় প্রদত্ত প্রাপ্তি রশিদ হারিয়েছি, কিভাবে এনআইডি পাবো?",picture_done_but_lost_or_no_sms_slip
+"ছবি তোলার দিন পাওয়া রশিদ হারিয়ে ফেলেছি, এখন এনআইডি কিভাবে তুলব?",picture_done_but_lost_or_no_sms_slip
+"এনরোলমেন্টের সময়ের রশিদ হারিয়েছি, নির্বাচন কমিশন থেকে এনআইডি নিতে কী করতে হবে?",picture_done_but_lost_or_no_sms_slip
+"ফটো ক্যাপচারের রসিদ হারিয়ে গেছে, এনআইডি কার্ড কীভাবে হাতে পাব?",picture_done_but_lost_or_no_sms_slip
+"ছবির দিন দেওয়া স্লিপ ছাড়া এনআইডি কিভাবে পাবো, প্রক্রিয়াটা কী?",picture_done_but_lost_or_no_sms_slip
+রেজিস্ট্রেশনের প্রাপ্তি রশিদ হারালে এনআইডি তুলতে কি করতে হবে?,picture_done_but_lost_or_no_sms_slip
+"ছবি তোলার সময়ের রশিদ নেই, বাংলাদেশ নির্বাচন কমিশন থেকে এনআইডি কিভাবে পাব?",picture_done_but_lost_or_no_sms_slip
+"অ্যাকনলেজমেন্ট স্লিপ হারিয়ে ফেলেছি, এনআইডি পাওয়ার নিয়মটা কী?",picture_done_but_lost_or_no_sms_slip
+"ছবি তুলেছি অনেক আগে স্লিপ হারিয়ে ফেলেছি, কি করবো?",picture_done_but_lost_or_no_sms_slip
+"ভোটার নিবন্ধনের ছবি অনেক আগেই তুলেছি, স্লিপটা হারিয়ে গেছে, এখন কী করব?",picture_done_but_lost_or_no_sms_slip
+"এনআইডির ছবি তোলার পর যে স্লিপ দেয়া হয়েছিল সেটি হারিয়ে ফেলেছি, কীভাবে সমাধান করব?",picture_done_but_lost_or_no_sms_slip
+"নির্বাচন কমিশনে ছবি দিয়েছিলাম আগে, কিন্তু স্লিপ হারিয়ে গিয়েছে, এখন কোথায় যোগাযোগ করব?",picture_done_but_lost_or_no_sms_slip
+"ভোটার আইডির ছবি আগেই তুলেছি, রসিদ বা স্লিপটা নেই, কী করলে হবে?",picture_done_but_lost_or_no_sms_slip
+"ইসিতে বায়োমেট্রিক দিয়ে ছবি দিয়েছি, কিন্তু স্লিপটি খুঁজে পাচ্ছি না, কী করবো?",picture_done_but_lost_or_no_sms_slip
+"অনেক দিন আগে ভোটার নিবন্ধনের ছবি দিয়েছিলাম, টোকেন স্লিপ হারিয়ে গেছে, পরের ধাপ কী?",picture_done_but_lost_or_no_sms_slip
+"এনরোলমেন্টের স্লিপ হারিয়ে ফেলেছি, ছবি আগেই দেওয়া, নতুন স্লিপ কীভাবে পাব?",picture_done_but_lost_or_no_sms_slip
+বর্তমান ঠিকানা পরিবর্তনের জন্য কি করণীয়?,present_address_change_procedure
+এনআইডিতে বর্তমান ঠিকানা পরিবর্তন করতে কী করতে হবে?,present_address_change_procedure
+ভোটার তালিকায় বর্তমান ঠিকানা বদলাতে কী করতে হবে?,present_address_change_procedure
+ইসিতে বর্তমান ঠিকানা আপডেট করার প্রক্রিয়া কী?,present_address_change_procedure
+এনআইডিতে বর্তমান ঠিকানা পরিবর্তনের জন্য কী করণীয়?,present_address_change_procedure
+নির্বাচন কমিশনের কাছে বর্তমান ঠিকানা কীভাবে পরিবর্তন করবো?,present_address_change_procedure
+এনআইডিতে বর্তমান ঠিকানা হালনাগাদ করার ধাপগুলো কী?,present_address_change_procedure
+ইসির রেকর্ডে বর্তমান ঠিকানা পরিবর্তনের জন্য কী করতে হবে?,present_address_change_procedure
+বর্তমান ঠিকানা পরিবর্তন করতে কতদিন সময় লাগে?,present_address_change_process_duration
+নির্বাচন কমিশনের মাধ্যমে ঠিকানা আপডেট করতে কতদিন লাগে?,present_address_change_process_duration
+ভোটার তালিকায় ঠিকানা পরিবর্তন হলে কত দিনে কার্যকর হয়?,present_address_change_process_duration
+এনআইডিতে বর্তমান ঠিকানা আপডেট করতে সাধারণত কতদিন সময় লাগে?,present_address_change_process_duration
+নির্বাচন কমিশনে ঠিকানা পরিবর্তনের কাজটা কত দিনে হয়ে যায়?,present_address_change_process_duration
+ভোটার রেকর্ডে ঠিকানা বদলাতে কতটা সময় লাগে?,present_address_change_process_duration
+ইসিতে ঠিকানা পরিবর্তনের আবেদন করলে কত দিনে শেষ হয়?,present_address_change_process_duration
+বর্তমান ঠিকানা আপডেটের পুরো প্রক্রিয়া ইসিতে কতদিন লাগে?,present_address_change_process_duration
+এনআইডির বর্তমান ঠিকানা পরিবর্তন করতে হলে কী করতে হবে?,present_adress_update
+"এনআইডিতে বর্তমান ঠিকানা আপডেট করতে চাই, কীভাবে করব?",present_adress_update
+ভোটার তালিকায় বর্তমান ঠিকানা হালনাগাদ করার প্রক্রিয়া কী?,present_adress_update
+"এনআইডিতে বর্তমান ঠিকানা ভুল হয়েছে, কীভাবে ঠিক করব?",present_adress_update
+"ভোটার আইডিতে বর্তমান ঠিকানা সংশোধন করতে চাই, করণীয় কী?",present_adress_update
+নির্বাচন কমিশনে এনআইডির বর্তমান ঠিকানা বদলাতে হলে কী করতে হবে?,present_adress_update
+"বাংলাদেশ নির্বাচন কমিশনে বর্তমান ঠিকানা আপডেট করতে চাই, কীভাবে করব?",present_adress_update
+এনআইডির বর্তমান ঠিকানা সংশোধনের নিয়মটা কী?,present_adress_update
+NID এ বর্তমান ঠিকানা সংশোধন করতে কোন কোন কাগজপত্র দরকার?,present_and_permanent_address_generic_new
+ভোটার আইডিতে বর্তমান ঠিকানা আপডেটের জন্য কী কী প্রমাণপত্র লাগবে?,present_and_permanent_address_generic_new
+ইলেকশন কমিশনে বাসার বর্তমান ঠিকানা পরিবর্তন করতে কী কী ডকুমেন্ট দিতে হবে?,present_and_permanent_address_generic_new
+ইসি অফিসে যেখানে থাকি সেই ঠিকানার তথ্য ঠিক করতে কী কী কাগজপত্র লাগবে?,present_and_permanent_address_generic_new
+NID বা ভোটার আইডির বর্তমান ঠিকানা ঠিক করতে কী কী কাগজ দিতে হবে?,present_and_permanent_address_generic_new
+ভোটার নিবন্ধনে বর্তমান ঠিকানা আপডেট করতে কোন কোন দলিল প্রয়োজন?,present_and_permanent_address_generic_new
+জাতীয় পরিচয়পত্রে প্রেজেন্ট অ্যাড্রেস পরিবর্তনের জন্য কী কী প্রমাণপত্র লাগে?,present_and_permanent_address_generic_new
+ইলেকশন কমিশনে বর্তমান ঠিকানার তথ্য সংশোধনের কাগজপত্র কী কী লাগবে?,present_and_permanent_address_generic_new
+"নির্বাচন কমিশনে সংশোধনের পর অনলাইনে এনআইডি ডাউনলোডে পুরোনো তথ্য দেখাচ্ছে, এখন কী করব?",previous_information_in_downloaded_card_after_correction
+ইসিতে সংশোধন শেষ হলেও এনআইডি কার্ড ডাউনলোডে পুরনো ডেটা দেখালে কীভাবে ঠিক করবো?,previous_information_in_downloaded_card_after_correction
+তথ্য পরিবর্তনের পর অনলাইন এনআইডিতে আগের নাম ঠিকানা দেখলে কী করা উচিত?,previous_information_in_downloaded_card_after_correction
+"সংশোধিত এনআইডি ডাউনলোড করলে যদি পুরনো তথ্য দেখায়, নির্বাচন কমিশনে কোথায় যোগাযোগ করবো?",previous_information_in_downloaded_card_after_correction
+আপডেট স্ট্যাটাস সফল হলেও ডাউনলোড করা এনআইডি কার্ডে আগের তথ্য থাকলে করণীয় কী?,previous_information_in_downloaded_card_after_correction
+ইসি পোর্টালে আপডেটের পর ডাউনলোড করা এনআইডি কপিতে পরিবর্তন না এলে কী করণীয়?,previous_information_in_downloaded_card_after_correction
+"সংশোধন অনুমোদনের পরও এনআইডি কার্ড ডাউনলোডে আগের তথ্য কেন দেখায়, কী করা দরকার?",previous_information_in_downloaded_card_after_correction
+"এনআইডি ঠিক করার পর ডিজিটাল কার্ডে যদি আপডেট না দেখায়, তখন কী ব্যবস্থা নেব?",previous_information_in_downloaded_card_after_correction
+আমি আমার পেশা পরিবর্তন করতে চাই কিন্তু কিভাবে করতে পারি?,profession_change
+আমি আমার জাতীয় পরিচয়পত্রে পেশা পরিবর্তন করতে চাই কিন্তু কিভাবে করতে পারি?,profession_change
+আমি ভোটার আইডিতে পেশা আপডেট করতে চাই কিন্তু কিভাবে করবো?,profession_change
+নির্বাচন কমিশনের রেকর্ডে আমার পেশা পরিবর্তন করতে চাই কিন্তু কীভাবে করব?,profession_change
+আমি ইসির ডাটাবেজে পেশা পরিবর্তন করতে চাই কিন্তু কীভাবে করবো?,profession_change
+আমার ভোটার তালিকায় পেশার তথ্য বদলাতে চাই কিন্তু কিভাবে করব?,profession_change
+বাংলাদেশ নির্বাচন কমিশনে পেশার তথ্য আপডেট করতে চাই কিন্তু কীভাবে করব?,profession_change
+আমি NID এ আমার পেশা পরিবর্তন করতে চাই কিন্তু কিভাবে করব?,profession_change
+"অনলাইনে এনআইডি একাউন্ট তৈরী করার পর একটি QR Code এসেছে, কি করবো?",qr_code_clarification
+"এনআইডি অনলাইনে রেজিস্ট্রেশন শেষে স্ক্রিনে QR কোড দেখাচ্ছে, এখন করণীয় কী?",qr_code_clarification
+"নির্বাচন কমিশনের NID পোর্টালে অ্যাকাউন্ট খোলার পর QR কোড এল, এটা দিয়ে কী করতে হয়?",qr_code_clarification
+"অনলাইনে NID একাউন্ট বানানোর পর একটা কিউআর কোড পেলাম, এরপর কী করতে হবে?",qr_code_clarification
+"এনআইডি সার্ভিস পোর্টালে সাইনআপের পর কিউআর কোড এসেছে, স্ক্যান করতে হবে নাকি?",qr_code_clarification
+"ইসি এর এনআইডি সাইটে রেজিস্ট্রেশন শেষে QR দেখা যাচ্ছে, ব্যবহারটা কীভাবে করবো?",qr_code_clarification
+"NID অ্যাকাউন্ট ওপেন করার পর কিউআর কোড দেখাচ্ছে, কোন অ্যাপে স্ক্যান করবো?",qr_code_clarification
+"নির্বাচন কমিশনের পোর্টালে অ্যাকাউন্ট তৈরি করলাম, এখন যে QR কোড দিলো সেটা কোথায় ব্যবহার করবো?",qr_code_clarification
+"প্রাপ্তি রশিদ হারিয়ে ফেলেছি, কি করবো?",receipt_lost_how_to_get_new_card
+"নির্বাচন কমিশনের NID আবেদন প্রাপ্তি রশিদ হারিয়ে ফেলেছি, এখন কী করব?",receipt_lost_how_to_get_new_card
+"ভোটার নিবন্ধনের প্রাপ্তি রশিদ হারিয়ে গেছে, কী করব?",receipt_lost_how_to_get_new_card
+"ইসির NID রেজিস্ট্রেশনের রসিদ হারিয়েছি, এখন কী করব?",receipt_lost_how_to_get_new_card
+"নির্বাচন কমিশনের প্রাপ্তি স্লিপ হারিয়ে ফেলেছি, কী করা উচিত?",receipt_lost_how_to_get_new_card
+"NID আপডেটের প্রাপ্তি রশিদটা নেই, কী করব এখন?",receipt_lost_how_to_get_new_card
+"ভোটার তথ্য সংশোধনের রসিদ হারিয়ে ফেলেছি, এখন কী করব?",receipt_lost_how_to_get_new_card
+প্রাপ্তি রশিদ হারিয়ে গেছে কিভাবে কার্ড উত্তোলন করবো?,receipt_lost_how_to_get_new_card
+"প্রাপ্তি রসিদ নেই, ভোটার কার্ড কিভাবে সংগ্রহ করবো?",receipt_lost_how_to_get_new_card
+"রশিদ হারিয়েছি, এনআইডি কার্ড কীভাবে পাবো?",receipt_lost_how_to_get_new_card
+"টোকেন স্লিপ হারিয়ে ফেলেছি, স্মার্ট কার্ড তুলতে কী করতে হবে?",receipt_lost_how_to_get_new_card
+রসিদ ছাড়া নির্বাচন কমিশন থেকে কার্ড তোলা যাবে কিভাবে?,receipt_lost_how_to_get_new_card
+"অ্যাকনোলেজমেন্ট স্লিপ নেই, আইডি কার্ড হাতে পেতে কী করবো?",receipt_lost_how_to_get_new_card
+"ডেলিভারি স্লিপ হারিয়েছি, এনআইডি কার্ড সংগ্রহের উপায় কী?",receipt_lost_how_to_get_new_card
+"রিসিভ কপি হারিয়েছি, ভোটার আইডি তুলতে কী করবো?",receipt_lost_how_to_get_new_card
+প্রাপ্তি নম্বর না থাকলে কার্ড কিভাবে তুলবো?,receipt_lost_how_to_get_new_card
+"নতুন ভোটারের জন্য আবেদন করেছি, কিন্তু জন্ম নিবন্ধন অন্য ঠিকানায়, কি করণীয়?",reigister_as_new_voter_but_birth_registration_different_address
+"ভোটার নিবন্ধনের আবেদন করেছি, জন্ম নিবন্ধনের ঠিকানা মেলে না, কী করণীয়?",reigister_as_new_voter_but_birth_registration_different_address
+"নির্বাচন কমিশনে নতুন ভোটার আবেদন করেছি, জন্ম নিবন্ধনে আলাদা ঠিকানা আছে, সমাধান কী?",reigister_as_new_voter_but_birth_registration_different_address
+"নতুন ভোটার রেজিস্ট্রেশন করছি, কিন্তু জন্ম সনদের ঠিকানা ভিন্ন, কীভাবে এগোব?",reigister_as_new_voter_but_birth_registration_different_address
+"জন্ম নিবন্ধনের ঠিকানা পুরোনো, নতুন ভোটার হতে কী করতে হবে?",reigister_as_new_voter_but_birth_registration_different_address
+"জন্ম সনদের ঠিকানা আর বর্তমান ঠিকানা মিলছে না, নতুন ভোটার নিবন্ধন কীভাবে হবে?",reigister_as_new_voter_but_birth_registration_different_address
+"নির্বাচন কমিশনে ভোটার আবেদন চলমান, জন্ম নিবন্ধনে অন্য জেলার ঠিকানা, সমাধান কী?",reigister_as_new_voter_but_birth_registration_different_address
+"নতুন ভোটার ফর্ম জমা দিয়েছি, জন্ম সনদের ঠিকানা ঠিক না, এখন কী করণীয়?",reigister_as_new_voter_but_birth_registration_different_address
+"আর্জেন্ট রি-ইস্যু আবেদন করেছিলাম ৭ কর্মদিবস শেষ হয়ে গেছে অনেক আগেই, এখনো কার্ড পাচ্ছি না কেনো?",reissue_apply_why_pending_and_urgent_reissue_seven_days_over
+"আর্জেন্ট এনআইডি রিইস্যু করেছিলাম, ৭ কর্মদিবস আগেই পেরিয়েছে, তবু কার্ড পাইনি কেন?",reissue_apply_why_pending_and_urgent_reissue_seven_days_over
+"নির্বাচন কমিশনে আর্জেন্ট রিইস্যু আবেদন দিয়েছি, সাত কর্মদিবস কেটে গেছে, এখনো কার্ড আসেনি কেন?",reissue_apply_why_pending_and_urgent_reissue_seven_days_over
+"আর্জেন্ট এনআইডি রিইস্যুর ৭ কর্মদিবস পার হয়েছে, আমার কার্ড এখনো হাতে না পাওয়ার কারণ কী?",reissue_apply_why_pending_and_urgent_reissue_seven_days_over
+"নির্বাচন কমিশনের আর্জেন্ট রিইস্যু আবেদন করেছি, ৭ কর্মদিবস শেষ, কার্ড কবে পাবো?",reissue_apply_why_pending_and_urgent_reissue_seven_days_over
+"এনআইডি আর্জেন্ট রিইস্যুতে কার্ড ডেলিভারি ৭ কর্মদিবসে হওয়ার কথা, আমারটা এত দেরি হচ্ছে কেন?",reissue_apply_why_pending_and_urgent_reissue_seven_days_over
+"এনআইডি আর্জেন্ট রিইস্যুর স্ট্যাটাস কী, সাত কর্মদিবস পেরোলেও কার্ড আসছে না কেন?",reissue_apply_why_pending_and_urgent_reissue_seven_days_over
+"নির্বাচন কমিশনে আর্জেন্ট এনআইডি রিইস্যু দিয়েছি, ৭ কর্মদিবস হয়ে গেছে, আপডেট নেই কেন?",reissue_apply_why_pending_and_urgent_reissue_seven_days_over
+এনআইডি রি ইস্যুর আবেদনে নির্বাচন কমিশনে কী কী কাগজপত্র জমা দিতে হয়?,reissue_supporting_document
+জাতীয় পরিচয়পত্র পুনরায় ইস্যু করতে নির্বাচন কমিশনে কোন কোন প্রমাণপত্র দিতে হবে?,reissue_supporting_document
+এনআইডি কার্ড পুনঃইস্যুর জন্য নির্বাচন কমিশনে কী কী সাপোর্টিং কাগজ লাগবে?,reissue_supporting_document
+ক্ষতিগ্রস্ত এনআইডি পুনঃইস্যু করতে নির্বাচন কমিশনে কী কী প্রমাণপত্র জমা দিতে হবে?,reissue_supporting_document
+নির্বাচন কমিশনে এনআইডি রি ইস্যু করতে কোন কোন সাপোর্টিং ডকুমেন্ট দরকার?,reissue_supporting_document
+জাতীয় পরিচয়পত্র পুনঃইস্যুর জন্য নির্বাচন কমিশনে কী কী কাগজপত্র দিতে হয়?,reissue_supporting_document
+এনআইডি পুনরায় ইস্যুর আবেদন করলে নির্বাচন কমিশনে কোন কোন ডকুমেন্ট জমা লাগবে?,reissue_supporting_document
+বাংলাদেশ নির্বাচন কমিশনে এনআইডি ডুপ্লিকেট ইস্যুর জন্য কী কী সাপোর্টিং কাগজপত্র দরকার?,reissue_supporting_document
+রকেটে কিভাবে এনআইডি সংশোধন ফি জমা দিতে হয়?,rocket_mfs_payment_process
+রকেট দিয়ে এনআইডি সংশোধনের ফি কীভাবে পরিশোধ করব?,rocket_mfs_payment_process
+রকেট অ্যাপ থেকে এনআইডি সংশোধন ফি জমা দেওয়ার ধাপ কী?,rocket_mfs_payment_process
+রকেটে নির্বাচন কমিশনের এনআইডি সংশোধন ফি কেমন করে পেমেন্ট দেব?,rocket_mfs_payment_process
+রকেট থেকে এনআইডি তথ্য সংশোধনের টাকা দিতে কী করতে হবে?,rocket_mfs_payment_process
+রকেট ইউএসএসডি দিয়ে এনআইডি সংশোধন ফি কীভাবে জমা দেব?,rocket_mfs_payment_process
+রকেট দিয়ে বাংলাদেশ নির্বাচন কমিশনের এনআইডি সংশোধন ফি পরিশোধের প্রক্রিয়া কী?,rocket_mfs_payment_process
+রকেট থেকে এনআইডি আপডেট ফি কিভাবে পেমেন্ট করা যায়?,rocket_mfs_payment_process
+"স্বাক্ষর পরিবর্তন করতে চাই, কিভাবে করতে পারি?",signature_correction
+"ভোটার আইডির স্বাক্ষর বদলাতে চাই, কীভাবে করতে পারি?",signature_correction
+"নির্বাচন কমিশনের মাধ্যমে স্বাক্ষর আপডেট করতে চাই, প্রক্রিয়াটা কী?",signature_correction
+ইসিতে স্বাক্ষর পরিবর্তনের আবেদন কীভাবে করব?,signature_correction
+"এনআইডির স্বাক্ষর ভুল হয়েছে, কিভাবে ঠিক করব?",signature_correction
+"ভোটার নিবন্ধনের স্বাক্ষর বদলাতে চাই, কী করতে হবে?",signature_correction
+"এনআইডির স্বাক্ষর আপডেট করতে চাই, করণীয় কী?",signature_correction
+"ইসির কাছে স্বাক্ষর বদলাতে চাই, কীভাবে এগোবো?",signature_correction
+আমার স্মার্ট কার্ড কি অন্য কেউ সংগ্রহ করতে পারবে?,smart_card_collect_by_other
+আমার পক্ষ থেকে কি কেউ NID স্মার্টকার্ড সংগ্রহ করতে পারবে?,smart_card_collect_by_other
+অন্য কেউ কি আমার স্মার্টকার্ড তুলে নিতে পারে?,smart_card_collect_by_other
+প্রতিনিধি দিয়ে কি আমার স্মার্ট কার্ড নেওয়া যাবে?,smart_card_collect_by_other
+অনুমতিপত্র থাকলে কি কেউ আমার স্মার্টকার্ড রিসিভ করতে পারবে?,smart_card_collect_by_other
+পরিবারের কেউ কি আমার স্মার্টকার্ড সংগ্রহ করতে পারবে?,smart_card_collect_by_other
+কেউ কি আমার হয়ে স্মার্টকার্ড সংগ্রহ করতে পারে?,smart_card_collect_by_other
+নির্বাচন কমিশন থেকে কি আমার আত্মীয় স্মার্ট কার্ড তুলতে পারবে?,smart_card_collect_by_other
+নির্বাচন কমিশনের স্মার্ট কার্ড তুলতে কি ফি দিতে হবে?,smart_card_collection_fees
+স্মার্ট এনআইডি কার্ড নিতে কি টাকা লাগে?,smart_card_collection_fees
+স্মার্ট জাতীয় পরিচয়পত্র পেতে কি কোনো চার্জ আছে?,smart_card_collection_fees
+স্মার্ট আইডি কার্ড বুঝে নিতে ফি দিতে হয় নাকি ফ্রি?,smart_card_collection_fees
+স্মার্ট কার্ড ডেলিভারি নিতে কি খরচ দিতে হবে?,smart_card_collection_fees
+স্মার্ট জাতীয় পরিচয়পত্র হাতে পেতে কি কোনো টাকা দিতে হয়?,smart_card_collection_fees
+স্মার্ট কার্ড তুলতে কি কি জমা দেওয়া লাগে?,smart_card_collection_fees
+স্মার্ট কার্ড তুলতে কী কী কাগজপত্র জমা দিতে হবে?,smart_card_collection_fees
+নির্বাচন কমিশন থেকে স্মার্ট কার্ড নিতে কোন কোন কাগজ লাগবে?,smart_card_collection_fees
+ইসি অফিসে NID স্মার্টকার্ড সংগ্রহ করতে কী কী ডকুমেন্ট দিতে হয়?,smart_card_collection_fees
+জাতীয় স্মার্ট কার্ড পেতে কী কী কাগজ বা কপি জমা লাগে?,smart_card_collection_fees
+স্মার্টকার্ড তুলতে কি কি কাগজপত্র সঙ্গে নিয়ে যেতে হবে?,smart_card_collection_fees
+উপজেলা নির্বাচন অফিস থেকে স্মার্ট কার্ড নিতে কোন কোন প্রমাণপত্র দরকার?,smart_card_collection_fees
+স্মার্ট কার্ড নেয়ার সময় কী কী কাগজ দেখাতে হবে ইসি অফিসে?,smart_card_collection_fees
+NID স্মার্ট কার্ড তুলতে রসিদসহ কোন কোন কাগজ জমা দিতে হয়?,smart_card_collection_fees
+নির্বাচন কমিশন থেকে স্মার্টকার্ড পেতে কী কী ডকুমেন্ট লাগবে?,smart_card_collection_fees
+"আমার এলাকায় স্মার্ট কার্ড বিতরণ হয়েছে, কিন্তু আমার কার্ড আসেনি, কেন?",smart_card_distributed_in_my_area_but_my_card_not_received
+"নির্বাচন কমিশন স্মার্ট কার্ড দিচ্ছে, কিন্তু আমার কার্ড হাতে পাইনি, কী সমস্যা?",smart_card_distributed_in_my_area_but_my_card_not_received
+"উপজেলা নির্বাচন অফিসে স্মার্ট কার্ড দিচ্ছে, আমার কার্ডটা কেন দেরি হচ্ছে?",smart_card_distributed_in_my_area_but_my_card_not_received
+"এখানে স্মার্ট কার্ড বিলি হচ্ছে, আমার নাম থাকলেও কার্ড পাইনি কেন?",smart_card_distributed_in_my_area_but_my_card_not_received
+"আমার ওয়ার্ডে স্মার্ট কার্ড এসেছে, কিন্তু আমারটা আসে নাই, কী কারণ?",smart_card_distributed_in_my_area_but_my_card_not_received
+"স্মার্ট এনআইডি বিতরণ হয়েছে, আমি কবে পাব, দেরির কারণ কী?",smart_card_distributed_in_my_area_but_my_card_not_received
+"ইসি স্মার্ট কার্ড দিয়েছে, আমারটা বাদ পড়েছে নাকি, কেন পেলাম না?",smart_card_distributed_in_my_area_but_my_card_not_received
+"আমার এলাকায় স্মার্ট কার্ড দিচ্ছে, অথচ আমি পাইনি, কী করতে হবে?",smart_card_distributed_in_my_area_but_my_card_not_received
+নির্বাচন কমিশন থেকে স্মার্ট এনআইডি কার্ড নিতে কত টাকা লাগে?,smart_card_fee
+এনআইডি স্মার্ট কার্ডের ফি কত?,smart_card_fee
+ভোটার স্মার্ট জাতীয় পরিচয়পত্র করতে খরচ কত?,smart_card_fee
+স্মার্ট এনআইডি ইস্যু ফি কত?,smart_card_fee
+স্মার্ট জাতীয় পরিচয়পত্র পেতে কত টাকা দিতে হয়?,smart_card_fee
+এনআইডি স্মার্ট কার্ড তোলার চার্জ কত?,smart_card_fee
+নির্বাচন কমিশনের স্মার্ট এনআইডি করতে মোট কত খরচ পড়বে?,smart_card_fee
+স্মার্ট এনআইডি কার্ডের সরকারি ফি কত?,smart_card_fee
+কোথায় গেলে স্মার্ট কার্ড পাবো?,smart_card_from_where
+স্মার্ট কার্ড নিতে কোন নির্বাচন কমিশন অফিসে যেতে হবে?,smart_card_from_where
+এনআইডি স্মার্ট কার্ড কোথায় থেকে পাওয়া যায়?,smart_card_from_where
+স্মার্টকার্ড সংগ্রহ করতে আমার এলাকার কোন ইসি অফিসে যাব?,smart_card_from_where
+স্মার্ট কার্ডের জন্য কোন কেন্দ্রে যেতে হবে?,smart_card_from_where
+স্মার্ট কার্ড বিতরণ কোথায় হচ্ছে?,smart_card_from_where
+স্মার্ট কার্ডের জন্য উপজেলা নির্বাচন অফিসে গেলে হবে?,smart_card_from_where
+স্মার্ট কার্ড নেওয়ার জন্য ঠিক জায়গা কোনটা?,smart_card_from_where
+"স্মার্ট কার্ড হারিয়ে গেছে, পুনরায় স্মার্ট কার্ড পেতে হলে কি করতে হবে?",smart_card_lost_how_to_get_new_one_again
+জাতীয় পরিচয়পত্রের স্মার্ট কার্ড খোয়া গেলে আবার তুলতে কী করতে হয়?,smart_card_lost_how_to_get_new_one_again
+স্মার্ট NID কার্ড চুরি হলে নতুন করে কার্ড পেতে আবেদন করার নিয়ম কী?,smart_card_lost_how_to_get_new_one_again
+"এনআইডির স্মার্ট কার্ড হারিয়ে ফেলেছি, আবার কার্ড পাওয়ার প্রক্রিয়া কী?",smart_card_lost_how_to_get_new_one_again
+স্মার্ট NID হারিয়ে গেলে অনলাইনে পুনরায় কার্ডের জন্য কীভাবে আবেদন করব?,smart_card_lost_how_to_get_new_one_again
+স্মার্ট NID কার্ড খোয়া গেলে ডুপ্লিকেট কার্ড পেতে কোথায় যেতে হবে?,smart_card_lost_how_to_get_new_one_again
+স্মার্ট এনআইডি হারানোর পর দ্রুত পুনরায় কার্ড তুলতে কী করণীয়?,smart_card_lost_how_to_get_new_one_again
+জাতীয় পরিচয়পত্রের স্মার্ট কার্ড হারিয়ে গেলে ফি ও ধাপগুলো কী?,smart_card_lost_how_to_get_new_one_again
+"স্মার্ট কার্ড হারিয়ে গেছে, রিইস্যু আবেদন করলে কি নতুন স্মার্ট কার্ড পাবো?",smart_card_lost_reissue
+"স্মার্ট কার্ড হারিয়ে গিয়েছে, রিইস্যু করলে কি নতুন স্মার্ট কার্ড পাবো?",smart_card_lost_reissue
+জাতীয় পরিচয়পত্রের স্মার্ট কার্ড হারিয়ে গেলে রিইস্যু করলেই কি নতুন স্মার্ট কার্ড পাওয়া যাবে?,smart_card_lost_reissue
+"এনআইডির স্মার্ট কার্ডটা হারিয়ে গেছে, রিইস্যু করলে কি আবার নতুন স্মার্ট কার্ড দেয়?",smart_card_lost_reissue
+"স্মার্ট কার্ড হারিয়ে ফেলেছি, রিইস্যু আবেদনে কি রিপ্লেসমেন্ট কার্ড দেয় নির্বাচন কমিশন?",smart_card_lost_reissue
+স্মার্ট এনআইডি মিসিং হলে রিইস্যু করলে কি নতুন কার্ড ইস্যু করে নির্বাচন কমিশন?,smart_card_lost_reissue
+নির্বাচন কমিশনের স্মার্ট কার্ড হারালে রিইস্যু দিয়ে কি নতুন কপি পাওয়া যাবে?,smart_card_lost_reissue
+কি কি কারণে স্মার্ট কার্ড প্রিন্ট নাও হতে পারে?,smart_card_print_problem
+বাংলাদেশ নির্বাচন কমিশনের জাতীয় পরিচয়পত্র স্মার্টকার্ড প্রিন্ট না হওয়ার কারণগুলো কী কী?,smart_card_print_problem
+স্মার্ট কার্ড প্রিন্ট বন্ধ থাকলে নির্বাচন কমিশনে সাধারণত কী কারণে তা হয়?,smart_card_print_problem
+"আমার জাতীয় পরিচয়পত্রের স্মার্ট কার্ড কেন প্রিন্ট হচ্ছে না, কী কী সমস্যা হতে পারে?",smart_card_print_problem
+ইসির স্মার্টকার্ড প্রিন্ট না হওয়ার পেছনে কোন কোন বিষয় থাকতে পারে?,smart_card_print_problem
+"বাংলাদেশ নির্বাচন কমিশনের স্মার্ট কার্ড প্রিন্টিং কেন স্থগিত থাকতে পারে, কারণগুলো কী?",smart_card_print_problem
+জাতীয় পরিচয়পত্র স্মার্টকার্ড প্রিন্ট না হলে সাধারণত কী কী কারণে ঘটে?,smart_card_print_problem
+NID স্মার্ট কার্ড প্রিন্ট নাও হলে এর পেছনে কী কী কারণ থাকতে পারে?,smart_card_print_problem
+স্মার্ট কার্ড মুদ্রণের অবস্থা জানতে এসএমএস কীভাবে পাঠাব?,smart_card_printing_status_sms_how
+স্মার্ট কার্ড প্রিন্ট হচ্ছে কিনা জানতে এসএমএস কোন ফরম্যাটে পাঠাতে হয়?,smart_card_printing_status_sms_how
+স্মার্ট কার্ড প্রিন্টিং আপডেট জানতে এসএমএস কোথায় এবং কীভাবে পাঠাব?,smart_card_printing_status_sms_how
+স্মার্ট কার্ড মুদ্রণ চেক করতে এসএমএস পাঠানোর নিয়মটা কী?,smart_card_printing_status_sms_how
+স্মার্ট কার্ড প্রিন্ট স্ট্যাটাস জানতে কোন নম্বরে কীভাবে এসএমএস দেব?,smart_card_printing_status_sms_how
+নির্বাচন কমিশনের স্মার্ট কার্ড মুদ্রণ জানতে এসএমএস কী ফরম্যাটে পাঠাবো?,smart_card_printing_status_sms_how
+স্মার্ট কার্ড মুদ্রণ হয়েছে কি না জানতে এসএমএস পাঠানোর ধাপ কী?,smart_card_printing_status_sms_how
+স্মার্ট কার্ড প্রিন্ট এবং বিতরণ করা হলে কি এসএমএস এর মাধ্যমে জানানো হবে?,smart_card_ready_sms
+নির্বাচন কমিশনের স্মার্ট এনআইডি প্রস্তুত ও বিতরণ শুরু হলে কি এসএমএসে জানায়?,smart_card_ready_sms
+"নির্বাচন কমিশন যখন স্মার্ট কার্ড বিতরণ চালু করবে, তখন কি এসএমএস নোটিফিকেশন আসবে?",smart_card_ready_sms
+ইসির স্মার্ট জাতীয় পরিচয়পত্র সংগ্রহের সময় হলে কি মোবাইলে এসএমএস দেয়?,smart_card_ready_sms
+বাংলাদেশ নির্বাচন কমিশনের স্মার্ট আইডি প্রিন্ট সম্পন্ন হলে কি টেক্সট মেসেজে জানানো হয়?,smart_card_ready_sms
+স্মার্ট এনআইডি স্থানীয় অফিসে পৌঁছালে নির্বাচন কমিশন কি এসএমএস পাঠায়?,smart_card_ready_sms
+নির্বাচন কমিশনের স্মার্ট কার্ড বিতরণের তারিখ ঠিক হলে কি ফোনে এসএমএস আসে?,smart_card_ready_sms
+বাংলাদেশ নির্বাচন কমিশনের স্মার্ট কার্ড হাতে পাওয়ার সময় আসলে কি এসএমএস নোটিস আসে?,smart_card_ready_sms
+"কার্ড সংশোধনের জন্য “স্মার্ট কার্ড” অপশন সিলেক্ট করেছিলাম, কিন্তু পিডিএফ পেয়েছি, এখন স্মার্ট কার্ড কবে পাবো?",smart_card_selected_but_get_pdf
+"আমি এনআইডি সংশোধনে স্মার্ট কার্ড অপশন নিয়েছিলাম, কিন্তু পিডিএফ পেলাম, স্মার্ট কার্ড কবে হাতে পাব?",smart_card_selected_but_get_pdf
+"জাতীয় পরিচয়পত্র সংশোধনে স্মার্ট কার্ড চেয়েছিলাম, পিডিএফই পেয়েছি, নির্বাচন কমিশনের স্মার্ট কার্ড কবে পাওয়া যাবে?",smart_card_selected_but_get_pdf
+"স্মার্ট কার্ড সিলেক্ট করে সংশোধন করেছি, শুধু পিডিএফ দেখাচ্ছে, স্মার্ট কার্ড কখন পাবো?",smart_card_selected_but_get_pdf
+"অনলাইনে কার্ড সংশোধনে স্মার্ট কার্ড অপশন টিক দিয়েছিলাম, কিন্তু ইএনআইডি পিডিএফ পেলাম, স্মার্ট কার্ড কবে ডেলিভারি হবে?",smart_card_selected_but_get_pdf
+"ফি দিয়ে স্মার্ট কার্ড অপশন নিয়েছি সংশোধনে, তবু পিডিএফ এসেছে, স্মার্ট কার্ড কবে সংগ্রহ করতে পারবো?",smart_card_selected_but_get_pdf
+"সংশোধনের আবেদন অনুমোদনের পর পিডিএফ পেলাম, ইসি থেকে স্মার্ট কার্ড কবে ইস্যু করবে?",smart_card_selected_but_get_pdf
+"সংশোধনের জন্য স্মার্ট কার্ড সিলেক্ট করেছিলাম, এখন শুধু ইএনআইডি আছে, স্মার্ট কার্ড কখন পৌঁছাবে বা কোথায় থেকে নিতে হবে?",smart_card_selected_but_get_pdf
+আমার NID স্মার্ট কার্ড প্রিন্ট হয়েছে কি না কিভাবে চেক করব?,smart_card_status
+নির্বাচন কমিশনের সিস্টেমে স্মার্ট কার্ড প্রিন্ট স্ট্যাটাস কোথায় দেখব?,smart_card_status
+স্মার্ট কার্ডটা প্রস্তুত হয়েছে কি না অনলাইনে কীভাবে জানব?,smart_card_status
+NID স্মার্ট কার্ড ইস্যু হয়েছে কি না জানতে কী করতে হবে?,smart_card_status
+স্মার্ট কার্ড রেডি হলে সেটা কিভাবে নিশ্চিত হবো?,smart_card_status
+স্মার্ট কার্ড প্রিন্ট হয়েছে কি না এসএমএসে জানায় নাকি আমি কিভাবে যাচাই করব?,smart_card_status
+আমার স্মার্ট কার্ড বিতরণের জন্য প্রস্তুত কিনা কিভাবে বুঝব?,smart_card_status
+স্মার্ট কার্ড কবে প্রিন্ট হয়ে হাতে পেতে পারব সেটা কীভাবে জানব?,smart_card_status
+ছবি তোলার কতদিন পর এসএমএস পাবো?,sms_after_picture_how_many_days
+ছবি তোলার পরে ইসি থেকে এসএমএস কবে পাবো?,sms_after_picture_how_many_days
+ভোটার নিবন্ধনের ছবি দেওয়ার কতদিন পর এসএমএস আসে?,sms_after_picture_how_many_days
+এনআইডির ছবি তোলার কত দিনে এসএমএস আসবে?,sms_after_picture_how_many_days
+বায়োমেট্রিক আর ছবি দেওয়ার পরে নির্বাচন কমিশনের এসএমএস কবে আসে?,sms_after_picture_how_many_days
+ছবি আপডেটের পর ইসির কনফার্মেশন এসএমএস কতদিনে আসে?,sms_after_picture_how_many_days
+ভোটার তালিকার ছবি তোলার পর এসএমএস পেতে কত দিন লাগে?,sms_after_picture_how_many_days
+এনআইডি এনরোলমেন্টে ছবি দেওয়ার পরে কতদিনে এসএমএস পাবো?,sms_after_picture_how_many_days
+স্বামীর নাম পরিবর্তন করতে কি ডকুমেন্টস লাগবে?,spouse_name_correction_new
+স্বামীর নাম পরিবর্তন করতে বাংলাদেশ নির্বাচন কমিশনে কি কি কাগজপত্র লাগবে?,spouse_name_correction_new
+স্বামীর নাম NID এ আপডেট করতে কোন কোন ডকুমেন্ট দরকার?,spouse_name_correction_new
+স্বামীর নাম সংশোধনের জন্য ইসি অফিসে কি কি প্রমাণপত্র জমা দিতে হবে?,spouse_name_correction_new
+স্বামীর নামের বানান ঠিক করতে ভোটার আইডিতে কি কি কাগজ লাগবে?,spouse_name_correction_new
+স্বামীর নাম বদলাতে ইসি সেবাকেন্দ্রে কোন কাগজপত্র দেখাতে হবে?,spouse_name_correction_new
+স্বামীর নাম পরিবর্তনের আবেদন করতে ইসিতে কি কি ডকুমেন্ট লাগে?,spouse_name_correction_new
+স্বামীর নাম আপডেটের জন্য NID সংশোধনে কোন কোন কাগজ দরকার?,spouse_name_correction_new
+স্বামীর নাম ঠিক করে ভোটার তালিকায় পরিবর্তন দিতে কি ডকুমেন্ট লাগবে?,spouse_name_correction_new
+স্বামীর নাম পরিবর্তন করতে ইসির অনলাইনে আবেদন দিলে কোন কাগজ আপলোড করতে হবে?,spouse_name_correction_new
+এনআইডি কার্ডে স্বামীর নাম সংশোধনের জন্য কি ডকুমেন্টস লাগবে?,spouse_name_correction_new
+এনআইডিতে স্বামীর নাম সংশোধনের জন্য কী কী প্রমাণপত্র দরকার?,spouse_name_correction_new
+ইসি অফিসে এনআইডির স্বামীর নাম পরিবর্তন করতে কী ডকুমেন্ট লাগবে?,spouse_name_correction_new
+এনআইডি কার্ডে স্বামীর নাম ভুল হলে সেটি ঠিক করতে কী কী কাগজ লাগে?,spouse_name_correction_new
+স্বামীর নাম ঠিক করার জন্য এনআইডিতে কী ধরনের ডকুমেন্ট জমা দিতে হয়?,spouse_name_correction_new
+এনআইডিতে স্বামীর নাম আপডেটের জন্য কোন কোন কাগজপত্র প্রয়োজন?,spouse_name_correction_new
+স্বামীর নাম সংশোধনে এনআইডি কার্ডের জন্য কী কী সাপোর্টিং ডকুমেন্ট দরকার?,spouse_name_correction_new
+বাংলাদেশ নির্বাচন কমিশনে এনআইডির স্বামীর নাম সংশোধনে কোন ডকুমেন্ট প্রয়োজন?,spouse_name_correction_new
+এনআইডিতে স্বামীর নাম পরিবর্তনের জন্য কী কী কাগজ দিতে হবে?,spouse_name_correction_new
+এনআইডি কার্ডে স্ত্রীর নাম সংশোধনের জন্য কি ডকুমেন্টস লাগবে?,spouse_name_correction_new
+এনআইডি কার্ডে স্ত্রীর নাম ঠিক করতে কোন কোন কাগজপত্র লাগবে?,spouse_name_correction_new
+এনআইডিতে বউয়ের নাম সংশোধন করতে কী কী ডকুমেন্ট দরকার?,spouse_name_correction_new
+বাংলাদেশ নির্বাচন কমিশনে এনআইডিতে স্ত্রীর নাম আপডেটের জন্য কী কী কাগজপত্র লাগবে?,spouse_name_correction_new
+এনআইডি কার্ডে স্ত্রীর নাম ভুল হলে সংশোধনে কোন কোন কাগজ লাগে?,spouse_name_correction_new
+এনআইডিতে স্ত্রীর নাম পরিবর্তন করতে কী কী প্রমাণপত্র জমা দিতে হয়?,spouse_name_correction_new
+জাতীয় পরিচয়পত্রে স্ত্রীর নাম শুদ্ধি করতে কী ডকুমেন্টস লাগবে?,spouse_name_correction_new
+এনআইডি আপডেটে স্ত্রীর নাম ঠিক করতে নির্বাচন কমিশন কী কী কাগজপত্র চায়?,spouse_name_correction_new
+অনলাইনে এনআইডিতে স্ত্রীর নাম সংশোধনের জন্য কোন কোন ডকুমেন্ট লাগবে?,spouse_name_correction_new
+এনআইডি কার্ডে স্বামীর নাম সংযোজনের জন্য কি ডকুমেন্টস লাগবে?,spouse_name_correction_new
+এনআইডিতে স্বামীর নাম যোগ করতে কী কী কাগজপত্র দরকার?,spouse_name_correction_new
+জাতীয় পরিচয়পত্রে স্বামীর নাম যুক্ত করতে কোন কোন নথি লাগবে?,spouse_name_correction_new
+ভোটার আইডিতে স্বামীর নাম সংযোজনের জন্য কী কী প্রমাণপত্র চাই?,spouse_name_correction_new
+ভোটার আইডি কার্ডে স্বামীর নাম যুক্ত করতে কী কী দরকারি কাগজপত্র লাগবে?,spouse_name_correction_new
+এনআইডিতে স্বামীর নাম যোগ করার জন্য কোন কোন ডকুমেন্ট জমা দিতে হবে?,spouse_name_correction_new
+জাতীয় পরিচয়পত্রে স্বামীর নাম আপডেটের জন্য কী কী কাগজ চাই?,spouse_name_correction_new
+এনআইডি কার্ডে স্ত্রীর নাম সংযোজনের জন্য কি ডকুমেন্টস লাগবে?,spouse_name_correction_new
+এনআইডি কার্ডে স্ত্রীর নাম যুক্ত করতে কী কী কাগজ লাগবে?,spouse_name_correction_new
+জাতীয় পরিচয়পত্রে স্ত্রীর নাম সংযোজনের জন্য কোন কোন নথি দরকার?,spouse_name_correction_new
+ইসির এনআইডিতে স্ত্রীর নাম আপডেট করতে কী ডকুমেন্ট লাগবে?,spouse_name_correction_new
+এনআইডিতে বিয়ের পর স্ত্রীর নাম অন্তর্ভুক্ত করতে কোন ডকুমেন্ট লাগবে?,spouse_name_correction_new
+এনআইডি কার্ডে স্ত্রীর নাম বসাতে কী কী প্রমাণপত্র লাগবে?,spouse_name_correction_new
+জাতীয় আইডিতে স্ত্রীর নাম যুক্ত করতে কোন ডকুমেন্টস দেখাতে হবে?,spouse_name_correction_new
+"সংশোধনের জন্য আবেদন করেছি, এসএসসি সনদ চেয়েছে, কিন্তু আমি এসএসসি পাশ করি নি। কি করবো?",ssc_certificate_for_correction
+"জাতীয় পরিচয়পত্র সংশোধনের জন্য আবেদন করেছি, এসএসসি সনদ চাইছে, কিন্তু আমি এসএসসি পাস করিনি, কী করব?",ssc_certificate_for_correction
+"ইসিতে এনআইডি সংশোধনের আবেদন দিয়েছি, এসএসসি সার্টিফিকেট চাইছে, আমি তো এসএসসি পাস করিনি, কী করব?",ssc_certificate_for_correction
+"ভোটার আইডি তথ্য সংশোধনের সময় এসএসসি সনদ চাইছে, আমি এসএসসি দিইনি, তাহলে কী করব?",ssc_certificate_for_correction
+"এনআইডি আপডেট করার জন্য আবেদন করেছি, এসএসসি সনদ চাওয়া হয়েছে, কিন্তু আমি পাস করিনি, কী জমা দেব?",ssc_certificate_for_correction
+"ইসি অফিসে তথ্য সংশোধনের জন্য এসএসসি সনদ চেয়েছে, আমার তো এসএসসি নেই, এখন কী করব?",ssc_certificate_for_correction
+"এনআইডি সংশোধনের প্রক্রিয়ায় এসএসসি সনদ চাইছে, আমি এসএসসি পাশ করিনি, বিকল্প কী দেখাতে পারি?",ssc_certificate_for_correction
+জাতীয় পরিচয়পত্র সংশোধনে এসএসসি সনদ না থাকলে কীভাবে আবেদনটা সম্পূর্ণ করব?,ssc_certificate_for_correction
+"টিন নম্বর সংযোজন বা সংশোধন করতে, কি ডকুমেন্টস লাগে?",tin_number_correct_or_add_document
+এনআইডির তথ্য সংযোজন বা সংশোধন করতে কী ডকুমেন্টস লাগে?,tin_number_correct_or_add_document
+বাংলাদেশ নির্বাচন কমিশনে ভোটার তথ্য সংযোজন বা সংশোধন করতে কী কাগজ দিতে হবে?,tin_number_correct_or_add_document
+এনআইডিতে ঠিকানা সংযোজন বা সংশোধন করতে কী কী প্রমাণপত্র লাগে?,tin_number_correct_or_add_document
+ভোটার আইডিতে নাম সংযোজন বা বানান সংশোধন করতে কোন ডকুমেন্টস লাগবে?,tin_number_correct_or_add_document
+এনআইডির জন্মতারিখ সংযোজন বা সংশোধন করতে কী কাগজপত্র দরকার?,tin_number_correct_or_add_document
+ইসিতে ভোটার রেকর্ড সংযোজন বা সংশোধন করতে কী কী ডকুমেন্ট লাগবে?,tin_number_correct_or_add_document
+জাতীয় পরিচয়পত্রে বাবা মায়ের নাম সংযোজন বা সংশোধন করতে কোন কোন কাগজ লাগে?,tin_number_correct_or_add_document
+বর্তমান ও স্থায়ী ঠিকানা কি একই সাথে পরিবর্তনের জন্য আবেদন করা সম্ভব?,together_present_and_permanent_address_change
+এনআইডিতে বর্তমান ও স্থায়ী ঠিকানা কি একই সাথে পরিবর্তনের জন্য আবেদন করা যাবে?,together_present_and_permanent_address_change
+জাতীয় পরিচয়পত্রে বর্তমান আর স্থায়ী ঠিকানা কি একসাথে আপডেটের জন্য আবেদন করা যাবে?,together_present_and_permanent_address_change
+এনআইডির বর্তমান ও স্থায়ী ঠিকানা কি একই আবেদনে বদলানো যায়?,together_present_and_permanent_address_change
+এনআইডি তথ্যের বর্তমান আর স্থায়ী ঠিকানা কি একবারে সংশোধন করা সম্ভব?,together_present_and_permanent_address_change
+ভোটার তালিকার বর্তমান ও স্থায়ী ঠিকানা কি একটি আবেদনেই একসাথে আপডেট করা যায়?,together_present_and_permanent_address_change
+এনআইডিতে কি একটি ফর্মে বর্তমান ও স্থায়ী ঠিকানা দুটোই বদলানো যাবে?,together_present_and_permanent_address_change
+জাতীয় পরিচয়পত্রে বর্তমান ও স্থায়ী ঠিকানা কি একবারে পরিবর্তন করা যায়?,together_present_and_permanent_address_change
+Underaged হিসেবে এনআইডি কার্ডধারী ব্যক্তি কখন ভোটার হয়ে থাকেন?,underaged_card_holder_to_voter
+"Underaged এনআইডি কার্ড আছে, কখন থেকে আমি ভোটার হব?",underaged_card_holder_to_voter
+আন্ডারএজ হিসেবে এনআইডি নিলে কবে ভোটার ধরা হয়?,underaged_card_holder_to_voter
+অপ্রাপ্তবয়স্ক এনআইডি থাকলে কোন বয়সে ভোটার হওয়া যায়?,underaged_card_holder_to_voter
+কিশোর এনআইডি কার্ডধারী কবে ভোটার তালিকায় যুক্ত হন?,underaged_card_holder_to_voter
+Underage এনআইডি থাকলে বাংলাদেশ নির্বাচন কমিশনের নিয়মে কখন ভোটার হওয়া শুরু হয়?,underaged_card_holder_to_voter
+১৮ বছরের নিচে এনআইডি করলে কবে থেকে ভোটার হিসেবে তালিকাভুক্ত হব?,underaged_card_holder_to_voter
+আন্ডারএজ এনআইডি হোল্ডাররা কোন সময়ে ভোট দিতে পারবেন?,underaged_card_holder_to_voter
+"নির্বাচন কমিশনের ওয়েবসাইটে “অপ্রত্যাশিত সমস্যার জন্য দুঃখিত” দেখায়, এখন কী করব?",unexpected_online_problem
+"ইসির অনলাইন সেবায় “অপ্রত্যাশিত সমস্যার জন্য দুঃখিত” আসছে, কী করা উচিত?",unexpected_online_problem
+ইসির ভোটার সেবা পেজে “অপ্রত্যাশিত সমস্যার জন্য দুঃখিত” দেখালে কী করণীয়?,unexpected_online_problem
+"নির্বাচন কমিশনের অনলাইন আবেদন দিতে গেলে “অপ্রত্যাশিত সমস্যার জন্য দুঃখিত” দেখায়, কী করব?",unexpected_online_problem
+"ইসির সাইটে বারবার “অপ্রত্যাশিত সমস্যার জন্য দুঃখিত” দেখাচ্ছে, কীভাবে ঠিক করব?",unexpected_online_problem
+"বাংলাদেশ ইসির পোর্টাল খুললে “অপ্রত্যাশিত সমস্যার জন্য দুঃখিত” দেখা যাচ্ছে, কী করা যায়?",unexpected_online_problem
+"ইসির ওয়েব পোর্টালে “অপ্রত্যাশিত সমস্যার জন্য দুঃখিত” এরর দেখায়, এখন কী করণীয়?",unexpected_online_problem
+"নির্বাচন কমিশনের ভোটার সেবায় “অপ্রত্যাশিত সমস্যার জন্য দুঃখিত” দেখাচ্ছে, কীভাবে এগোব?",unexpected_online_problem
+এনআইডি কার্ড সংশোধন হয়ে গেছে কিন্তু আইডি কার্ড কিভাবে পাবো?,updated_nid_after_correction
+"এনআইডি আপডেট সম্পন্ন, ইসি অফিস থেকে আইডি কার্ড তুলবো কীভাবে?",updated_nid_after_correction
+"এনআইডি ঠিক করা হয়েছে, প্রিন্টেড স্মার্টকার্ড কবে আর কীভাবে হাতে পাবো?",updated_nid_after_correction
+"সংশোধন অনুমোদিত, বাংলাদেশ নির্বাচন কমিশন থেকে কার্ড পাওয়ার নিয়মটা কী?",updated_nid_after_correction
+"আপডেট হয়ে গেছে, ইসি থেকে কার্ড ডেলিভারি কবে পাওয়া যায় এবং নেওয়ার উপায় কী?",updated_nid_after_correction
+"এনআইডি কারেকশন শেষ, কার্ড তুলতে কোন কাগজ লাগবে এবং কোথায় যেতে হবে?",updated_nid_after_correction
+"এনআইডি ঠিকঠাক হয়েছে, অনলাইন কপি বা প্রিন্ট কার্ড পাওয়ার উপায় কী নির্বাচন কমিশনে?",updated_nid_after_correction
+"এনআইডি সংশোধিত, উপজেলা নির্বাচন অফিস থেকে কার্ড কিভাবে পাবো?",updated_nid_after_correction
+"নিজ নামে ইউটিলিটি বিল (পানি, বিদ্যুত, গ্যাস) নাই, ভোটার ঠিকানা পরিবর্তনের জন্য আবেদন করবো, করনীয় কি?",utility_bill_not_available_for_address_proof
+"নিজের নামে কোনো ইউটিলিটি বিল নাই, বাংলাদেশ নির্বাচন কমিশনে ঠিকানা আপডেটের জন্য কী কী কাগজ লাগবে?",utility_bill_not_available_for_address_proof
+ইউটিলিটি বিল আমার নামে না থাকলে ভোটার ঠিকানা ট্রান্সফার করতে করণীয় কী?,utility_bill_not_available_for_address_proof
+"ভাড়া থাকি, বিল মালিকের নামে, ভোটার ঠিকানা পরিবর্তনের আবেদন কীভাবে করব?",utility_bill_not_available_for_address_proof
+ইউটিলিটি বিল না থাকলে নির্বাচন কমিশনে ভোটার ঠিকানা বদলের নিয়মটা কী?,utility_bill_not_available_for_address_proof
+"নিজের নামে পানি বিদ্যুৎ গ্যাসের বিল নেই, ভোটার ঠিকানা আপডেট করতে কী করতে হবে?",utility_bill_not_available_for_address_proof
+"বিল আমার নামে নয়, ভোটার রেকর্ডে ঠিকানা পরিবর্তনের জন্য আবেদন কিভাবে দেব?",utility_bill_not_available_for_address_proof
+ইউটিলিটি বিল নিজের নামে না হলে ভোটার ঠিকানা পরিবর্তনের সময় বিকল্প প্রমাণ হিসেবে কী দেখাতে হয়?,utility_bill_not_available_for_address_proof
+"স্থায়ী ঠিকানায় ভোটার হয়েছিলাম, এখন বর্তমান ঠিকানার ভোটার হতে চাই, করণীয় কি?",voter_area_change
+"স্থায়ী ঠিকানায় ভোটার আছি, এখন বর্তমান ঠিকানায় ভোটার হতে চাই, কী করব?",voter_area_change
+"আগে স্থায়ী ঠিকানায় ভোটার নিবন্ধন করেছিলাম, বর্তমান বাসার ঠিকানায় নিতে চাই, করণীয় কী?",voter_area_change
+"ইসির কাছে স্থায়ী ঠিকানায় আমার ভোটার তথ্য আছে, এখন বর্তমান ঠিকানায় স্থানান্তর করতে চাই, প্রক্রিয়াটা কী?",voter_area_change
+স্থায়ী ঠিকানার ভোটার নিবন্ধন বর্তমান ঠিকানায় কিভাবে বদলাবো?,voter_area_change
+স্থায়ী ঠিকানা থেকে বর্তমান ঠিকানায় ভোটার স্থানান্তর করতে হলে ইসির নিয়ম কী?,voter_area_change
+স্থায়ী ঠিকানার ভোটার তালিকা থেকে বর্তমান ঠিকানায় নাম স্থানান্তর করতে কী করতে হবে?,voter_area_change
+"স্থায়ী ঠিকানার ভোটার হওয়ার পর বর্তমান ঠিকানায় নিবন্ধন বদলাতে চাই, করণীয় কী?",voter_area_change
+"ভোটার স্থানান্তরের আবেদন করেছিলাম, অনুমোদন হয়েছে কিন্তু তথ্য পরিবর্তন হয়নি। কি করণীয়?",voter_area_change_not_reflected
+"ভোটার স্থানান্তর অ্যাপ্রুভ হলেও তথ্য আপডেট হয়নি, ইসি তে কি আবার যেতে হবে?",voter_area_change_not_reflected
+"NID অনলাইনে ট্রান্সফার স্ট্যাটাস অ্যাপ্রুভ দেখায়, কিন্তু ডেটা আপডেট হয়নি। কোথায় যোগাযোগ করব?",voter_area_change_not_reflected
+"ভোটার এলাকা বদলের আবেদন পাস হয়েছে, তবু কার্ডে পুরোনো তথ্য আছে। এরপর কী করতে হবে?",voter_area_change_not_reflected
+"স্থানান্তরের এসএমএসে অনুমোদন এসেছে, কিন্তু সিস্টেমে আপডেট নেই। সমাধান কী?",voter_area_change_not_reflected
+ভোটার ট্রান্সফার অ্যাপ্রুভ হলেও ইসি পোর্টালে পুরোনো ঠিকানাই দেখা যাচ্ছে। কীভাবে ফলোআপ করব?,voter_area_change_not_reflected
+"ভোটার তালিকা স্থানান্তর অনুমোদিত, তবু নতুন ঠিকানা প্রতিফলিত হয়নি। এখন পরবর্তী ধাপ কী?",voter_area_change_not_reflected
+ট্রান্সফার রিকোয়েস্ট অনুমোদিত হলেও তথ্য আপডেট দেরি করছে। অপেক্ষা করব নাকি অভিযোগ করব?,voter_area_change_not_reflected
+ইসি তে ভোটার স্থানান্তরের আবেদন প্রক্রিয়াধীন থাকলে কি তথ্য সংশোধনের আবেদন করা যাবে?,voter_area_change_ongoing
+বাংলাদেশ নির্বাচন কমিশনে ট্রান্সফার আবেদন পেন্ডিং থাকলে সংশোধন দেওয়া সম্ভব কি?,voter_area_change_ongoing
+ভোটার ঠিকানা পরিবর্তনের আবেদন চলাকালীন ইসিতে নাম বা জন্মতারিখ সংশোধন করা যাবে কি?,voter_area_change_ongoing
+"স্থানান্তরের আবেদন চলছে, এই সময়ে নির্বাচন কমিশনে তথ্য আপডেট বা সংশোধন নেওয়া হয় কি?",voter_area_change_ongoing
+ট্রান্সফার রিকোয়েস্ট প্রোসেসে থাকলে একসাথে তথ্য সংশোধনের আবেদন করা যাবে নাকি অপেক্ষা করতে হবে?,voter_area_change_ongoing
+ভোটার এলাকা বদলের আবেদন প্রক্রিয়াধীন থাকলে ইসি কি সংশোধনের আবেদন গ্রহণ করে?,voter_area_change_ongoing
+চলমান ভোটার ট্রান্সফার থাকলে একই সময়ে সংশোধনের নতুন আবেদন দেওয়া যাবে কি?,voter_area_change_ongoing
+নির্বাচন কমিশনে ট্রান্সফার প্রসেসিং চলমান অবস্থায় এনআইডির তথ্য সংশোধন করা সম্ভব কি?,voter_area_change_ongoing
+ভোটার ঠিকানা পরিবর্তনের আবেদন কি অনলাইনে দেওয়া যায়?,voter_area_change_online
+নির্বাচন কমিশনের ওয়েবসাইটে কি ভোটার এলাকা পরিবর্তনের আবেদন করা যাবে?,voter_area_change_online
+অনলাইনে কি ভোটার এলাকা পরিবর্তনের ফর্ম জমা দেওয়া যায়?,voter_area_change_online
+ভোটার এলাকা আপডেটের আবেদন কি নির্বাচন কমিশনের অনলাইন সেবায় করা যাবে?,voter_area_change_online
+ভোটার এলাকা শিফট করতে কি অনলাইনে আবেদন করা যায়?,voter_area_change_online
+ইন্টারনেটে কি বাংলাদেশ নির্বাচন কমিশনের মাধ্যমে ভোটার এলাকা পরিবর্তন করা যাবে?,voter_area_change_online
+ভোটার এলাকা বদলের অনলাইন অপশন কি কমিশনের সাইটে আছে?,voter_area_change_online
+আমি কি অনলাইনে ভোটার এলাকা পরিবর্তনের আবেদন করতে পারব?,voter_area_change_online
+"ঠিকানা পরিবর্তনের আবেদনে পূর্বের ভোটার এলাকার তথ্য প্রয়োজন, কিভাবে পাবো?",voter_area_query
+"ঠিকানা পরিবর্তনের আবেদনে আগের ভোটার এলাকার তথ্য দরকার, কোথায় পাবো?",voter_area_query
+"ঠিকানা পরিবর্তন করতে আবেদন দিচ্ছি, পূর্বের ভোটার এলাকার তথ্য কিভাবে সংগ্রহ করবো?",voter_area_query
+"ঠিকানা পরিবর্তনের ফর্মে পুরনো ভোটার এলাকার তথ্য চাইছে, এটা কোথায় পাবো?",voter_area_query
+"ঠিকানা বদলের সময় আগের ভোটার এলাকা নিশ্চিত করতে হবে, নির্বাচন কমিশন থেকে কীভাবে নেব?",voter_area_query
+"ঠিকানা আপডেটের আবেদন করতে পূর্বের ভোটার এলাকার বিবরণ প্রয়োজন, কোথা থেকে পাব?",voter_area_query
+ঠিকানা পরিবর্তনের আবেদনে পূর্বের ভোটার এলাকার তথ্য কিভাবে বের করব?,voter_area_query
+"আমার ভোটার এলাকার নাম, নম্বর ও ভোটার নম্বর কিভাবে পাবো?",voter_area_query
+ইসির সেবায় আমার ভোটার এলাকার নাম ও নম্বর আর ভোটার সিরিয়াল নম্বর কীভাবে পাব?,voter_area_query
+আমার ভোটার এরিয়ার নাম আর কোড এবং ভোটার সিরিয়াল নম্বর কোথায় থেকে পাব?,voter_area_query
+নির্বাচন কমিশনের ওয়েবসাইটে আমার ভোটার এলাকার নাম নম্বর আর ভোটার নম্বর কীভাবে খুঁজে পাব?,voter_area_query
+আমার ভোটার এলাকা ও নম্বরসহ ভোটার সিরিয়াল জানার সহজ উপায়টা কী?,voter_area_query
+ইসি থেকে আমার ভোটার এলাকার নাম নম্বর আর ভোটার সিরিয়াল কিভাবে বের করব?,voter_area_query
+"আমার ভোটার এলাকা, এরিয়া নম্বর আর ভোটার সিরিয়াল কোথায় দেখব?",voter_area_query
+নির্বাচন কমিশনের মাধ্যমে আমার ভোটার এরিয়ার নাম নম্বর ও ভোটার সিরিয়াল কীভাবে চেক করব?,voter_area_query
+ইসির অনলাইনে আমার ভোটার এলাকার নাম নম্বর আর সিরিয়াল কিভাবে দেখব?,voter_area_query
+"আমার জাতীয় পরিচয়পত্রের অংশবিশেষ পুড়ে গেছে/ পোকায় খেয়েছে, রিইস্যুর জন্য জিডি করতে হবে?",voter_card_damaged
+"আমার এনআইডির কিছু অংশ ক্ষতিগ্রস্ত হয়েছে, রিইস্যু করতে কি জিডি লাগবে?",voter_card_damaged
+"কার্ডটা একটু পুড়ে গেছে আর লেখা মুছে গেছে, রিইস্যুর জন্য কি জিডি দরকার?",voter_card_damaged
+"জাতীয় পরিচয়পত্র ভিজে নষ্ট হয়েছে, রিইস্যু করতে কি থানায় জিডি করতে হয়?",voter_card_damaged
+"চিপ ঠিক আছে কিন্তু কার্ডের অংশ নষ্ট, রিইস্যুর জন্য কি জিডি আবশ্যক?",voter_card_damaged
+এনআইডি ক্ষতিগ্রস্ত হলে ডুপ্লিকেটের আবেদন দিতে জিডি লাগবে কি?,voter_card_damaged
+কার্ডটা আর ব্যবহারযোগ্য না থাকলে রিইস্যুর প্রক্রিয়ায় জিডি দিতে হবে কি?,voter_card_damaged
+"জাতীয় পরিচয়পত্র আংশিক নষ্ট, বাংলাদেশ নির্বাচন কমিশনে রিইস্যুর জন্য কি জিডি প্রয়োজন?",voter_card_damaged
+আমি হালনাগাদে ভোটার হিসেবে রেজিষ্ট্রেশন করতে পারিনি। এখন কিভাবে নতুন ভোটার হব?,voter_halnagad_registration_not_done
+"হালনাগাদ সময়ে ভোটার রেজিস্ট্রেশন মিস করেছি, এখন ইসিতে নতুন ভোটার হিসেবে কীভাবে নাম তুলব?",voter_halnagad_registration_not_done
+"ভোটার আপডেট ক্যাম্পেইনে নিবন্ধন হয়নি, এখন বাংলাদেশ নির্বাচন কমিশনে নতুন ভোটার হওয়ার উপায় কী?",voter_halnagad_registration_not_done
+"হালনাগাদে নাম তুলতে পারিনি, এখন নির্বাচন কমিশনের কাছে নতুন ভোটার হতে কী করতে হবে?",voter_halnagad_registration_not_done
+"আমি আপডেট সময়টা মিস করেছি, এখন ইসির মাধ্যমে নতুন ভোটার রেজিস্ট্রেশন কীভাবে করব?",voter_halnagad_registration_not_done
+"আমি হালনাগাদে আবেদন করতে পারিনি, এখন নতুন ভোটার হিসেবে ইসিতে কীভাবে আবেদন করব?",voter_halnagad_registration_not_done
+"ভোটার তালিকার হালনাগাদে বাদ পড়ে গেছি, এখন নির্বাচন কমিশনের নিয়মে নতুন ভোটার হতে কী লাগবে?",voter_halnagad_registration_not_done
+"আপডেটে রেজিস্ট্রেশন হয়নি, এখন বাংলাদেশ নির্বাচন কমিশনের কাছে নতুন ভোটার হতে কী কী ধাপ আছে?",voter_halnagad_registration_not_done
+"ভোটার স্থানান্তর করেছি, রি ইস্যুর জন্য করণীয় কি?",voter_migration_done_now_what_to_do_for_reissue
+"ভোটার এলাকা বদলেছি, রি ইস্যুর জন্য কী করতে হবে?",voter_migration_done_now_what_to_do_for_reissue
+"ভোটার ঠিকানা বদলেছে, রি ইস্যুর করণীয়গুলো কী?",voter_migration_done_now_what_to_do_for_reissue
+ভোটার স্থানান্তরের পর এনআইডি রি ইস্যু করতে কোথায় যেতে হবে?,voter_migration_done_now_what_to_do_for_reissue
+ভোটার ঠিকানা পরিবর্তনের পর রি ইস্যু আবেদন কীভাবে দেব?,voter_migration_done_now_what_to_do_for_reissue
+ভোটার ট্রান্সফারের পরে রি ইস্যুর জন্য কী কী কাগজ লাগবে?,voter_migration_done_now_what_to_do_for_reissue
+ভোটার স্থানান্তরের পর রি ইস্যুর ফি কত এবং ধাপগুলো কী?,voter_migration_done_now_what_to_do_for_reissue
+"ভোটার ট্রান্সফার করেছি, নির্বাচন কমিশন থেকে রি ইস্যু পেতে কী লাগবে?",voter_migration_done_now_what_to_do_for_reissue
+"ভোটার স্লিপ হারিয়েছি, ভোটার তালিকায় নাম খুঁজে পাচ্ছি না, তবে মোবাইলে স্লিপের ছবি আছে। এখন কার্ডটা কিভাবে তুলব?",voter_slip_lost_how_to_get_new_card
+"আমার ভোটার স্লিপ নেই, ভোটার লিস্টেও নাম মিলছে না, কিন্তু ছবি সেভ আছে। নির্বাচন কমিশন থেকে কার্ড নিতে কী করতে হবে?",voter_slip_lost_how_to_get_new_card
+"স্লিপটা হারিয়ে গেছে, তালিকায় নাম পাওয়া যাচ্ছে না, তবে মোবাইলে ছবি আছে। স্লিপ ছাড়া কি কার্ড দেওয়া হবে?",voter_slip_lost_how_to_get_new_card
+"ভোটার স্লিপ নাই, ভোটার তালিকায় খুঁজে পাই না, শুধু ছবি আছে। ইসি অফিস থেকে কীভাবে কার্ড সংগ্রহ করব?",voter_slip_lost_how_to_get_new_card
+"স্লিপ হারালে আর তালিকায় নাম না পেলে, ছবি দেখিয়ে কি কার্ড তোলা যাবে?",voter_slip_lost_how_to_get_new_card
+"ভোটার স্লিপ হারালে কার্ড তুলতে কী কী লাগে, লিস্টে নাম না থাকলে ছবি দেখালেই হবে?",voter_slip_lost_how_to_get_new_card
+"ভোটার স্লিপ হারিয়েছি, ভোটার লিস্টে নাম পাই না, ছবি আছে। উপজেলা নির্বাচন অফিসে গিয়ে কি কার্ড পাওয়া যাবে?",voter_slip_lost_how_to_get_new_card
+"স্লিপ হারিয়ে গেছে আর লিস্টে নাম নেই, মোবাইলে ছবি আছে। এনআইডি কার্ড তুলতে পরবর্তী ধাপ কী?",voter_slip_lost_how_to_get_new_card
+"আমার নিবন্ধন স্লিপ অথবা এনআইডি কার্ডটি হারিয়ে গেছে, এনআইডি কার্ড পাবো কীভাবে?",voter_slip_lost_how_to_get_nid
+"আমার রেজিস্ট্রেশন স্লিপ বা এনআইডি হারিয়ে গেছে, নির্বাচন কমিশন থেকে নতুন এনআইডি পাবো কীভাবে?",voter_slip_lost_how_to_get_nid
+"রেজিস্ট্রেশন স্লিপ আর এনআইডি দুটোই খোয়া গেছে, ইসি থেকে ডুপ্লিকেট কার্ড তুলতে কী করতে হবে?",voter_slip_lost_how_to_get_nid
+হারানো এনআইডি পুনরায় ইস্যু করতে ইসি অফিসে কোন প্রক্রিয়ায় আবেদন করব?,voter_slip_lost_how_to_get_nid
+"আমার এনআইডি আর রেজিস্ট্রেশন রশিদ নেই, নির্বাচন কমিশন থেকে নতুন কার্ড পাওয়ার উপায় কী?",voter_slip_lost_how_to_get_nid
+স্লিপ ছাড়া এনআইডির ডুপ্লিকেট কার্ড ইসি থেকে কিভাবে পাবো?,voter_slip_lost_how_to_get_nid
+অনলাইনে নির্বাচন কমিশনের মাধ্যমে হারানো এনআইডি রিইস্যু করার ধাপগুলো কী?,voter_slip_lost_how_to_get_nid
+এনআইডি ও রেজিস্ট্রেশন স্লিপ দুটিই হারালে ইসি থেকে কার্ডটা আবার তুলতে কী কী করতে হবে?,voter_slip_lost_how_to_get_nid
+"সংশোধনের আবেদন বাতিল করতে চাই, কিভাবে?",way_to_cancel_correction_application
+ইসিতে দেওয়া সংশোধন আবেদন কীভাবে প্রত্যাহার করব?,way_to_cancel_correction_application
+ইসিতে দেওয়া ভোটার তথ্য সংশোধনের আবেদন কীভাবে বাতিল করব?,way_to_cancel_correction_application
+"এনআইডি সংশোধনের আবেদন ভুল করে দিয়েছি, নির্বাচন কমিশনে কীভাবে ফিরিয়ে নেব?",way_to_cancel_correction_application
+"ইসির অনলাইন সংশোধন আবেদন বন্ধ করতে চাই, প্রক্রিয়াটা কী?",way_to_cancel_correction_application
+"ইসির ভোটার নিবন্ধনের সংশোধন আবেদন প্রত্যাহার করতে চাই, কীভাবে করবো?",way_to_cancel_correction_application
+নির্বাচন কমিশনের কাছে দেওয়া সংশোধন রিকোয়েস্ট কীভাবে বাতিল করা যায়?,way_to_cancel_correction_application
+এনআইডি কার্ড করার জন্য কি দ্বৈত নাগরিকত্ব প্রয়োজন হয়?,whether_nid_card_required_for_dual_citizenship
+জাতীয় পরিচয়পত্র পেতে কি দ্বৈত নাগরিক হতে হবে?,whether_nid_card_required_for_dual_citizenship
+বাংলাদেশ নির্বাচন কমিশনের এনআইডি ইস্যুর জন্য কি দ্বৈত নাগরিকত্ব বাধ্যতামূলক?,whether_nid_card_required_for_dual_citizenship
+নির্বাচন কমিশনের এনআইডি কার্ড বানাতে কি ডুয়াল সিটিজেনশিপ দরকার?,whether_nid_card_required_for_dual_citizenship
+এনআইডি তোলার সময় কি দ্বৈত নাগরিকত্বের শর্ত আছে?,whether_nid_card_required_for_dual_citizenship
+জাতীয় পরিচয়পত্র করাতে কি ডুয়াল সিটিজেনশিপ থাকা লাগে নাকি?,whether_nid_card_required_for_dual_citizenship
+ইসির এনআইডি পেতে কি দ্বৈত নাগরিকত্ব থাকা বাধ্যতামূলক?,whether_nid_card_required_for_dual_citizenship
+নির্বাচন কমিশনের জাতীয় পরিচয়পত্রের জন্য কি ডুয়াল সিটিজেনশিপ দরকার পড়ে?,whether_nid_card_required_for_dual_citizenship
+দ্বৈত নাগরিকত্ব সনদ বিষয়ে কার সাথে যোগাযোগ করা যেতে পারে?,whom_to_communicate_for_dual_citizenship_certificate
+দ্বৈত নাগরিকত্ব সনদ বিষয়ে ইসিতে কার সাথে যোগাযোগ করবো?,whom_to_communicate_for_dual_citizenship_certificate
+দ্বৈত নাগরিকত্ব সনদ নিয়ে নির্বাচন কমিশনে কাকে কল করা উচিত?,whom_to_communicate_for_dual_citizenship_certificate
+দ্বৈত নাগরিকত্ব সনদ সংক্রান্ত ইসির দায়িত্বপ্রাপ্ত কর্মকর্তা কে?,whom_to_communicate_for_dual_citizenship_certificate
+দ্বৈত নাগরিকত্ব সনদ বিষয়ে নির্বাচন কমিশনের কোন শাখায় কথা বলবো?,whom_to_communicate_for_dual_citizenship_certificate
+দ্বৈত নাগরিকত্ব সনদ নিয়ে ইসির কোন ডেস্কে যোগাযোগ করবো?,whom_to_communicate_for_dual_citizenship_certificate
+দ্বৈত নাগরিকত্ব সনদ নিয়ে ইসির হেল্পলাইনে কার সাথে কথা বলবো?,whom_to_communicate_for_dual_citizenship_certificate
+দ্বৈত নাগরিকত্ব সনদ বিষয়ে নির্বাচন কমিশনে কার সাথে যোগাযোগ করা যায়?,whom_to_communicate_for_dual_citizenship_certificate
+নতুন ভোটার হতে হলে কী করতে হবে?,wish_to_create_nid_smart_card_new
+নতুন ভোটার হিসেবে নিবন্ধন করতে চাই কীভাবে করব?,wish_to_create_nid_smart_card_new
+বাংলাদেশ নির্বাচন কমিশনে নতুন ভোটার রেজিস্ট্রেশন কোথায় ও কীভাবে করব?,wish_to_create_nid_smart_card_new
+প্রথমবার ভোটার হতে চাই আবেদনটা কীভাবে দেব?,wish_to_create_nid_smart_card_new
+নতুন ভোটার হতে অনলাইনে আবেদন করা যায় কি?,wish_to_create_nid_smart_card_new
+নতুন ভোটার হওয়ার জন্য কোন কোন কাগজ লাগবে?,wish_to_create_nid_smart_card_new
+ইসিতে নতুন ভোটার হিসেবে নাম তুলতে চাই কী করব?,wish_to_create_nid_smart_card_new
+নতুন ভোটার আইডি করতে চাই প্রক্রিয়াটা কী?,wish_to_create_nid_smart_card_new
+আমার নাম নতুন ভোটার তালিকায় তুলতে চাই কীভাবে?,wish_to_create_nid_smart_card_new
+বাংলাদেশ নির্বাচন কমিশনের মাধ্যমে নতুন ভোটার হতে গেলে কোথায় যাব?,wish_to_create_nid_smart_card_new
+আমি জাতীয় পরিচয়পত্র করতে চাই?,wish_to_create_nid_smart_card_new
+"আমি জাতীয় পরিচয়পত্র করতে চাই, কীভাবে করব?",wish_to_create_nid_smart_card_new
+"নতুন জাতীয় পরিচয়পত্র করতে চাই, প্রক্রিয়াটা কী?",wish_to_create_nid_smart_card_new
+"আমি NID করতে চাই, কোথায় আবেদন করব?",wish_to_create_nid_smart_card_new
+নির্বাচন কমিশনের মাধ্যমে জাতীয় পরিচয়পত্র করতে হলে কী করতে হবে?,wish_to_create_nid_smart_card_new
+প্রথমবারের জাতীয় পরিচয়পত্র কীভাবে করব?,wish_to_create_nid_smart_card_new
+জাতীয় পরিচয়পত্র বানাতে কী কী কাগজ লাগবে?,wish_to_create_nid_smart_card_new
+"ইসির NID করতে চাই, নিয়মটা কী?",wish_to_create_nid_smart_card_new
+এখন NID করতে হলে কোথায় যেতে হবে?,wish_to_create_nid_smart_card_new
+নির্বাচন কমিশনে জাতীয় পরিচয়পত্রের জন্য কীভাবে রেজিস্ট্রেশন করব?,wish_to_create_nid_smart_card_new
+নতুন এনআইডি কার্ড করতে করণীয় কি?,wish_to_create_nid_smart_card_new
+নতুন এনআইডি করতে কী কী করতে হবে?,wish_to_create_nid_smart_card_new
+নতুন এনআইডির জন্য আবেদন কীভাবে করব?,wish_to_create_nid_smart_card_new
+নির্বাচন কমিশনে নতুন এনআইডি করতে কী করতে হবে?,wish_to_create_nid_smart_card_new
+বাংলাদেশ নির্বাচন কমিশনের মাধ্যমে নতুন এনআইডি করার নিয়ম কী?,wish_to_create_nid_smart_card_new
+"অনলাইনে আবেদন করার পর দেখছি তথ্যে ভুল হয়েছে, সংশোধন করতে পারছি না, কি করবো?",wrong_information_in_online_application_what_to_do
+"নির্বাচন কমিশনের অনলাইন ফর্ম সাবমিটের পর দেখছি ডেটা ভুল গেছে, এডিট করতে পারছি না, সমাধান কী?",wrong_information_in_online_application_what_to_do
+"এনআইডির অনলাইন আবেদন দেওয়া হয়েছে, পরে ভুল তথ্য ধরা পড়েছে, নিজে সংশোধন করতে পারছি না, কীভাবে ঠিক করব?",wrong_information_in_online_application_what_to_do
+"ইসি অনলাইন সেবায় আবেদন করার পর ভুল এন্ট্রি দেখছি, পরিবর্তন করতে পারছি না, কী করণীয়?",wrong_information_in_online_application_what_to_do
+"নির্বাচন কমিশনের ওয়েবসাইটে আবেদন দেওয়ার পর ভুল তথ্য পেলাম, আপডেট করা যাচ্ছে না, পরবর্তী পদক্ষেপ কী?",wrong_information_in_online_application_what_to_do
+"এনআইডি অনলাইনে আবেদন করার পর ডেটায় ভুল আছে, নিজে এডিট করতে পারছি না, কোথায় যোগাযোগ করব?",wrong_information_in_online_application_what_to_do
+"ইসি পোর্টালে আবেদন সাবমিট করেছি, পরে দেখছি তথ্য মিসম্যাচ, সংশোধন করা যাচ্ছে না, কীভাবে এগোবো?",wrong_information_in_online_application_what_to_do
+"নির্বাচন কমিশনের অনলাইন আবেদন শেষে তথ্য ভুল ধরা পড়েছে, নিজে ঠিক করা যাচ্ছে না, কী করণীয় হবে?",wrong_information_in_online_application_what_to_do
+"বাংলাদেশ নির্বাচন কমিশনের ওয়েবসাইটে লগইন করতে গেলে ভুল পাসওয়ার্ড দেখায়, কী করব?",wrong_password_in_registration
+"নির্বাচন কমিশনের অনলাইন পোর্টালে সাইন ইন করলে ভুল পাসওয়ার্ড দেখায়, সমাধান কী?",wrong_password_in_registration
+"ইসি পোর্টালে লগইন করতে গিয়ে ভুল পাসওয়ার্ড মেসেজ আসে, এখন কী করা উচিত?",wrong_password_in_registration
+"NID অনলাইন সেবায় লগইন দিলে ভুল পাসওয়ার্ড দেখায়, কীভাবে ঠিক করব?",wrong_password_in_registration
+"বাংলাদেশ নির্বাচন কমিশনের অ্যাকাউন্টে ঢুকতে গেলে পাসওয়ার্ড ভুল দেখাচ্ছে, কী করব?",wrong_password_in_registration
+নির্বাচন কমিশনের সাইটে লগইনের সময় ভুল পাসওয়ার্ড দেখালে কী করণীয়?,wrong_password_in_registration
+"ইসি অনলাইন সেবায় সাইন ইন করতে গেলে পাসওয়ার্ড ভুল দেখাচ্ছে, কী করলে হবে?",wrong_password_in_registration
+"এনআইডি Portal-এ লগইনের চেষ্টা করছি বারবার ভুল পাসওয়ার্ড দেখাচ্ছে, কি করবো?",wrong_password_in_registration
+"বাংলাদেশ নির্বাচন কমিশনের এনআইডি পোর্টালে লগইন করতে গেলে সবসময় ভুল পাসওয়ার্ড দেখায়, কী করবো?",wrong_password_in_registration
+"এনআইডি অনলাইন পোর্টালে সাইন ইন করতে পারছি না, বারবার পাসওয়ার্ড ভুল দেখাচ্ছে, এখন কী করা উচিত?",wrong_password_in_registration
+"ইসি এনআইডি পোর্টালে লগইন করতে গেলে ভুল পাসওয়ার্ড দেখায়, রিসেট করব নাকি অন্য কিছু করবো?",wrong_password_in_registration
+"এনআইডি সেবাপোর্টালে বারবার ভুল পাসওয়ার্ড এরর আসছে, কিভাবে ঠিক করব?",wrong_password_in_registration
+"এনআইডি পোর্টালে পাসওয়ার্ড সঠিক দিলেও ভুল দেখায়, এ অবস্থায় করণীয় কী?",wrong_password_in_registration
+"নির্বাচন কমিশনের এনআইডি পোর্টালে লগইন বারবার ফেল করছে ভুল পাসওয়ার্ড দেখায়, কীভাবে সমাধান করব?",wrong_password_in_registration
+"এনআইডি অ্যাকাউন্টে লগইন করতে গেলেই ভুল পাসওয়ার্ড বলে ফিরে আসে, কী করা যায়?",wrong_password_in_registration
+"এনআইডি পোর্টালে বারংবার ভুল পাসওয়ার্ড দেখায় বলে লগইন হচ্ছে না, কীভাবে ঢুকব?",wrong_password_in_registration
+"ভুল করে জীবিত পিতা/মাতা/স্বামী/স্ত্রীর নামের পূর্বে মৃত এসেছে, করণীয় কি?",wrongly_dead_declared
+"নির্বাচন কমিশনের রেকর্ডে জীবিত অভিভাবক বা সঙ্গীর নামের আগে মৃত এসেছে, সমাধান কী?",wrongly_dead_declared
+"ভোটার তালিকায় জীবিত মায়ের নামের আগে মৃত বসানো হয়েছে, সংশোধন করতে কী করতে হবে?",wrongly_dead_declared
+এনআইডিতে জীবিত স্বামীর নাম মৃত দেখালে দ্রুত কীভাবে সংশোধন করা যায়?,wrongly_dead_declared
+"নির্বাচন কমিশনের ডাটায় জীবিত স্ত্রীর নামের আগে মৃত দেখাচ্ছে, পরিবর্তনের প্রক্রিয়া কী?",wrongly_dead_declared
+"আমার এনআইডিতে জীবিত পিতার নামে মৃত এসেছে, এটা ঠিক করতে করণীয় কী?",wrongly_dead_declared
+ভোটার রোলে জীবিত মা বা স্বামীর নামের আগে মৃত লেখা থাকলে কী করব?,wrongly_dead_declared
+এনআইডি কার্ডে জীবিত সঙ্গীর নামে মৃত দেখালে কীভাবে ঠিক করব?,wrongly_dead_declared
+ভুলক্রমে পিতা/স্বামী/মাতাকে মৃত হিসেবে উল্লেখ করা হলে সংশোধনের জন্য কি কি সনদ দাখিল করতে হবে?,wrongly_dead_declared
+ভুলক্রমে পিতা বা স্বামী বা মাতাকে মৃত দেখানো হলে সংশোধনের জন্য কী কী সনদ জমা দিতে হবে?,wrongly_dead_declared
+এনআইডিতে পিতা বা মাতা বা স্বামীকে ভুলে মৃত দেখানো হলে নির্বাচন কমিশনে সংশোধনের জন্য কোন কোন কাগজপত্র লাগবে?,wrongly_dead_declared
+ভোটার তালিকায় পিতা বা স্বামী বা মাতার মৃত্যু স্ট্যাটাস ভুল হলে ঠিক করতে কী কী দলিল দাখিল করতে হবে?,wrongly_dead_declared
+বাংলাদেশ নির্বাচন কমিশনে পিতা বা মাতা বা স্বামীকে মৃত দেখানো ভুল সংশোধনে কোন কোন সাপোর্টিং ডকুমেন্ট লাগে?,wrongly_dead_declared
+এনআইডি রেকর্ড থেকে পিতা বা স্বামী বা মায়ের মৃত স্ট্যাটাস উঠাতে কী কী সনদ লাগবে?,wrongly_dead_declared
+ভোটার আইডির তথ্যভান্ডারে পিতা বা মাতা বা স্বামীকে ভুল করে মৃত দেখানো হলে সংশোধনে কী কী কাগজ দিতে হয়?,wrongly_dead_declared
+পিতা বা মাতা বা স্বামীকে মৃত হিসেবে দেখানোর ভুলের সংশোধনের জন্য নির্বাচন কমিশনে কোন কোন সনদ দাখিল করা লাগবে?,wrongly_dead_declared
+নির্বাচন কমিশনের এনআইডি ডাটায় পিতা বা স্বামী বা মাকে মৃত দেখানো হলে সংশোধনের জন্য কী কী কাগজপত্র জমা দিতে হবে?,wrongly_dead_declared
