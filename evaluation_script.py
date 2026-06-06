@@ -14,14 +14,14 @@ RESET = "\033[0m"
 logger.remove()
 
 logger.add(
-    "bge-m3/bge-m3-story-updated2-evaluation_threshold_0.6.log",
+    "bge-m3-vs-e5/irrelevant-query-evaluation.log",
     format="<yellow>[{time:YYYY-MM-DD HH:mm:ss}]</yellow> <level>{level}</level> <cyan>{message}</cyan>",
     level="INFO",
     encoding="utf-8"
 )
 
 logger.add(
-    "bge-m3/bge-m3-story-updated2-evaluation_mismatches_threshold_0.6.log",
+    "bge-m3-vs-e5/irrelevant-query-evaluation_mismatches.log",
     format="<yellow>[{time:YYYY-MM-DD HH:mm:ss}]</yellow> <level>{level}</level> <cyan>{message}</cyan>",
     level="INFO",
     encoding="utf-8",
@@ -35,7 +35,8 @@ logger.add(
 )
 
 # ---------- Data ----------
-csv_path = Path("ec_story_test.csv")
+# csv_path = Path("/home/synesis/Centralized_EC_Dataset/Test_Dataset/sts_eval.csv")
+csv_path = Path("/home/synesis/Centralized_EC_Dataset/Test_Dataset/irrelevant.csv")
 tag_answer_path = Path("tag_answer.csv")
 
 df = pd.read_csv(csv_path)

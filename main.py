@@ -2,11 +2,11 @@ import numpy as np
 from fastapi import FastAPI
 from pydantic import BaseModel
 from FlagEmbedding import BGEM3FlagModel
-import pandas as pd
+import pandas as pd 
 import faiss
 
 # --- Data loading ---
-qa_df = pd.read_csv('train.csv')   # expects columns 'question','tag'
+qa_df = pd.read_csv('/home/synesis/Centralized_EC_Dataset/Train_Dataset/sts_train.csv')   # expects columns 'question','tag'
 ans_df = pd.read_csv('tag_answer.csv')    # expects columns 'tag','answer'
 questions = qa_df['question'].tolist()
 tags = qa_df['tag'].tolist()
